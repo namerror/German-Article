@@ -1,15 +1,16 @@
+'''Stealing words to make my own dictionary, the data will be saved as a json file'''
 import requests
 from bs4 import BeautifulSoup
 import json
 
 URL = "https://www.verben.de/suche/substantive/"
 levels = {
-    11: "A1",
-    12: "A2",
-    21: "B1",
-    22: "B2",
-    31: "C1",
-    32: "C2"
+    "A1": 11,
+    "A2": 12,
+    "B1": 21,
+    "B2": 22,
+    "C1": 31,
+    "C2": 32
 }
 
 def get_words(url: str):
@@ -19,9 +20,11 @@ def get_words(url: str):
 
 def get_word(word: BeautifulSoup) -> dict:
     try:
-        base = word.find("div", class_="rAuf").div
-        noun = base.find("u").string
-        article = base.find("span", title=True).string
+        base = word.find("div", class_="rAuf")
+        noun = base["id"].split(":")[1]
+        noun = noun.replace("a3", "ä")
+        noun = noun.replace("A3", "Ä")
+        article = base.div.find("span", title=True).string
         word_data = {
             "word": noun,
             "article": article
@@ -31,29 +34,45 @@ def get_word(word: BeautifulSoup) -> dict:
     finally:
         return word_data
 
-def scrape_and_save(url, keyword: str, level, word_dict: dict) -> dict:
+def scrape_and_save(url: str, keyword: str, level: str, word_dict: dict):
     page_num = 1
     searching = True
-    list_name = levels.get(level)
-    word_dict.update({list_name:[]})
+
+    if not level in word_dict:
+        word_dict.update({level:{}}) # make a new list
+    if not keyword.capitalize() in word_dict[level]:
+        word_dict[level].update({keyword.capitalize():[]})
 
     while searching:
-        current_page = url + "?w=" + keyword + "&l=" + level + "&p=" + page_num
+        current_page = url + "?w=" + keyword + "&l=" + str(levels.get(level)) + "&p=" + str(page_num)
         words = get_words(current_page)
-
         # iterate through the page
         for word in words:
             new_word = get_word(word)
+            print(new_word)
             if new_word:
                 if not str(new_word["word"]).startswith(keyword): # end of the list
                     searching = False
                     break
                 # add word to the list
-                word_dict[list_name].append(new_word)
+                word_dict[level][keyword.capitalize()].append(new_word)
         
         page_num+=1
 
 # Main process
+dictionary = {}
+with open("words.json", "r") as openfile:
+    dictionary = json.load(openfile)
+'''
+Note: already scraped data include 
+"A" for "A1" and "A2"
+[Do not scrape too often as the website might block this IP]
+'''
 
-        
+scrape_and_save(URL, "A", "B1", dictionary)
+
+data = json.dumps(dictionary, indent=4)
+
+with open("words.json", "w") as outfile:
+    outfile.write(data)
 

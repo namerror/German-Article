@@ -1,0 +1,698 @@
+{
+    "A1": {
+        "A": [
+            {
+                "word": "Abend",
+                "article": "der"
+            },
+            {
+                "word": "Abendessen",
+                "article": "das"
+            },
+            {
+                "word": "Abendkleidung",
+                "article": "die"
+            },
+            {
+                "word": "Abenteuer",
+                "article": "das"
+            },
+            {
+                "word": "Abfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Abflug",
+                "article": "der"
+            },
+            {
+                "word": "Absender",
+                "article": "der"
+            },
+            {
+                "word": "Abteilungsleiter",
+                "article": "der"
+            },
+            {
+                "word": "Achtung",
+                "article": "die"
+            },
+            {
+                "word": "Adresse",
+                "article": "die"
+            },
+            {
+                "word": "Agentur",
+                "article": "die"
+            },
+            {
+                "word": "Ahnung",
+                "article": "die"
+            },
+            {
+                "word": "Akrobat",
+                "article": "der"
+            },
+            {
+                "word": "Aktivita\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Akzent",
+                "article": "der"
+            },
+            {
+                "word": "Alltag",
+                "article": "der"
+            },
+            {
+                "word": "Alphabet",
+                "article": "das"
+            },
+            {
+                "word": "Alphorn",
+                "article": "das"
+            },
+            {
+                "word": "Altbau",
+                "article": "der"
+            },
+            {
+                "word": "A\u00e4rger",
+                "article": "der"
+            },
+            {
+                "word": "Altstadt",
+                "article": "die"
+            },
+            {
+                "word": "Amt",
+                "article": "das"
+            },
+            {
+                "word": "Anfang",
+                "article": "der"
+            },
+            {
+                "word": "Anforderung",
+                "article": "die"
+            },
+            {
+                "word": "Angebot",
+                "article": "das"
+            },
+            {
+                "word": "Angst",
+                "article": "die"
+            },
+            {
+                "word": "Ankunft",
+                "article": "die"
+            },
+            {
+                "word": "Anleitung",
+                "article": "die"
+            },
+            {
+                "word": "Anmeldung",
+                "article": "die"
+            },
+            {
+                "word": "Anrede",
+                "article": "die"
+            },
+            {
+                "word": "Anruf",
+                "article": "der"
+            },
+            {
+                "word": "Anrufbeantworter",
+                "article": "der"
+            },
+            {
+                "word": "Anrufer",
+                "article": "der"
+            },
+            {
+                "word": "Ansage",
+                "article": "die"
+            },
+            {
+                "word": "Anschluss",
+                "article": "der"
+            },
+            {
+                "word": "Antwort",
+                "article": "die"
+            },
+            {
+                "word": "Anweisung",
+                "article": "die"
+            },
+            {
+                "word": "Anzeige",
+                "article": "die"
+            },
+            {
+                "word": "Anzug",
+                "article": "der"
+            },
+            {
+                "word": "A\u00e4rger",
+                "article": "der"
+            },
+            {
+                "word": "Apfel",
+                "article": "der"
+            },
+            {
+                "word": "Apfelkuchen",
+                "article": "der"
+            },
+            {
+                "word": "Apfelsaft",
+                "article": "der"
+            },
+            {
+                "word": "Apfelsaftschorle",
+                "article": "die"
+            },
+            {
+                "word": "Apfelstrudel",
+                "article": "der"
+            },
+            {
+                "word": "Apotheke",
+                "article": "die"
+            },
+            {
+                "word": "Apotheker",
+                "article": "der"
+            },
+            {
+                "word": "Appetit",
+                "article": "der"
+            },
+            {
+                "word": "April",
+                "article": "der"
+            },
+            {
+                "word": "Arbeit",
+                "article": "die"
+            },
+            {
+                "word": "Arbeitsbeginn",
+                "article": "der"
+            },
+            {
+                "word": "Arbeitsgruppe",
+                "article": "die"
+            },
+            {
+                "word": "Arbeitsplatz",
+                "article": "der"
+            },
+            {
+                "word": "Arbeitstag",
+                "article": "der"
+            },
+            {
+                "word": "Arbeitswelt",
+                "article": "die"
+            },
+            {
+                "word": "Arbeitszeit",
+                "article": "die"
+            },
+            {
+                "word": "Arbeitszimmer",
+                "article": "das"
+            },
+            {
+                "word": "Architekt",
+                "article": "der"
+            },
+            {
+                "word": "Architektur",
+                "article": "die"
+            },
+            {
+                "word": "A\u00e4rger",
+                "article": "der"
+            },
+            {
+                "word": "Arm",
+                "article": "der"
+            },
+            {
+                "word": "Artikel",
+                "article": "der"
+            },
+            {
+                "word": "Arzt",
+                "article": "der"
+            },
+            {
+                "word": "Arzthelferin",
+                "article": "die"
+            },
+            {
+                "word": "Atmospha\u00e4re",
+                "article": "die"
+            },
+            {
+                "word": "Aufforderung",
+                "article": "die"
+            },
+            {
+                "word": "Aufgabe",
+                "article": "die"
+            },
+            {
+                "word": "Aufkleber",
+                "article": "der"
+            },
+            {
+                "word": "Aufzug",
+                "article": "der"
+            },
+            {
+                "word": "Auge",
+                "article": "das"
+            },
+            {
+                "word": "August",
+                "article": "der"
+            },
+            {
+                "word": "Ausflug",
+                "article": "der"
+            },
+            {
+                "word": "Ausgang",
+                "article": "der"
+            },
+            {
+                "word": "Auskunft",
+                "article": "die"
+            },
+            {
+                "word": "Ausla\u00e4nder",
+                "article": "der"
+            },
+            {
+                "word": "Ausland",
+                "article": "das"
+            },
+            {
+                "word": "Aussage",
+                "article": "die"
+            },
+            {
+                "word": "Aussicht",
+                "article": "die"
+            },
+            {
+                "word": "Aussprache",
+                "article": "die"
+            },
+            {
+                "word": "A\u00e4rger",
+                "article": "der"
+            },
+            {
+                "word": "Austausch",
+                "article": "der"
+            },
+            {
+                "word": "Ausweis",
+                "article": "der"
+            },
+            {
+                "word": "Auto",
+                "article": "das"
+            },
+            {
+                "word": "Autobahn",
+                "article": "die"
+            },
+            {
+                "word": "Automat",
+                "article": "der"
+            },
+            {
+                "word": "A\u00e4rger",
+                "article": "der"
+            },
+            {
+                "word": "A\u00e4rztin",
+                "article": "die"
+            }
+        ]
+    },
+    "A2": {
+        "A": [
+            {
+                "word": "Abbildung",
+                "article": "die"
+            },
+            {
+                "word": "Abendkurs",
+                "article": "der"
+            },
+            {
+                "word": "Abitur",
+                "article": "das"
+            },
+            {
+                "word": "Abiturzeugnis",
+                "article": "das"
+            },
+            {
+                "word": "Abreise",
+                "article": "die"
+            },
+            {
+                "word": "Absage",
+                "article": "die"
+            },
+            {
+                "word": "Absatz",
+                "article": "der"
+            },
+            {
+                "word": "Abschluss",
+                "article": "der"
+            },
+            {
+                "word": "Abschlusspru3fung",
+                "article": "die"
+            },
+            {
+                "word": "Abschnitt",
+                "article": "der"
+            },
+            {
+                "word": "Absicht",
+                "article": "die"
+            },
+            {
+                "word": "Absperrung",
+                "article": "die"
+            },
+            {
+                "word": "Abteil",
+                "article": "das"
+            },
+            {
+                "word": "Acht",
+                "article": "die"
+            },
+            {
+                "word": "Achterbahn",
+                "article": "die"
+            },
+            {
+                "word": "Actionfilm",
+                "article": "der"
+            },
+            {
+                "word": "Akku",
+                "article": "der"
+            },
+            {
+                "word": "Akrobatik",
+                "article": "die"
+            },
+            {
+                "word": "Album",
+                "article": "das"
+            },
+            {
+                "word": "Alkohol",
+                "article": "der"
+            },
+            {
+                "word": "Altenpfleger",
+                "article": "der"
+            },
+            {
+                "word": "Alternative",
+                "article": "die"
+            },
+            {
+                "word": "Altersangabe",
+                "article": "die"
+            },
+            {
+                "word": "Ampel",
+                "article": "die"
+            },
+            {
+                "word": "Amphitheater",
+                "article": "das"
+            },
+            {
+                "word": "Anbieter",
+                "article": "der"
+            },
+            {
+                "word": "Anf\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Anf\u00e4ngerin",
+                "article": "die"
+            },
+            {
+                "word": "Angabe",
+                "article": "die"
+            },
+            {
+                "word": "Angeber",
+                "article": "der"
+            },
+            {
+                "word": "Angeberin",
+                "article": "die"
+            },
+            {
+                "word": "Anglistik",
+                "article": "die"
+            },
+            {
+                "word": "Anwalt",
+                "article": "der"
+            },
+            {
+                "word": "Apparat",
+                "article": "der"
+            },
+            {
+                "word": "Aquarium",
+                "article": "das"
+            },
+            {
+                "word": "Arbeitsalltag",
+                "article": "der"
+            },
+            {
+                "word": "Arbeitskollege",
+                "article": "der"
+            },
+            {
+                "word": "Arbeitsleben",
+                "article": "das"
+            },
+            {
+                "word": "Arbeitsplan",
+                "article": "der"
+            },
+            {
+                "word": "Arbeitsstelle",
+                "article": "die"
+            },
+            {
+                "word": "Arbeitsteilung",
+                "article": "die"
+            },
+            {
+                "word": "Arbeitsverh\u00e4ltnis",
+                "article": "das"
+            },
+            {
+                "word": "Architektin",
+                "article": "die"
+            },
+            {
+                "word": "Arena",
+                "article": "die"
+            },
+            {
+                "word": "Art",
+                "article": "die"
+            },
+            {
+                "word": "Arztkittel",
+                "article": "der"
+            },
+            {
+                "word": "Arztpraxis",
+                "article": "die"
+            },
+            {
+                "word": "Aspekt",
+                "article": "der"
+            },
+            {
+                "word": "Astronaut",
+                "article": "der"
+            },
+            {
+                "word": "Astronautin",
+                "article": "die"
+            },
+            {
+                "word": "Aufenthalt",
+                "article": "der"
+            },
+            {
+                "word": "Auftrag",
+                "article": "der"
+            },
+            {
+                "word": "Auftritt",
+                "article": "der"
+            },
+            {
+                "word": "Ausbildung",
+                "article": "die"
+            },
+            {
+                "word": "Ausdruck",
+                "article": "der"
+            },
+            {
+                "word": "Aushilfe",
+                "article": "die"
+            },
+            {
+                "word": "Ausnahme",
+                "article": "die"
+            },
+            {
+                "word": "Ausrede",
+                "article": "die"
+            },
+            {
+                "word": "Austauschschu3ler",
+                "article": "der"
+            },
+            {
+                "word": "Austauschschu3lerin",
+                "article": "die"
+            },
+            {
+                "word": "Autogramm",
+                "article": "das"
+            },
+            {
+                "word": "Automechaniker",
+                "article": "der"
+            },
+            {
+                "word": "Automechanikerin",
+                "article": "die"
+            },
+            {
+                "word": "Autor",
+                "article": "der"
+            },
+            {
+                "word": "Autorin",
+                "article": "die"
+            }
+        ]
+    },
+    "B1": {
+        "A": [
+            {
+                "word": "Abendbrot",
+                "article": "das"
+            },
+            {
+                "word": "Abenteuerlust",
+                "article": "die"
+            },
+            {
+                "word": "Abenteuerreise",
+                "article": "die"
+            },
+            {
+                "word": "Abfall",
+                "article": "der"
+            },
+            {
+                "word": "Abgas",
+                "article": "das"
+            },
+            {
+                "word": "Abku3rzung",
+                "article": "die"
+            },
+            {
+                "word": "Abneigung",
+                "article": "die"
+            },
+            {
+                "word": "Abonnement",
+                "article": "das"
+            },
+            {
+                "word": "Abschied",
+                "article": "der"
+            },
+            {
+                "word": "Abteilung",
+                "article": "die"
+            },
+            {
+                "word": "Abzug",
+                "article": "der"
+            },
+            {
+                "word": "Achselzucken",
+                "article": "das"
+            },
+            {
+                "word": "Adrenalin",
+                "article": "das"
+            },
+            {
+                "word": "Adressat",
+                "article": "der"
+            },
+            {
+                "word": "Affe",
+                "article": "der"
+            },
+            {
+                "word": "Akte",
+                "article": "die"
+            },
+            {
+                "word": "Aktion",
+                "article": "die"
+            },
+            {
+                "word": "Alarm",
+                "article": "der"
+            },
+            {
+                "word": "Allergie",
+                "article": "die"
+            }
+        ]
+    }
+}
