@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en, de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A fun game to learn German articles (der, die, das)!">
+    <meta name="author" content="Leon">
+    <meta name="keywords" content="German, language learning, der die das, articles, game">
+    <title>Der Die Das Game</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 id="word">Apfel</h1>
+        <div class="buttons">
+            <button class="article-button-pushable" onclick="checkAnswer('der')" role="button">
+                <span class="article-button-shadow"></span>
+                <span class="article-button-edge"></span>
+                <span class="article-button-front text">Der</span>
+            </button>
+            <button class="article-button-pushable" onclick="checkAnswer('die')" role="button">
+                <span class="article-button-shadow"></span>
+                <span class="article-button-edge"></span>
+                <span class="article-button-front text">Die</span>
+            </button>
+            <button class="article-button-pushable" onclick="checkAnswer('das')" role="button">
+                <span class="article-button-shadow"></span>
+                <span class="article-button-edge"></span>
+                <span class="article-button-front text">Das</span>
+            </button>
+        </div>
+    </div>
+</body>
+
