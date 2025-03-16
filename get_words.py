@@ -13,8 +13,12 @@ levels = {
     "C2": 32
 }
 
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+}
+
 def get_words(url: str):
-    soup = BeautifulSoup(requests.get(url).text, "html.parser")
+    soup = BeautifulSoup(requests.get(url, headers=headers).text, "html.parser")
     words = soup.find_all("div", class_="bTrf rClear")
     return words
 
@@ -65,11 +69,12 @@ with open("words.json", "r") as openfile:
     dictionary = json.load(openfile)
 '''
 Note: already scraped data include 
-"A" for "A1" and "A2"
+"A" for "A1" "A2" "B1" "B2" "C1"
+"B" for "A1"
 [Do not scrape too often as the website might block this IP]
 '''
 
-scrape_and_save(URL, "A", "B1", dictionary)
+scrape_and_save(URL, "B", "A1", dictionary)
 
 data = json.dumps(dictionary, indent=4)
 

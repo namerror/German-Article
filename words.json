@@ -349,6 +349,332 @@
                 "word": "A\u00e4rztin",
                 "article": "die"
             }
+        ],
+        "B": [
+            {
+                "word": "Baby",
+                "article": "das"
+            },
+            {
+                "word": "Babysitter",
+                "article": "der"
+            },
+            {
+                "word": "Bad",
+                "article": "das"
+            },
+            {
+                "word": "Badeanzug",
+                "article": "der"
+            },
+            {
+                "word": "Badehose",
+                "article": "die"
+            },
+            {
+                "word": "B\u00e4cker",
+                "article": "der"
+            },
+            {
+                "word": "B\u00e4ckerei",
+                "article": "die"
+            },
+            {
+                "word": "Bahn",
+                "article": "die"
+            },
+            {
+                "word": "Bahnhof",
+                "article": "der"
+            },
+            {
+                "word": "Bahnsteig",
+                "article": "der"
+            },
+            {
+                "word": "Balkon",
+                "article": "der"
+            },
+            {
+                "word": "Ball",
+                "article": "der"
+            },
+            {
+                "word": "Banane",
+                "article": "die"
+            },
+            {
+                "word": "Band",
+                "article": "das"
+            },
+            {
+                "word": "Bank",
+                "article": "die"
+            },
+            {
+                "word": "Bar",
+                "article": "die"
+            },
+            {
+                "word": "Basketball",
+                "article": "der"
+            },
+            {
+                "word": "Batterie",
+                "article": "die"
+            },
+            {
+                "word": "Bauch",
+                "article": "der"
+            },
+            {
+                "word": "Bauchschmerz",
+                "article": "der"
+            },
+            {
+                "word": "Baum",
+                "article": "der"
+            },
+            {
+                "word": "Baustelle",
+                "article": "die"
+            },
+            {
+                "word": "Becher",
+                "article": "der"
+            },
+            {
+                "word": "Bedienungsanleitung",
+                "article": "die"
+            },
+            {
+                "word": "Beginn",
+                "article": "der"
+            },
+            {
+                "word": "Begru3s5ung",
+                "article": "die"
+            },
+            {
+                "word": "Bein",
+                "article": "das"
+            },
+            {
+                "word": "Beispiel",
+                "article": "das"
+            },
+            {
+                "word": "Beitrag",
+                "article": "der"
+            },
+            {
+                "word": "Beiz",
+                "article": "die"
+            },
+            {
+                "word": "Berg",
+                "article": "der"
+            },
+            {
+                "word": "Bericht",
+                "article": "der"
+            },
+            {
+                "word": "Berliner",
+                "article": "der"
+            },
+            {
+                "word": "Beruf",
+                "article": "der"
+            },
+            {
+                "word": "Beschreibung",
+                "article": "die"
+            },
+            {
+                "word": "Besprechung",
+                "article": "die"
+            },
+            {
+                "word": "Besserung",
+                "article": "die"
+            },
+            {
+                "word": "Bestellung",
+                "article": "die"
+            },
+            {
+                "word": "Besuch",
+                "article": "der"
+            },
+            {
+                "word": "Besucher",
+                "article": "der"
+            },
+            {
+                "word": "Betreff",
+                "article": "der"
+            },
+            {
+                "word": "Bett",
+                "article": "das"
+            },
+            {
+                "word": "Bewegung",
+                "article": "die"
+            },
+            {
+                "word": "Bewohner",
+                "article": "der"
+            },
+            {
+                "word": "Bezahlung",
+                "article": "die"
+            },
+            {
+                "word": "Bier",
+                "article": "das"
+            },
+            {
+                "word": "Biergarten",
+                "article": "der"
+            },
+            {
+                "word": "Bikini",
+                "article": "der"
+            },
+            {
+                "word": "Bild",
+                "article": "das"
+            },
+            {
+                "word": "Bildgeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Biologie",
+                "article": "die"
+            },
+            {
+                "word": "Birne",
+                "article": "die"
+            },
+            {
+                "word": "Bitte",
+                "article": "die"
+            },
+            {
+                "word": "Blatt",
+                "article": "das"
+            },
+            {
+                "word": "Bleistift",
+                "article": "der"
+            },
+            {
+                "word": "Blick",
+                "article": "der"
+            },
+            {
+                "word": "Blume",
+                "article": "die"
+            },
+            {
+                "word": "Bluse",
+                "article": "die"
+            },
+            {
+                "word": "Bodensee",
+                "article": "der"
+            },
+            {
+                "word": "Bogen",
+                "article": "der"
+            },
+            {
+                "word": "Boxer",
+                "article": "der"
+            },
+            {
+                "word": "Brief",
+                "article": "der"
+            },
+            {
+                "word": "Briefmarke",
+                "article": "die"
+            },
+            {
+                "word": "Brille",
+                "article": "die"
+            },
+            {
+                "word": "Bro3tchen",
+                "article": "das"
+            },
+            {
+                "word": "Brot",
+                "article": "das"
+            },
+            {
+                "word": "Bruder",
+                "article": "der"
+            },
+            {
+                "word": "Brust",
+                "article": "die"
+            },
+            {
+                "word": "Buch",
+                "article": "das"
+            },
+            {
+                "word": "Buchh\u00e4ndler",
+                "article": "der"
+            },
+            {
+                "word": "Buchhandlung",
+                "article": "die"
+            },
+            {
+                "word": "Buchladen",
+                "article": "der"
+            },
+            {
+                "word": "Buchstabe",
+                "article": "der"
+            },
+            {
+                "word": "Bude",
+                "article": "die"
+            },
+            {
+                "word": "Bu3hne",
+                "article": "die"
+            },
+            {
+                "word": "Bu3ro",
+                "article": "das"
+            },
+            {
+                "word": "Bu3rste",
+                "article": "die"
+            },
+            {
+                "word": "Bundestag",
+                "article": "der"
+            },
+            {
+                "word": "Bus",
+                "article": "der"
+            },
+            {
+                "word": "Butter",
+                "article": "die"
+            },
+            {
+                "word": "Butterbrot",
+                "article": "das"
+            }
         ]
     },
     "A2": {
@@ -691,6 +1017,378 @@
             },
             {
                 "word": "Allergie",
+                "article": "die"
+            }
+        ]
+    },
+    "B2": {
+        "A": [
+            {
+                "word": "Abbau",
+                "article": "der"
+            },
+            {
+                "word": "Aberglaube",
+                "article": "der"
+            },
+            {
+                "word": "Abfolge",
+                "article": "die"
+            },
+            {
+                "word": "Abh\u00e4ngigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Ablauf",
+                "article": "der"
+            },
+            {
+                "word": "Abscheu",
+                "article": "der"
+            },
+            {
+                "word": "Absprache",
+                "article": "die"
+            },
+            {
+                "word": "Abstammung",
+                "article": "die"
+            },
+            {
+                "word": "Abstand",
+                "article": "der"
+            },
+            {
+                "word": "Abw\u00e4rtstrend",
+                "article": "der"
+            },
+            {
+                "word": "Abweichung",
+                "article": "die"
+            },
+            {
+                "word": "Abwesenheit",
+                "article": "die"
+            },
+            {
+                "word": "Achse",
+                "article": "die"
+            },
+            {
+                "word": "Adel",
+                "article": "der"
+            },
+            {
+                "word": "Akademie",
+                "article": "die"
+            },
+            {
+                "word": "Akkulturation",
+                "article": "die"
+            },
+            {
+                "word": "Akt",
+                "article": "der"
+            },
+            {
+                "word": "Akupunktur",
+                "article": "die"
+            },
+            {
+                "word": "Albtraum",
+                "article": "der"
+            }
+        ]
+    },
+    "C1": {
+        "A": [
+            {
+                "word": "Abbruch",
+                "article": "der"
+            },
+            {
+                "word": "Abbuchung",
+                "article": "die"
+            },
+            {
+                "word": "Abgrenzung",
+                "article": "die"
+            },
+            {
+                "word": "Abhilfe",
+                "article": "die"
+            },
+            {
+                "word": "Abholzung",
+                "article": "die"
+            },
+            {
+                "word": "Ablenkung",
+                "article": "die"
+            },
+            {
+                "word": "Ablo3sung",
+                "article": "die"
+            },
+            {
+                "word": "Abmahnung",
+                "article": "die"
+            },
+            {
+                "word": "Abonnent",
+                "article": "der"
+            },
+            {
+                "word": "Abrechnung",
+                "article": "die"
+            },
+            {
+                "word": "Absatzmarkt",
+                "article": "der"
+            },
+            {
+                "word": "Abschaum",
+                "article": "der"
+            },
+            {
+                "word": "Abschussrampe",
+                "article": "die"
+            },
+            {
+                "word": "Abschwung",
+                "article": "der"
+            },
+            {
+                "word": "Absolvent",
+                "article": "der"
+            },
+            {
+                "word": "Abstellkammer",
+                "article": "die"
+            },
+            {
+                "word": "Abszess",
+                "article": "der"
+            },
+            {
+                "word": "Abteilungsleiterin",
+                "article": "die"
+            },
+            {
+                "word": "Abwechslung",
+                "article": "die"
+            },
+            {
+                "word": "Ackerbau",
+                "article": "der"
+            },
+            {
+                "word": "Adoleszenz",
+                "article": "die"
+            },
+            {
+                "word": "Afroamerikaner",
+                "article": "der"
+            },
+            {
+                "word": "Afroamerikanerin",
+                "article": "die"
+            },
+            {
+                "word": "Agent",
+                "article": "der"
+            },
+            {
+                "word": "Aggregat",
+                "article": "das"
+            },
+            {
+                "word": "Aggression",
+                "article": "die"
+            },
+            {
+                "word": "Airbag",
+                "article": "der"
+            },
+            {
+                "word": "Akademiker",
+                "article": "der"
+            },
+            {
+                "word": "Akademikerin",
+                "article": "die"
+            },
+            {
+                "word": "Akklimatisierung",
+                "article": "die"
+            },
+            {
+                "word": "Akteur",
+                "article": "der"
+            },
+            {
+                "word": "Aktie",
+                "article": "die"
+            },
+            {
+                "word": "Aktienkurs",
+                "article": "der"
+            },
+            {
+                "word": "Aktivist",
+                "article": "der"
+            },
+            {
+                "word": "Aktivistin",
+                "article": "die"
+            },
+            {
+                "word": "Aktualit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Abbruch",
+                "article": "der"
+            },
+            {
+                "word": "Abbuchung",
+                "article": "die"
+            },
+            {
+                "word": "Abgrenzung",
+                "article": "die"
+            },
+            {
+                "word": "Abhilfe",
+                "article": "die"
+            },
+            {
+                "word": "Abholzung",
+                "article": "die"
+            },
+            {
+                "word": "Ablenkung",
+                "article": "die"
+            },
+            {
+                "word": "Ablo3sung",
+                "article": "die"
+            },
+            {
+                "word": "Abmahnung",
+                "article": "die"
+            },
+            {
+                "word": "Abonnent",
+                "article": "der"
+            },
+            {
+                "word": "Abrechnung",
+                "article": "die"
+            },
+            {
+                "word": "Absatzmarkt",
+                "article": "der"
+            },
+            {
+                "word": "Abschaum",
+                "article": "der"
+            },
+            {
+                "word": "Abschussrampe",
+                "article": "die"
+            },
+            {
+                "word": "Abschwung",
+                "article": "der"
+            },
+            {
+                "word": "Absolvent",
+                "article": "der"
+            },
+            {
+                "word": "Abstellkammer",
+                "article": "die"
+            },
+            {
+                "word": "Abszess",
+                "article": "der"
+            },
+            {
+                "word": "Abteilungsleiterin",
+                "article": "die"
+            },
+            {
+                "word": "Abwechslung",
+                "article": "die"
+            },
+            {
+                "word": "Ackerbau",
+                "article": "der"
+            },
+            {
+                "word": "Adoleszenz",
+                "article": "die"
+            },
+            {
+                "word": "Afroamerikaner",
+                "article": "der"
+            },
+            {
+                "word": "Afroamerikanerin",
+                "article": "die"
+            },
+            {
+                "word": "Agent",
+                "article": "der"
+            },
+            {
+                "word": "Aggregat",
+                "article": "das"
+            },
+            {
+                "word": "Aggression",
+                "article": "die"
+            },
+            {
+                "word": "Airbag",
+                "article": "der"
+            },
+            {
+                "word": "Akademiker",
+                "article": "der"
+            },
+            {
+                "word": "Akademikerin",
+                "article": "die"
+            },
+            {
+                "word": "Akklimatisierung",
+                "article": "die"
+            },
+            {
+                "word": "Akteur",
+                "article": "der"
+            },
+            {
+                "word": "Aktie",
+                "article": "die"
+            },
+            {
+                "word": "Aktienkurs",
+                "article": "der"
+            },
+            {
+                "word": "Aktivist",
+                "article": "der"
+            },
+            {
+                "word": "Aktivistin",
+                "article": "die"
+            },
+            {
+                "word": "Aktualit\u00e4t",
                 "article": "die"
             }
         ]
