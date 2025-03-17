@@ -23,11 +23,24 @@ def get_words(url: str):
     return words
 
 def get_word(word: BeautifulSoup) -> dict:
+    replacements = {
+        "a3": "ä",
+        "A3": "Ä",
+        "o3": "ö",
+        "O3": "Ö",
+        "u3": "ü",
+        "U3": "Ü",
+        "s5": "ß",
+        "e1": "é"
+    }
     try:
         base = word.find("div", class_="rAuf")
         noun = base["id"].split(":")[1]
-        noun = noun.replace("a3", "ä")
-        noun = noun.replace("A3", "Ä")
+        
+        # change special characters
+        for key, value in replacements.items():
+            noun = noun.replace(key, value)
+        
         article = base.div.find("span", title=True).string
         word_data = {
             "word": noun,
@@ -70,11 +83,13 @@ with open("words.json", "r") as openfile:
 '''
 Note: already scraped data include 
 "A" for "A1" "A2" "B1" "B2" "C1"
-"B" for "A1"
+"B" for "A1" "A2" "B1" "B2" "C1"
+"C" for "A1" "A2" "B1" "B2" "C1"
+"D" for "A1" "A2" "B1"
 [Do not scrape too often as the website might block this IP]
 '''
 
-scrape_and_save(URL, "B", "A1", dictionary)
+scrape_and_save(URL, "D", "B2", dictionary)
 
 data = json.dumps(dictionary, indent=4)
 

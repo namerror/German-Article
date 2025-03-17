@@ -16,8 +16,19 @@
 </head>
 
 <body>
+    <div class="level-buttons">
+        <button onclick="setLevel('A1')">A1</button>
+        <button onclick="setLevel('A2')">A2</button>
+        <button onclick="setLevel('B1')">B1</button>
+        <button onclick="setLevel('B2')">B2</button>
+        <button onclick="setLevel('C1')">C1</button>
+        <!--button class="level-buttons" onclick="newWord('C2')">C2</button-->
+    </div>
     <div class="container">
-        <h1 id="word">Apfel</h1>
+        <div class="word-container">
+            <span id="word">Nahrungsmittelunversträglichkeit</span>
+        </div>
+        
         <div class="buttons">
             <button class="article-button-pushable" onclick="checkAnswer('der')" role="button">
                 <span class="article-button-shadow"></span>

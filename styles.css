@@ -1,12 +1,39 @@
 .container {
-    font-family: "Patrick Hand", cursive;
-    font-weight: 400;
-    font-size: 70px; /* as big as possible */
-    font-style: normal;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.level-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.level-buttons button {
+    margin: 2px;
+    padding: 5px 10px;
+}
+
+.word-container {
+    display: flex;
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+#word {
+    font-family: "Patrick Hand", cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8vw;
+}
+
+.buttons {
+    margin-top: 2em;
 }
 
 .article-button-pushable {
@@ -27,7 +54,7 @@
 @media (max-width: 768px) {
     .article-button-pushable {
         transform: scale(1.2);
-        margin: 10px;
+        margin: 15px;
         
     }
 
