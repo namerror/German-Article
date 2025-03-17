@@ -863,6 +863,176 @@
                 "word": "Duschgel",
                 "article": "das"
             }
+        ],
+        "E": [
+            {
+                "word": "Ebbe",
+                "article": "die"
+            },
+            {
+                "word": "Ecke",
+                "article": "die"
+            },
+            {
+                "word": "Ehefrau",
+                "article": "die"
+            },
+            {
+                "word": "Ehemann",
+                "article": "der"
+            },
+            {
+                "word": "Ehepartner",
+                "article": "der"
+            },
+            {
+                "word": "Ei",
+                "article": "das"
+            },
+            {
+                "word": "Eingang",
+                "article": "der"
+            },
+            {
+                "word": "Einkaufswagen",
+                "article": "der"
+            },
+            {
+                "word": "Einkaufszettel",
+                "article": "der"
+            },
+            {
+                "word": "Einladung",
+                "article": "die"
+            },
+            {
+                "word": "Einrad",
+                "article": "das"
+            },
+            {
+                "word": "Eintritt",
+                "article": "der"
+            },
+            {
+                "word": "Einweihungsparty",
+                "article": "die"
+            },
+            {
+                "word": "Einzelzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Eis",
+                "article": "das"
+            },
+            {
+                "word": "Elektriker",
+                "article": "der"
+            },
+            {
+                "word": "Ellbogen",
+                "article": "der"
+            },
+            {
+                "word": "E-mail",
+                "article": "die"
+            },
+            {
+                "word": "Emmentaler",
+                "article": "der"
+            },
+            {
+                "word": "Empf\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Empfang",
+                "article": "der"
+            },
+            {
+                "word": "Ende",
+                "article": "das"
+            },
+            {
+                "word": "Endhaltestelle",
+                "article": "die"
+            },
+            {
+                "word": "Energie",
+                "article": "die"
+            },
+            {
+                "word": "Englisch",
+                "article": "das"
+            },
+            {
+                "word": "Ensemble",
+                "article": "das"
+            },
+            {
+                "word": "Entscheidung",
+                "article": "die"
+            },
+            {
+                "word": "Entschuldigung",
+                "article": "die"
+            },
+            {
+                "word": "Erdgeschoss",
+                "article": "das"
+            },
+            {
+                "word": "Erfahrung",
+                "article": "die"
+            },
+            {
+                "word": "Erfolg",
+                "article": "der"
+            },
+            {
+                "word": "Ergebnis",
+                "article": "das"
+            },
+            {
+                "word": "Er\u00f6ffnung",
+                "article": "die"
+            },
+            {
+                "word": "Erzieher",
+                "article": "der"
+            },
+            {
+                "word": "Erzieherin",
+                "article": "die"
+            },
+            {
+                "word": "Essen",
+                "article": "das"
+            },
+            {
+                "word": "Essig",
+                "article": "der"
+            },
+            {
+                "word": "Ethik",
+                "article": "die"
+            },
+            {
+                "word": "Europ\u00e4er",
+                "article": "der"
+            },
+            {
+                "word": "Europ\u00e4erin",
+                "article": "die"
+            },
+            {
+                "word": "Experiment",
+                "article": "das"
+            },
+            {
+                "word": "Experte",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -1476,6 +1646,128 @@
             {
                 "word": "Durchschnitt",
                 "article": "der"
+            }
+        ],
+        "E": [
+            {
+                "word": "Effekt",
+                "article": "der"
+            },
+            {
+                "word": "Eigenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Eindruck",
+                "article": "der"
+            },
+            {
+                "word": "Einf\u00fchrung",
+                "article": "die"
+            },
+            {
+                "word": "Einkaufszentrum",
+                "article": "das"
+            },
+            {
+                "word": "Einleitung",
+                "article": "die"
+            },
+            {
+                "word": "Einsatz",
+                "article": "der"
+            },
+            {
+                "word": "Eintrag",
+                "article": "der"
+            },
+            {
+                "word": "Einwohner",
+                "article": "der"
+            },
+            {
+                "word": "Einwohnerin",
+                "article": "die"
+            },
+            {
+                "word": "Elefant",
+                "article": "der"
+            },
+            {
+                "word": "Elektrikerin",
+                "article": "die"
+            },
+            {
+                "word": "Elektrotechnik",
+                "article": "die"
+            },
+            {
+                "word": "Emotion",
+                "article": "die"
+            },
+            {
+                "word": "Englischlehrerin",
+                "article": "die"
+            },
+            {
+                "word": "Enkel",
+                "article": "der"
+            },
+            {
+                "word": "Enkelin",
+                "article": "die"
+            },
+            {
+                "word": "Ente",
+                "article": "die"
+            },
+            {
+                "word": "Entt\u00e4uschung",
+                "article": "die"
+            },
+            {
+                "word": "Erde",
+                "article": "die"
+            },
+            {
+                "word": "Ereignis",
+                "article": "das"
+            },
+            {
+                "word": "Erholung",
+                "article": "die"
+            },
+            {
+                "word": "Erinnerung",
+                "article": "die"
+            },
+            {
+                "word": "Erkl\u00e4rung",
+                "article": "die"
+            },
+            {
+                "word": "Erlaubnis",
+                "article": "die"
+            },
+            {
+                "word": "Erlebnis",
+                "article": "das"
+            },
+            {
+                "word": "Erm\u00e4\u00dfigung",
+                "article": "die"
+            },
+            {
+                "word": "Erntedankfest",
+                "article": "das"
+            },
+            {
+                "word": "Ersatzteil",
+                "article": "das"
+            },
+            {
+                "word": "Erwartung",
+                "article": "die"
             }
         ]
     },
@@ -2141,6 +2433,300 @@
             },
             {
                 "word": "Dusel",
+                "article": "der"
+            }
+        ],
+        "E": [
+            {
+                "word": "Eck",
+                "article": "das"
+            },
+            {
+                "word": "Ehe",
+                "article": "die"
+            },
+            {
+                "word": "Ehegatte",
+                "article": "der"
+            },
+            {
+                "word": "Ehegattin",
+                "article": "die"
+            },
+            {
+                "word": "Ehepaar",
+                "article": "das"
+            },
+            {
+                "word": "Ehre",
+                "article": "die"
+            },
+            {
+                "word": "Ehrlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Eigelb",
+                "article": "das"
+            },
+            {
+                "word": "Eile",
+                "article": "die"
+            },
+            {
+                "word": "Eimer",
+                "article": "der"
+            },
+            {
+                "word": "Einbahnstra\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Einbrecher",
+                "article": "der"
+            },
+            {
+                "word": "Einbruch",
+                "article": "der"
+            },
+            {
+                "word": "Einb\u00fcrgerung",
+                "article": "die"
+            },
+            {
+                "word": "Einfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Einfall",
+                "article": "der"
+            },
+            {
+                "word": "Einfamilienhaus",
+                "article": "das"
+            },
+            {
+                "word": "Einfluss",
+                "article": "der"
+            },
+            {
+                "word": "Einheit",
+                "article": "die"
+            },
+            {
+                "word": "Einkauf",
+                "article": "der"
+            },
+            {
+                "word": "Einkommen",
+                "article": "das"
+            },
+            {
+                "word": "Einladungskarte",
+                "article": "die"
+            },
+            {
+                "word": "Einnahme",
+                "article": "die"
+            },
+            {
+                "word": "Einrichtung",
+                "article": "die"
+            },
+            {
+                "word": "Einsamkeit",
+                "article": "die"
+            },
+            {
+                "word": "Einsch\u00e4tzung",
+                "article": "die"
+            },
+            {
+                "word": "Einschr\u00e4nkung",
+                "article": "die"
+            },
+            {
+                "word": "Einschreiben",
+                "article": "das"
+            },
+            {
+                "word": "Einstellung",
+                "article": "die"
+            },
+            {
+                "word": "Eintrittskarte",
+                "article": "die"
+            },
+            {
+                "word": "Einwanderer",
+                "article": "der"
+            },
+            {
+                "word": "Einzelheit",
+                "article": "die"
+            },
+            {
+                "word": "Einzelkind",
+                "article": "das"
+            },
+            {
+                "word": "Eisb\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Eisen",
+                "article": "das"
+            },
+            {
+                "word": "Eisenbahn",
+                "article": "die"
+            },
+            {
+                "word": "Eisw\u00fcrfel",
+                "article": "der"
+            },
+            {
+                "word": "Eiwei\u00df",
+                "article": "das"
+            },
+            {
+                "word": "Elektroherd",
+                "article": "der"
+            },
+            {
+                "word": "Elektronik",
+                "article": "die"
+            },
+            {
+                "word": "Elternabend",
+                "article": "der"
+            },
+            {
+                "word": "Elternbeirat",
+                "article": "der"
+            },
+            {
+                "word": "Elternteil",
+                "article": "der"
+            },
+            {
+                "word": "Empfehlung",
+                "article": "die"
+            },
+            {
+                "word": "Endspiel",
+                "article": "das"
+            },
+            {
+                "word": "Engagement",
+                "article": "das"
+            },
+            {
+                "word": "Entdeckungsreise",
+                "article": "die"
+            },
+            {
+                "word": "Entfernung",
+                "article": "die"
+            },
+            {
+                "word": "Entlassung",
+                "article": "die"
+            },
+            {
+                "word": "Entstehungszeit",
+                "article": "die"
+            },
+            {
+                "word": "Entwicklung",
+                "article": "die"
+            },
+            {
+                "word": "Erbin",
+                "article": "die"
+            },
+            {
+                "word": "Erdapfel",
+                "article": "der"
+            },
+            {
+                "word": "Erdbeere",
+                "article": "die"
+            },
+            {
+                "word": "Erd\u00f6l",
+                "article": "das"
+            },
+            {
+                "word": "Erfahrungsbericht",
+                "article": "der"
+            },
+            {
+                "word": "Erfindung",
+                "article": "die"
+            },
+            {
+                "word": "Erf\u00fcllung",
+                "article": "die"
+            },
+            {
+                "word": "Erh\u00f6hung",
+                "article": "die"
+            },
+            {
+                "word": "Ern\u00e4hrung",
+                "article": "die"
+            },
+            {
+                "word": "Ernte",
+                "article": "die"
+            },
+            {
+                "word": "Ersatz",
+                "article": "der"
+            },
+            {
+                "word": "Ersatzhaltestelle",
+                "article": "die"
+            },
+            {
+                "word": "Ersatztermin",
+                "article": "der"
+            },
+            {
+                "word": "Ersparnis",
+                "article": "die"
+            },
+            {
+                "word": "Erz\u00e4hler",
+                "article": "der"
+            },
+            {
+                "word": "Erz\u00e4hlung",
+                "article": "die"
+            },
+            {
+                "word": "Erziehung",
+                "article": "die"
+            },
+            {
+                "word": "Essl\u00f6ffel",
+                "article": "der"
+            },
+            {
+                "word": "Etage",
+                "article": "die"
+            },
+            {
+                "word": "Etikett",
+                "article": "das"
+            },
+            {
+                "word": "Exemplar",
+                "article": "das"
+            },
+            {
+                "word": "Export",
                 "article": "der"
             }
         ]
@@ -2971,6 +3557,352 @@
             },
             {
                 "word": "Dynamik",
+                "article": "die"
+            }
+        ],
+        "E": [
+            {
+                "word": "Ebene",
+                "article": "die"
+            },
+            {
+                "word": "Echo",
+                "article": "das"
+            },
+            {
+                "word": "Effizienz",
+                "article": "die"
+            },
+            {
+                "word": "Eheproblem",
+                "article": "das"
+            },
+            {
+                "word": "Eheschlie\u00dfung",
+                "article": "die"
+            },
+            {
+                "word": "Ehrenmann",
+                "article": "der"
+            },
+            {
+                "word": "Ehrentag",
+                "article": "der"
+            },
+            {
+                "word": "Eidechse",
+                "article": "die"
+            },
+            {
+                "word": "Eifer",
+                "article": "der"
+            },
+            {
+                "word": "Eifersucht",
+                "article": "die"
+            },
+            {
+                "word": "Eigeninitiative",
+                "article": "die"
+            },
+            {
+                "word": "Einatmung",
+                "article": "die"
+            },
+            {
+                "word": "Einerlei",
+                "article": "das"
+            },
+            {
+                "word": "Einf\u00fchlungsverm\u00f6gen",
+                "article": "das"
+            },
+            {
+                "word": "Einfuhr",
+                "article": "die"
+            },
+            {
+                "word": "Eingangst\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "Einigung",
+                "article": "die"
+            },
+            {
+                "word": "Einmaleins",
+                "article": "das"
+            },
+            {
+                "word": "Einreise",
+                "article": "die"
+            },
+            {
+                "word": "Einschaltquote",
+                "article": "die"
+            },
+            {
+                "word": "Einsicht",
+                "article": "die"
+            },
+            {
+                "word": "Einstand",
+                "article": "der"
+            },
+            {
+                "word": "Einstieg",
+                "article": "der"
+            },
+            {
+                "word": "Einstimmung",
+                "article": "die"
+            },
+            {
+                "word": "Eintragung",
+                "article": "die"
+            },
+            {
+                "word": "Einwand",
+                "article": "der"
+            },
+            {
+                "word": "Einwanderin",
+                "article": "die"
+            },
+            {
+                "word": "Einwanderungsland",
+                "article": "das"
+            },
+            {
+                "word": "Einzelfall",
+                "article": "der"
+            },
+            {
+                "word": "Einzelg\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Eisblock",
+                "article": "der"
+            },
+            {
+                "word": "Eisbrecher",
+                "article": "der"
+            },
+            {
+                "word": "Ekel",
+                "article": "der"
+            },
+            {
+                "word": "Elektrizit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Element",
+                "article": "das"
+            },
+            {
+                "word": "Elite",
+                "article": "die"
+            },
+            {
+                "word": "Elternhaus",
+                "article": "das"
+            },
+            {
+                "word": "Embryonalentwicklung",
+                "article": "die"
+            },
+            {
+                "word": "Empathie",
+                "article": "die"
+            },
+            {
+                "word": "Empfinden",
+                "article": "das"
+            },
+            {
+                "word": "Empfindung",
+                "article": "die"
+            },
+            {
+                "word": "Emp\u00f6rung",
+                "article": "die"
+            },
+            {
+                "word": "Entdecker",
+                "article": "der"
+            },
+            {
+                "word": "Entdeckerin",
+                "article": "die"
+            },
+            {
+                "word": "Entfremdung",
+                "article": "die"
+            },
+            {
+                "word": "Entschluss",
+                "article": "der"
+            },
+            {
+                "word": "Entsendung",
+                "article": "die"
+            },
+            {
+                "word": "Entspannung",
+                "article": "die"
+            },
+            {
+                "word": "Entstehung",
+                "article": "die"
+            },
+            {
+                "word": "Entwicklungsbiologie",
+                "article": "die"
+            },
+            {
+                "word": "Entwicklungshilfe",
+                "article": "die"
+            },
+            {
+                "word": "Entwurf",
+                "article": "der"
+            },
+            {
+                "word": "Epidemie",
+                "article": "die"
+            },
+            {
+                "word": "Epoche",
+                "article": "die"
+            },
+            {
+                "word": "Erfahrungsaustausch",
+                "article": "der"
+            },
+            {
+                "word": "Erfinder",
+                "article": "der"
+            },
+            {
+                "word": "Erfinderin",
+                "article": "die"
+            },
+            {
+                "word": "Erfolgsrezept",
+                "article": "das"
+            },
+            {
+                "word": "Erg\u00e4nzung",
+                "article": "die"
+            },
+            {
+                "word": "Erhalt",
+                "article": "der"
+            },
+            {
+                "word": "Erkenntnis",
+                "article": "die"
+            },
+            {
+                "word": "Erl\u00e4uterung",
+                "article": "die"
+            },
+            {
+                "word": "Erledigung",
+                "article": "die"
+            },
+            {
+                "word": "Erleichterung",
+                "article": "die"
+            },
+            {
+                "word": "Ermittlung",
+                "article": "die"
+            },
+            {
+                "word": "Ermunterung",
+                "article": "die"
+            },
+            {
+                "word": "Er\u00f6rterung",
+                "article": "die"
+            },
+            {
+                "word": "Erotik",
+                "article": "die"
+            },
+            {
+                "word": "Erpressung",
+                "article": "die"
+            },
+            {
+                "word": "Erscheinungsbild",
+                "article": "das"
+            },
+            {
+                "word": "Ersch\u00f6pfung",
+                "article": "die"
+            },
+            {
+                "word": "Ertrag",
+                "article": "der"
+            },
+            {
+                "word": "Erwerbst\u00e4tigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Erzeugung",
+                "article": "die"
+            },
+            {
+                "word": "Erziehungsmethode",
+                "article": "die"
+            },
+            {
+                "word": "Eselsbr\u00fccke",
+                "article": "die"
+            },
+            {
+                "word": "Eskalation",
+                "article": "die"
+            },
+            {
+                "word": "Essayist",
+                "article": "der"
+            },
+            {
+                "word": "Euphorie",
+                "article": "die"
+            },
+            {
+                "word": "Evolution",
+                "article": "die"
+            },
+            {
+                "word": "Examen",
+                "article": "das"
+            },
+            {
+                "word": "Existenzgr\u00fcnder",
+                "article": "der"
+            },
+            {
+                "word": "Expedition",
+                "article": "die"
+            },
+            {
+                "word": "Expertin",
+                "article": "die"
+            },
+            {
+                "word": "Extremsportler",
+                "article": "der"
+            },
+            {
+                "word": "Extremsportlerin",
                 "article": "die"
             }
         ]
@@ -3883,6 +4815,674 @@
             },
             {
                 "word": "Cracker",
+                "article": "der"
+            }
+        ],
+        "D": [
+            {
+                "word": "Dachorganisation",
+                "article": "die"
+            },
+            {
+                "word": "Dampfkraft",
+                "article": "die"
+            },
+            {
+                "word": "Dampfmaschine",
+                "article": "die"
+            },
+            {
+                "word": "Darbietung",
+                "article": "die"
+            },
+            {
+                "word": "Darstellung",
+                "article": "die"
+            },
+            {
+                "word": "Datenklau",
+                "article": "der"
+            },
+            {
+                "word": "Dauerausstellung",
+                "article": "die"
+            },
+            {
+                "word": "Dauerbelastung",
+                "article": "die"
+            },
+            {
+                "word": "Dauerfeuer",
+                "article": "das"
+            },
+            {
+                "word": "Dauergast",
+                "article": "der"
+            },
+            {
+                "word": "Dauerwurst",
+                "article": "die"
+            },
+            {
+                "word": "Defensive",
+                "article": "die"
+            },
+            {
+                "word": "Definition",
+                "article": "die"
+            },
+            {
+                "word": "Deich",
+                "article": "der"
+            },
+            {
+                "word": "Dekollet\u00e9",
+                "article": "das"
+            },
+            {
+                "word": "Delikt",
+                "article": "das"
+            },
+            {
+                "word": "Demografie",
+                "article": "die"
+            },
+            {
+                "word": "Demoskopie",
+                "article": "die"
+            },
+            {
+                "word": "Demut",
+                "article": "die"
+            },
+            {
+                "word": "Denkfehler",
+                "article": "der"
+            },
+            {
+                "word": "Denkmuster",
+                "article": "das"
+            },
+            {
+                "word": "Denkweise",
+                "article": "die"
+            },
+            {
+                "word": "Deportation",
+                "article": "die"
+            },
+            {
+                "word": "Depot",
+                "article": "das"
+            },
+            {
+                "word": "Designerin",
+                "article": "die"
+            },
+            {
+                "word": "Desinfektion",
+                "article": "die"
+            },
+            {
+                "word": "Dezibel",
+                "article": "das"
+            },
+            {
+                "word": "Diabetes",
+                "article": "der"
+            },
+            {
+                "word": "Dialektik",
+                "article": "die"
+            },
+            {
+                "word": "Dichtkunst",
+                "article": "die"
+            },
+            {
+                "word": "Dichtung",
+                "article": "die"
+            },
+            {
+                "word": "Didaktik",
+                "article": "die"
+            },
+            {
+                "word": "Dienstwagen",
+                "article": "der"
+            },
+            {
+                "word": "Diktator",
+                "article": "der"
+            },
+            {
+                "word": "Dioxin",
+                "article": "das"
+            },
+            {
+                "word": "Diskussionsrunde",
+                "article": "die"
+            },
+            {
+                "word": "Diskutant",
+                "article": "der"
+            },
+            {
+                "word": "Diskutantin",
+                "article": "die"
+            },
+            {
+                "word": "Dissertation",
+                "article": "die"
+            },
+            {
+                "word": "Doppelleben",
+                "article": "das"
+            },
+            {
+                "word": "Drache",
+                "article": "der"
+            },
+            {
+                "word": "Drang",
+                "article": "der"
+            },
+            {
+                "word": "Drehscheibe",
+                "article": "die"
+            },
+            {
+                "word": "Drohung",
+                "article": "die"
+            },
+            {
+                "word": "Druckerei",
+                "article": "die"
+            },
+            {
+                "word": "D\u00fcnger",
+                "article": "der"
+            },
+            {
+                "word": "Duftstoff",
+                "article": "der"
+            },
+            {
+                "word": "Durchhalteverm\u00f6gen",
+                "article": "das"
+            },
+            {
+                "word": "Durchsetzungsverm\u00f6gen",
+                "article": "das"
+            },
+            {
+                "word": "Durchzug",
+                "article": "der"
+            },
+            {
+                "word": "Dutzend",
+                "article": "das"
+            }
+        ],
+        "E": [
+            {
+                "word": "Ebenb\u00fcrtigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Echtheit",
+                "article": "die"
+            },
+            {
+                "word": "Edelmut",
+                "article": "der"
+            },
+            {
+                "word": "Edelstein",
+                "article": "der"
+            },
+            {
+                "word": "Edition",
+                "article": "die"
+            },
+            {
+                "word": "Egoismus",
+                "article": "der"
+            },
+            {
+                "word": "Ehrenamt",
+                "article": "das"
+            },
+            {
+                "word": "Ehrgeiz",
+                "article": "der"
+            },
+            {
+                "word": "Eichenholz",
+                "article": "das"
+            },
+            {
+                "word": "Eigengeruch",
+                "article": "der"
+            },
+            {
+                "word": "Eigenheit",
+                "article": "die"
+            },
+            {
+                "word": "Eigenverantwortung",
+                "article": "die"
+            },
+            {
+                "word": "Eigenwert",
+                "article": "der"
+            },
+            {
+                "word": "Eignung",
+                "article": "die"
+            },
+            {
+                "word": "Einblick",
+                "article": "der"
+            },
+            {
+                "word": "Einfassung",
+                "article": "die"
+            },
+            {
+                "word": "Einf\u00fchlsamkeit",
+                "article": "die"
+            },
+            {
+                "word": "Einhaltung",
+                "article": "die"
+            },
+            {
+                "word": "Einheitlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Einigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Einkaufstasche",
+                "article": "die"
+            },
+            {
+                "word": "Einklang",
+                "article": "der"
+            },
+            {
+                "word": "Einsatzbereitschaft",
+                "article": "die"
+            },
+            {
+                "word": "Einsatzgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Einsatzort",
+                "article": "der"
+            },
+            {
+                "word": "Einschnitt",
+                "article": "der"
+            },
+            {
+                "word": "Einsparung",
+                "article": "die"
+            },
+            {
+                "word": "Eintopf",
+                "article": "der"
+            },
+            {
+                "word": "Einverst\u00e4ndnis",
+                "article": "das"
+            },
+            {
+                "word": "Einweisung",
+                "article": "die"
+            },
+            {
+                "word": "Einwohnerzahl",
+                "article": "die"
+            },
+            {
+                "word": "Einwurf",
+                "article": "der"
+            },
+            {
+                "word": "Einzelh\u00e4ndler",
+                "article": "der"
+            },
+            {
+                "word": "Einzigartigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Einzugserm\u00e4chtigung",
+                "article": "die"
+            },
+            {
+                "word": "Eisenbahnnetz",
+                "article": "das"
+            },
+            {
+                "word": "Eisenindustrie",
+                "article": "die"
+            },
+            {
+                "word": "Eizelle",
+                "article": "die"
+            },
+            {
+                "word": "Elan",
+                "article": "der"
+            },
+            {
+                "word": "Eldorado",
+                "article": "das"
+            },
+            {
+                "word": "Eleganz",
+                "article": "die"
+            },
+            {
+                "word": "Elektrik",
+                "article": "die"
+            },
+            {
+                "word": "Elektroindustrie",
+                "article": "die"
+            },
+            {
+                "word": "Elektrotechniker",
+                "article": "der"
+            },
+            {
+                "word": "Elend",
+                "article": "das"
+            },
+            {
+                "word": "Embryo",
+                "article": "das"
+            },
+            {
+                "word": "Emission",
+                "article": "die"
+            },
+            {
+                "word": "Endlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Energieerzeugung",
+                "article": "die"
+            },
+            {
+                "word": "Energietr\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Energiewirtschaft",
+                "article": "die"
+            },
+            {
+                "word": "Engpass",
+                "article": "der"
+            },
+            {
+                "word": "Enkelkind",
+                "article": "das"
+            },
+            {
+                "word": "Entdeckung",
+                "article": "die"
+            },
+            {
+                "word": "Entertainer",
+                "article": "der"
+            },
+            {
+                "word": "Entfaltung",
+                "article": "die"
+            },
+            {
+                "word": "Entlehnung",
+                "article": "die"
+            },
+            {
+                "word": "Entscheidungsfreiheit",
+                "article": "die"
+            },
+            {
+                "word": "Entscheidungstr\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Entschlossenheit",
+                "article": "die"
+            },
+            {
+                "word": "Entschlusskraft",
+                "article": "die"
+            },
+            {
+                "word": "Entsprechung",
+                "article": "die"
+            },
+            {
+                "word": "Enttarnung",
+                "article": "die"
+            },
+            {
+                "word": "Entv\u00f6lkerung",
+                "article": "die"
+            },
+            {
+                "word": "Entwicklungsphase",
+                "article": "die"
+            },
+            {
+                "word": "Entwicklungsprozess",
+                "article": "der"
+            },
+            {
+                "word": "Entwicklungsstufe",
+                "article": "die"
+            },
+            {
+                "word": "Epilog",
+                "article": "der"
+            },
+            {
+                "word": "Episode",
+                "article": "die"
+            },
+            {
+                "word": "Epizentrum",
+                "article": "das"
+            },
+            {
+                "word": "Erbe",
+                "article": "das"
+            },
+            {
+                "word": "Erbgut",
+                "article": "das"
+            },
+            {
+                "word": "Erbschaft",
+                "article": "die"
+            },
+            {
+                "word": "Erdkern",
+                "article": "der"
+            },
+            {
+                "word": "Erdoberfl\u00e4che",
+                "article": "die"
+            },
+            {
+                "word": "Erd\u00f6lvorkommen",
+                "article": "das"
+            },
+            {
+                "word": "Erfordernis",
+                "article": "das"
+            },
+            {
+                "word": "Erfrischungsgetr\u00e4nk",
+                "article": "das"
+            },
+            {
+                "word": "Erhebung",
+                "article": "die"
+            },
+            {
+                "word": "Erkl\u00e4rungsversuch",
+                "article": "der"
+            },
+            {
+                "word": "Erkrankung",
+                "article": "die"
+            },
+            {
+                "word": "Erkundung",
+                "article": "die"
+            },
+            {
+                "word": "Erleuchtung",
+                "article": "die"
+            },
+            {
+                "word": "Erl\u00f6s",
+                "article": "der"
+            },
+            {
+                "word": "Erm\u00e4chtigung",
+                "article": "die"
+            },
+            {
+                "word": "Ermittler",
+                "article": "der"
+            },
+            {
+                "word": "Erm\u00fcdung",
+                "article": "die"
+            },
+            {
+                "word": "Erneuerung",
+                "article": "die"
+            },
+            {
+                "word": "Ernsthaftigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Ern\u00fcchterung",
+                "article": "die"
+            },
+            {
+                "word": "Eroberer",
+                "article": "der"
+            },
+            {
+                "word": "Eroberung",
+                "article": "die"
+            },
+            {
+                "word": "Erreichbarkeit",
+                "article": "die"
+            },
+            {
+                "word": "Erscheinung",
+                "article": "die"
+            },
+            {
+                "word": "Erschlie\u00dfung",
+                "article": "die"
+            },
+            {
+                "word": "Erstellung",
+                "article": "die"
+            },
+            {
+                "word": "Erw\u00e4hnung",
+                "article": "die"
+            },
+            {
+                "word": "Erwartungshaltung",
+                "article": "die"
+            },
+            {
+                "word": "Erweiterung",
+                "article": "die"
+            },
+            {
+                "word": "Erwerb",
+                "article": "der"
+            },
+            {
+                "word": "Erzeuger",
+                "article": "der"
+            },
+            {
+                "word": "Erzeugnis",
+                "article": "das"
+            },
+            {
+                "word": "Etappenziel",
+                "article": "das"
+            },
+            {
+                "word": "Ethos",
+                "article": "das"
+            },
+            {
+                "word": "Euphemismus",
+                "article": "der"
+            },
+            {
+                "word": "Euthanasie",
+                "article": "die"
+            },
+            {
+                "word": "Ewigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Exempel",
+                "article": "das"
+            },
+            {
+                "word": "Existenz",
+                "article": "die"
+            },
+            {
+                "word": "Expertise",
+                "article": "die"
+            },
+            {
+                "word": "Exponat",
+                "article": "das"
+            },
+            {
+                "word": "Expressionismus",
+                "article": "der"
+            },
+            {
+                "word": "Expressionist",
+                "article": "der"
+            },
+            {
+                "word": "Extra",
+                "article": "das"
+            },
+            {
+                "word": "Exzess",
                 "article": "der"
             }
         ]
