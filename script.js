@@ -31,9 +31,28 @@ function newWord(level) {
 
 function checkAnswer(article) {
     if (currentWord["article"] == article) {
-        console.log("Correct!")
+        showNotification("Richtig!")
     } else {
-        console.log("Incorrect!")
+        showNotification("Falsch!")
     }
     newWord(level)
+}
+
+function showNotification(message) {
+    const notification = document.createElement('div');
+    notification.className = 'notification';
+    if (message == "Richtig!") {
+        notification.classList.add('correct');
+    } else {
+        notification.classList.add('incorrect');
+    }
+    notification.innerText = message;
+    document.body.appendChild(notification);
+
+    setTimeout(() => {
+        notification.classList.add('fade-out');
+        notification.addEventListener('transitionend', () => {
+            notification.remove();
+        });
+    }, 1000); // Display for 1 second before fading out
 }

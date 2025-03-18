@@ -1033,6 +1033,530 @@
                 "word": "Experte",
                 "article": "der"
             }
+        ],
+        "F": [
+            {
+                "word": "Fach",
+                "article": "das"
+            },
+            {
+                "word": "Fahne",
+                "article": "die"
+            },
+            {
+                "word": "Fahrer",
+                "article": "der"
+            },
+            {
+                "word": "Fahrkarte",
+                "article": "die"
+            },
+            {
+                "word": "Fahrrad",
+                "article": "das"
+            },
+            {
+                "word": "Fahrradtour",
+                "article": "die"
+            },
+            {
+                "word": "Fahrt",
+                "article": "die"
+            },
+            {
+                "word": "Familie",
+                "article": "die"
+            },
+            {
+                "word": "Familienfest",
+                "article": "das"
+            },
+            {
+                "word": "Familienname",
+                "article": "der"
+            },
+            {
+                "word": "Familienstand",
+                "article": "der"
+            },
+            {
+                "word": "Fan",
+                "article": "der"
+            },
+            {
+                "word": "Fantasie",
+                "article": "die"
+            },
+            {
+                "word": "Farbe",
+                "article": "die"
+            },
+            {
+                "word": "Fasching",
+                "article": "der"
+            },
+            {
+                "word": "Favorit",
+                "article": "der"
+            },
+            {
+                "word": "Fax",
+                "article": "der"
+            },
+            {
+                "word": "Fazit",
+                "article": "das"
+            },
+            {
+                "word": "Februar",
+                "article": "der"
+            },
+            {
+                "word": "Fehler",
+                "article": "der"
+            },
+            {
+                "word": "Feier",
+                "article": "die"
+            },
+            {
+                "word": "Feierabend",
+                "article": "der"
+            },
+            {
+                "word": "Feiertag",
+                "article": "der"
+            },
+            {
+                "word": "Feld",
+                "article": "das"
+            },
+            {
+                "word": "Fenster",
+                "article": "das"
+            },
+            {
+                "word": "Ferienende",
+                "article": "das"
+            },
+            {
+                "word": "Fernseher",
+                "article": "der"
+            },
+            {
+                "word": "Fest",
+                "article": "das"
+            },
+            {
+                "word": "Feuer",
+                "article": "das"
+            },
+            {
+                "word": "Fieber",
+                "article": "das"
+            },
+            {
+                "word": "Film",
+                "article": "der"
+            },
+            {
+                "word": "Filmprojekt",
+                "article": "das"
+            },
+            {
+                "word": "Filtert\u00fcte",
+                "article": "die"
+            },
+            {
+                "word": "Finger",
+                "article": "der"
+            },
+            {
+                "word": "Firma",
+                "article": "die"
+            },
+            {
+                "word": "Fisch",
+                "article": "der"
+            },
+            {
+                "word": "Fischgericht",
+                "article": "das"
+            },
+            {
+                "word": "Fischmarkt",
+                "article": "der"
+            },
+            {
+                "word": "Fitnessger\u00e4t",
+                "article": "das"
+            },
+            {
+                "word": "Flammkuchen",
+                "article": "der"
+            },
+            {
+                "word": "Flasche",
+                "article": "die"
+            },
+            {
+                "word": "Fleisch",
+                "article": "das"
+            },
+            {
+                "word": "Fluch",
+                "article": "der"
+            },
+            {
+                "word": "Flughafen",
+                "article": "der"
+            },
+            {
+                "word": "Flugzeug",
+                "article": "das"
+            },
+            {
+                "word": "Flur",
+                "article": "die"
+            },
+            {
+                "word": "Fluss",
+                "article": "der"
+            },
+            {
+                "word": "Flut",
+                "article": "die"
+            },
+            {
+                "word": "Flyer",
+                "article": "der"
+            },
+            {
+                "word": "F\u00f6hn",
+                "article": "der"
+            },
+            {
+                "word": "Form",
+                "article": "die"
+            },
+            {
+                "word": "Formular",
+                "article": "das"
+            },
+            {
+                "word": "Foto",
+                "article": "das"
+            },
+            {
+                "word": "Fotoalbum",
+                "article": "das"
+            },
+            {
+                "word": "Fotoapparat",
+                "article": "der"
+            },
+            {
+                "word": "Fotograf",
+                "article": "der"
+            },
+            {
+                "word": "Fotografin",
+                "article": "die"
+            },
+            {
+                "word": "Frage",
+                "article": "die"
+            },
+            {
+                "word": "Fragebogen",
+                "article": "der"
+            },
+            {
+                "word": "Franz\u00f6sisch",
+                "article": "das"
+            },
+            {
+                "word": "Frau",
+                "article": "die"
+            },
+            {
+                "word": "Freitag",
+                "article": "der"
+            },
+            {
+                "word": "Freizeit",
+                "article": "die"
+            },
+            {
+                "word": "Freizeitkleidung",
+                "article": "die"
+            },
+            {
+                "word": "Fremdsprache",
+                "article": "die"
+            },
+            {
+                "word": "Freund",
+                "article": "der"
+            },
+            {
+                "word": "Freundin",
+                "article": "die"
+            },
+            {
+                "word": "Friseur",
+                "article": "der"
+            },
+            {
+                "word": "Frohsinn",
+                "article": "der"
+            },
+            {
+                "word": "Frosch",
+                "article": "der"
+            },
+            {
+                "word": "Fr\u00fchjahr",
+                "article": "das"
+            },
+            {
+                "word": "Fr\u00fchling",
+                "article": "der"
+            },
+            {
+                "word": "Fr\u00fchst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "F\u00fchrung",
+                "article": "die"
+            },
+            {
+                "word": "Fundb\u00fcro",
+                "article": "das"
+            },
+            {
+                "word": "Fu\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfball",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfballschuh",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfballspiel",
+                "article": "das"
+            },
+            {
+                "word": "Fu\u00dfballstadion",
+                "article": "das"
+            }
+        ],
+        "G": [
+            {
+                "word": "Gabel",
+                "article": "die"
+            },
+            {
+                "word": "G\u00e4stebuch",
+                "article": "das"
+            },
+            {
+                "word": "Garten",
+                "article": "der"
+            },
+            {
+                "word": "Gast",
+                "article": "der"
+            },
+            {
+                "word": "Geburtsdatum",
+                "article": "das"
+            },
+            {
+                "word": "Geburtsjahr",
+                "article": "das"
+            },
+            {
+                "word": "Geburtsort",
+                "article": "der"
+            },
+            {
+                "word": "Geburtstag",
+                "article": "der"
+            },
+            {
+                "word": "Geburtstagskind",
+                "article": "das"
+            },
+            {
+                "word": "Geburtstagsparty",
+                "article": "die"
+            },
+            {
+                "word": "Gedicht",
+                "article": "das"
+            },
+            {
+                "word": "Geld",
+                "article": "das"
+            },
+            {
+                "word": "Gem\u00fcse",
+                "article": "das"
+            },
+            {
+                "word": "Gem\u00fcsesuppe",
+                "article": "die"
+            },
+            {
+                "word": "Geografie",
+                "article": "die"
+            },
+            {
+                "word": "Gep\u00e4ck",
+                "article": "das"
+            },
+            {
+                "word": "Gep\u00e4cktransport",
+                "article": "der"
+            },
+            {
+                "word": "Ger\u00e4t",
+                "article": "das"
+            },
+            {
+                "word": "Ger\u00e4usch",
+                "article": "das"
+            },
+            {
+                "word": "Gericht",
+                "article": "das"
+            },
+            {
+                "word": "Gesch\u00e4ft",
+                "article": "das"
+            },
+            {
+                "word": "Geschenk",
+                "article": "das"
+            },
+            {
+                "word": "Geschichte",
+                "article": "die"
+            },
+            {
+                "word": "Geschwister",
+                "article": "das"
+            },
+            {
+                "word": "Gespr\u00e4ch",
+                "article": "das"
+            },
+            {
+                "word": "Gesundheit",
+                "article": "die"
+            },
+            {
+                "word": "Getr\u00e4nk",
+                "article": "das"
+            },
+            {
+                "word": "Gewicht",
+                "article": "das"
+            },
+            {
+                "word": "Gitarre",
+                "article": "die"
+            },
+            {
+                "word": "Glas",
+                "article": "das"
+            },
+            {
+                "word": "Gleis",
+                "article": "das"
+            },
+            {
+                "word": "Gl\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Gl\u00fcckwunsch",
+                "article": "der"
+            },
+            {
+                "word": "Grad",
+                "article": "der"
+            },
+            {
+                "word": "Grafik",
+                "article": "die"
+            },
+            {
+                "word": "Gramm",
+                "article": "das"
+            },
+            {
+                "word": "Gras",
+                "article": "das"
+            },
+            {
+                "word": "Grenze",
+                "article": "die"
+            },
+            {
+                "word": "Grill",
+                "article": "der"
+            },
+            {
+                "word": "Grillparty",
+                "article": "die"
+            },
+            {
+                "word": "Gr\u00f6\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Gro\u00dfmutter",
+                "article": "die"
+            },
+            {
+                "word": "Gro\u00dfstadt",
+                "article": "die"
+            },
+            {
+                "word": "Gro\u00dfvater",
+                "article": "der"
+            },
+            {
+                "word": "Gruppe",
+                "article": "die"
+            },
+            {
+                "word": "Gru\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Gru\u00dfformel",
+                "article": "die"
+            },
+            {
+                "word": "G\u00fcrtel",
+                "article": "der"
+            },
+            {
+                "word": "Gurke",
+                "article": "die"
+            },
+            {
+                "word": "Gymnasium",
+                "article": "das"
+            }
         ]
     },
     "A2": {
@@ -1768,6 +2292,224 @@
             {
                 "word": "Erwartung",
                 "article": "die"
+            }
+        ],
+        "F": [
+            {
+                "word": "F\u00e4higkeit",
+                "article": "die"
+            },
+            {
+                "word": "Fahrerin",
+                "article": "die"
+            },
+            {
+                "word": "Fahrgast",
+                "article": "der"
+            },
+            {
+                "word": "Fahrkartenschalter",
+                "article": "der"
+            },
+            {
+                "word": "Fahrplan",
+                "article": "der"
+            },
+            {
+                "word": "Fall",
+                "article": "der"
+            },
+            {
+                "word": "Falle",
+                "article": "die"
+            },
+            {
+                "word": "Fallschirm",
+                "article": "der"
+            },
+            {
+                "word": "Farbstift",
+                "article": "der"
+            },
+            {
+                "word": "Feldhase",
+                "article": "der"
+            },
+            {
+                "word": "Ferientag",
+                "article": "der"
+            },
+            {
+                "word": "Ferienwohnung",
+                "article": "die"
+            },
+            {
+                "word": "Fernfahrer",
+                "article": "der"
+            },
+            {
+                "word": "Fernsehen",
+                "article": "das"
+            },
+            {
+                "word": "Fernsehger\u00e4t",
+                "article": "das"
+            },
+            {
+                "word": "Fernsehsender",
+                "article": "der"
+            },
+            {
+                "word": "Fernsehturm",
+                "article": "der"
+            },
+            {
+                "word": "Festival",
+                "article": "der"
+            },
+            {
+                "word": "Fete",
+                "article": "die"
+            },
+            {
+                "word": "Feuerwehr",
+                "article": "die"
+            },
+            {
+                "word": "Feuerwerk",
+                "article": "das"
+            },
+            {
+                "word": "Figur",
+                "article": "die"
+            },
+            {
+                "word": "Filmregisseur",
+                "article": "der"
+            },
+            {
+                "word": "Filmteam",
+                "article": "das"
+            },
+            {
+                "word": "Finale",
+                "article": "das"
+            },
+            {
+                "word": "Fingernagel",
+                "article": "der"
+            },
+            {
+                "word": "Fl\u00e4che",
+                "article": "die"
+            },
+            {
+                "word": "Flaschen\u00f6ffner",
+                "article": "der"
+            },
+            {
+                "word": "Fleck",
+                "article": "der"
+            },
+            {
+                "word": "Flexibilit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Fl\u00f6te",
+                "article": "die"
+            },
+            {
+                "word": "Flohmarkt",
+                "article": "der"
+            },
+            {
+                "word": "Flug",
+                "article": "der"
+            },
+            {
+                "word": "Folge",
+                "article": "die"
+            },
+            {
+                "word": "Formulierung",
+                "article": "die"
+            },
+            {
+                "word": "Forum",
+                "article": "das"
+            },
+            {
+                "word": "Fotomontage",
+                "article": "die"
+            },
+            {
+                "word": "Foyer",
+                "article": "das"
+            },
+            {
+                "word": "Frauenberuf",
+                "article": "der"
+            },
+            {
+                "word": "Frauenchor",
+                "article": "der"
+            },
+            {
+                "word": "Freiheit",
+                "article": "die"
+            },
+            {
+                "word": "Freude",
+                "article": "die"
+            },
+            {
+                "word": "Freundschaft",
+                "article": "die"
+            },
+            {
+                "word": "Friseurin",
+                "article": "die"
+            },
+            {
+                "word": "Frisur",
+                "article": "die"
+            },
+            {
+                "word": "Frucht",
+                "article": "die"
+            },
+            {
+                "word": "F\u00fchrerschein",
+                "article": "der"
+            },
+            {
+                "word": "F\u00fcller",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfballer",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfballfan",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfballplatz",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfballprofi",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfg\u00e4ngerzone",
+                "article": "die"
+            },
+            {
+                "word": "Futter",
+                "article": "das"
             }
         ]
     },
@@ -2727,6 +3469,260 @@
             },
             {
                 "word": "Export",
+                "article": "der"
+            }
+        ],
+        "F": [
+            {
+                "word": "Fabel",
+                "article": "die"
+            },
+            {
+                "word": "Fabrik",
+                "article": "die"
+            },
+            {
+                "word": "Facharzt",
+                "article": "der"
+            },
+            {
+                "word": "Fachmann",
+                "article": "der"
+            },
+            {
+                "word": "Fachzeitschrift",
+                "article": "die"
+            },
+            {
+                "word": "Faden",
+                "article": "der"
+            },
+            {
+                "word": "F\u00e4hre",
+                "article": "die"
+            },
+            {
+                "word": "Fahrbahn",
+                "article": "die"
+            },
+            {
+                "word": "Fahrkartenautomat",
+                "article": "der"
+            },
+            {
+                "word": "Fahrschule",
+                "article": "die"
+            },
+            {
+                "word": "Fahrzeug",
+                "article": "das"
+            },
+            {
+                "word": "Fairness",
+                "article": "die"
+            },
+            {
+                "word": "Fakt",
+                "article": "das"
+            },
+            {
+                "word": "Faktor",
+                "article": "der"
+            },
+            {
+                "word": "Familienunternehmen",
+                "article": "das"
+            },
+            {
+                "word": "Faszination",
+                "article": "die"
+            },
+            {
+                "word": "Feature",
+                "article": "das"
+            },
+            {
+                "word": "Feedback",
+                "article": "das"
+            },
+            {
+                "word": "Fell",
+                "article": "das"
+            },
+            {
+                "word": "Ferienheim",
+                "article": "das"
+            },
+            {
+                "word": "Fernbedienung",
+                "article": "die"
+            },
+            {
+                "word": "Festplatte",
+                "article": "die"
+            },
+            {
+                "word": "Fett",
+                "article": "das"
+            },
+            {
+                "word": "Feuerzeug",
+                "article": "das"
+            },
+            {
+                "word": "Filiale",
+                "article": "die"
+            },
+            {
+                "word": "Filmbranche",
+                "article": "die"
+            },
+            {
+                "word": "Filmmusik",
+                "article": "die"
+            },
+            {
+                "word": "Filmpreis",
+                "article": "der"
+            },
+            {
+                "word": "Filmstar",
+                "article": "der"
+            },
+            {
+                "word": "Filmstudio",
+                "article": "das"
+            },
+            {
+                "word": "Filmvorf\u00fchrung",
+                "article": "die"
+            },
+            {
+                "word": "Finalspiel",
+                "article": "das"
+            },
+            {
+                "word": "Finanzkrise",
+                "article": "die"
+            },
+            {
+                "word": "Firmenname",
+                "article": "der"
+            },
+            {
+                "word": "Fischer",
+                "article": "der"
+            },
+            {
+                "word": "Fischotter",
+                "article": "der"
+            },
+            {
+                "word": "Fitness",
+                "article": "die"
+            },
+            {
+                "word": "Fleischer",
+                "article": "der"
+            },
+            {
+                "word": "Fleischhauer",
+                "article": "der"
+            },
+            {
+                "word": "Fliege",
+                "article": "die"
+            },
+            {
+                "word": "Flucht",
+                "article": "die"
+            },
+            {
+                "word": "Fl\u00fcchtlingsfrau",
+                "article": "die"
+            },
+            {
+                "word": "Fl\u00fcssigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Flugbegleiter",
+                "article": "der"
+            },
+            {
+                "word": "F\u00f6rderung",
+                "article": "die"
+            },
+            {
+                "word": "Font\u00e4ne",
+                "article": "die"
+            },
+            {
+                "word": "Forderung",
+                "article": "die"
+            },
+            {
+                "word": "Forscher",
+                "article": "der"
+            },
+            {
+                "word": "Forschung",
+                "article": "die"
+            },
+            {
+                "word": "Fortschritt",
+                "article": "der"
+            },
+            {
+                "word": "Fortsetzung",
+                "article": "die"
+            },
+            {
+                "word": "Fotografie",
+                "article": "die"
+            },
+            {
+                "word": "Fototasche",
+                "article": "die"
+            },
+            {
+                "word": "Freak",
+                "article": "der"
+            },
+            {
+                "word": "Freibad",
+                "article": "das"
+            },
+            {
+                "word": "Freundeskreis",
+                "article": "der"
+            },
+            {
+                "word": "Frist",
+                "article": "die"
+            },
+            {
+                "word": "Fr\u00fchschicht",
+                "article": "die"
+            },
+            {
+                "word": "Fuchs",
+                "article": "der"
+            },
+            {
+                "word": "Funktion",
+                "article": "die"
+            },
+            {
+                "word": "Fu\u00dfabdruck",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfballteam",
+                "article": "das"
+            },
+            {
+                "word": "Fu\u00dfg\u00e4nger",
                 "article": "der"
             }
         ]
@@ -3903,6 +4899,264 @@
             },
             {
                 "word": "Extremsportlerin",
+                "article": "die"
+            }
+        ],
+        "F": [
+            {
+                "word": "Fachfrau",
+                "article": "die"
+            },
+            {
+                "word": "Fachwelt",
+                "article": "die"
+            },
+            {
+                "word": "Faible",
+                "article": "das"
+            },
+            {
+                "word": "Fallbeispiel",
+                "article": "das"
+            },
+            {
+                "word": "Fanclub",
+                "article": "der"
+            },
+            {
+                "word": "Farbgebung",
+                "article": "die"
+            },
+            {
+                "word": "Fastenkur",
+                "article": "die"
+            },
+            {
+                "word": "Fastenzeit",
+                "article": "die"
+            },
+            {
+                "word": "Faulheit",
+                "article": "die"
+            },
+            {
+                "word": "Faulpelz",
+                "article": "der"
+            },
+            {
+                "word": "Faust",
+                "article": "die"
+            },
+            {
+                "word": "Faustregel",
+                "article": "die"
+            },
+            {
+                "word": "Fehlentscheidung",
+                "article": "die"
+            },
+            {
+                "word": "Feind",
+                "article": "der"
+            },
+            {
+                "word": "Feinkost",
+                "article": "die"
+            },
+            {
+                "word": "Fernweh",
+                "article": "das"
+            },
+            {
+                "word": "Fertigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Fertigstellung",
+                "article": "die"
+            },
+            {
+                "word": "Festspiel",
+                "article": "das"
+            },
+            {
+                "word": "Feststellung",
+                "article": "die"
+            },
+            {
+                "word": "Fettn\u00e4pfchen",
+                "article": "das"
+            },
+            {
+                "word": "Fetzen",
+                "article": "der"
+            },
+            {
+                "word": "Feuerholz",
+                "article": "das"
+            },
+            {
+                "word": "Feuilleton",
+                "article": "das"
+            },
+            {
+                "word": "Feuilletonist",
+                "article": "der"
+            },
+            {
+                "word": "Feuilletonistin",
+                "article": "die"
+            },
+            {
+                "word": "Fieberthermometer",
+                "article": "das"
+            },
+            {
+                "word": "Filterpapier",
+                "article": "das"
+            },
+            {
+                "word": "Fingerspitzengef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Fink",
+                "article": "der"
+            },
+            {
+                "word": "Firlefanz",
+                "article": "der"
+            },
+            {
+                "word": "Fischerin",
+                "article": "die"
+            },
+            {
+                "word": "Fitnessstudio",
+                "article": "das"
+            },
+            {
+                "word": "Fjord",
+                "article": "der"
+            },
+            {
+                "word": "Flamme",
+                "article": "die"
+            },
+            {
+                "word": "Flei\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Flinte",
+                "article": "die"
+            },
+            {
+                "word": "Flosse",
+                "article": "die"
+            },
+            {
+                "word": "Fl\u00fcchtling",
+                "article": "der"
+            },
+            {
+                "word": "Fl\u00fcgel",
+                "article": "der"
+            },
+            {
+                "word": "F\u00f6rderschule",
+                "article": "die"
+            },
+            {
+                "word": "F\u00f6rderverein",
+                "article": "der"
+            },
+            {
+                "word": "Forelle",
+                "article": "die"
+            },
+            {
+                "word": "Formalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Forscherin",
+                "article": "die"
+            },
+            {
+                "word": "Forschungseinrichtung",
+                "article": "die"
+            },
+            {
+                "word": "Forschungsergebnis",
+                "article": "das"
+            },
+            {
+                "word": "Fortgang",
+                "article": "der"
+            },
+            {
+                "word": "Franke",
+                "article": "der"
+            },
+            {
+                "word": "Frauensache",
+                "article": "die"
+            },
+            {
+                "word": "Frauenzeitschrift",
+                "article": "die"
+            },
+            {
+                "word": "Frechheit",
+                "article": "die"
+            },
+            {
+                "word": "Freiherr",
+                "article": "der"
+            },
+            {
+                "word": "Fremde",
+                "article": "die"
+            },
+            {
+                "word": "Freundlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Friedhof",
+                "article": "der"
+            },
+            {
+                "word": "Front",
+                "article": "die"
+            },
+            {
+                "word": "Fr\u00fchbucherrabatt",
+                "article": "der"
+            },
+            {
+                "word": "F\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "F\u00fchrungskraft",
+                "article": "die"
+            },
+            {
+                "word": "F\u00fchrungszeugnis",
+                "article": "das"
+            },
+            {
+                "word": "Funkuhr",
+                "article": "die"
+            },
+            {
+                "word": "Furcht",
+                "article": "die"
+            },
+            {
+                "word": "Fu\u00dfsohle",
                 "article": "die"
             }
         ]
@@ -5484,6 +6738,428 @@
             {
                 "word": "Exzess",
                 "article": "der"
+            }
+        ],
+        "F": [
+            {
+                "word": "Fachgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Fachkenntnis",
+                "article": "die"
+            },
+            {
+                "word": "Fachkraft",
+                "article": "die"
+            },
+            {
+                "word": "Fachrichtung",
+                "article": "die"
+            },
+            {
+                "word": "Fachschule",
+                "article": "die"
+            },
+            {
+                "word": "Fachtext",
+                "article": "der"
+            },
+            {
+                "word": "Fachunterricht",
+                "article": "der"
+            },
+            {
+                "word": "Fachwissen",
+                "article": "das"
+            },
+            {
+                "word": "F\u00e4hnlein",
+                "article": "das"
+            },
+            {
+                "word": "F\u00e4lligkeit",
+                "article": "die"
+            },
+            {
+                "word": "F\u00e4lscher",
+                "article": "der"
+            },
+            {
+                "word": "F\u00e4lschung",
+                "article": "die"
+            },
+            {
+                "word": "Fahndung",
+                "article": "die"
+            },
+            {
+                "word": "Fahrerflucht",
+                "article": "die"
+            },
+            {
+                "word": "Fahrradkette",
+                "article": "die"
+            },
+            {
+                "word": "Fahrstuhl",
+                "article": "der"
+            },
+            {
+                "word": "Fahrzeugbau",
+                "article": "der"
+            },
+            {
+                "word": "Faktenwissen",
+                "article": "das"
+            },
+            {
+                "word": "Fakult\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Falte",
+                "article": "die"
+            },
+            {
+                "word": "Faltenwurf",
+                "article": "der"
+            },
+            {
+                "word": "Familiendrama",
+                "article": "das"
+            },
+            {
+                "word": "Familiengeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Familienleben",
+                "article": "das"
+            },
+            {
+                "word": "Familienmitglied",
+                "article": "das"
+            },
+            {
+                "word": "Farbpalette",
+                "article": "die"
+            },
+            {
+                "word": "Farbton",
+                "article": "der"
+            },
+            {
+                "word": "Faser",
+                "article": "die"
+            },
+            {
+                "word": "Faulenzer",
+                "article": "der"
+            },
+            {
+                "word": "Faulenzerei",
+                "article": "die"
+            },
+            {
+                "word": "Fauxpas",
+                "article": "der"
+            },
+            {
+                "word": "Feder",
+                "article": "die"
+            },
+            {
+                "word": "Fehlschlag",
+                "article": "der"
+            },
+            {
+                "word": "Fehlschluss",
+                "article": "der"
+            },
+            {
+                "word": "Ferienzeit",
+                "article": "die"
+            },
+            {
+                "word": "Ferne",
+                "article": "die"
+            },
+            {
+                "word": "Fernsehsendung",
+                "article": "die"
+            },
+            {
+                "word": "Fernziel",
+                "article": "das"
+            },
+            {
+                "word": "Fertigware",
+                "article": "die"
+            },
+            {
+                "word": "Fessel",
+                "article": "die"
+            },
+            {
+                "word": "Festanstellung",
+                "article": "die"
+            },
+            {
+                "word": "Festnahme",
+                "article": "die"
+            },
+            {
+                "word": "Fiktion",
+                "article": "die"
+            },
+            {
+                "word": "Filter",
+                "article": "das"
+            },
+            {
+                "word": "Filzstift",
+                "article": "der"
+            },
+            {
+                "word": "Finanzamt",
+                "article": "das"
+            },
+            {
+                "word": "Finanzierung",
+                "article": "die"
+            },
+            {
+                "word": "Fingerabdruck",
+                "article": "der"
+            },
+            {
+                "word": "Fingerspitze",
+                "article": "die"
+            },
+            {
+                "word": "Firmament",
+                "article": "das"
+            },
+            {
+                "word": "Fixpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Flaschenhals",
+                "article": "der"
+            },
+            {
+                "word": "Fledermaus",
+                "article": "die"
+            },
+            {
+                "word": "Fleischpreis",
+                "article": "der"
+            },
+            {
+                "word": "Flipchart",
+                "article": "das"
+            },
+            {
+                "word": "Flitterwochen",
+                "article": "die"
+            },
+            {
+                "word": "Fluchtversuch",
+                "article": "der"
+            },
+            {
+                "word": "Flutwelle",
+                "article": "die"
+            },
+            {
+                "word": "F\u00f6deralismus",
+                "article": "der"
+            },
+            {
+                "word": "F\u00f6rderer",
+                "article": "der"
+            },
+            {
+                "word": "F\u00f6rderunterricht",
+                "article": "der"
+            },
+            {
+                "word": "Folgejahr",
+                "article": "das"
+            },
+            {
+                "word": "Folie",
+                "article": "die"
+            },
+            {
+                "word": "Formel",
+                "article": "die"
+            },
+            {
+                "word": "Formensprache",
+                "article": "die"
+            },
+            {
+                "word": "Formgebung",
+                "article": "die"
+            },
+            {
+                "word": "Forschungsauftrag",
+                "article": "der"
+            },
+            {
+                "word": "Forschungsfeld",
+                "article": "das"
+            },
+            {
+                "word": "Forschungsinstitut",
+                "article": "das"
+            },
+            {
+                "word": "Forschungsprojekt",
+                "article": "das"
+            },
+            {
+                "word": "Fossil",
+                "article": "das"
+            },
+            {
+                "word": "Fotomodell",
+                "article": "das"
+            },
+            {
+                "word": "Fracht",
+                "article": "die"
+            },
+            {
+                "word": "Freiraum",
+                "article": "der"
+            },
+            {
+                "word": "Freisto\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Freizeitgestaltung",
+                "article": "die"
+            },
+            {
+                "word": "Freiz\u00fcgigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Fremdenzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Fremdfinanzierung",
+                "article": "die"
+            },
+            {
+                "word": "Fremdkapital",
+                "article": "das"
+            },
+            {
+                "word": "Fremdsprachenkorrespondentin",
+                "article": "die"
+            },
+            {
+                "word": "Frequenz",
+                "article": "die"
+            },
+            {
+                "word": "Friedensnobelpreis",
+                "article": "der"
+            },
+            {
+                "word": "Frischk\u00e4se",
+                "article": "der"
+            },
+            {
+                "word": "Fr\u00f6hlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Fr\u00fchwarnsystem",
+                "article": "das"
+            },
+            {
+                "word": "Frust",
+                "article": "der"
+            },
+            {
+                "word": "F\u00fcgung",
+                "article": "die"
+            },
+            {
+                "word": "F\u00fchrungsstil",
+                "article": "der"
+            },
+            {
+                "word": "F\u00fclle",
+                "article": "die"
+            },
+            {
+                "word": "F\u00fcllsel",
+                "article": "das"
+            },
+            {
+                "word": "F\u00fcrsorgepflicht",
+                "article": "die"
+            },
+            {
+                "word": "F\u00fcrst",
+                "article": "der"
+            },
+            {
+                "word": "Fuge",
+                "article": "die"
+            },
+            {
+                "word": "Funk",
+                "article": "der"
+            },
+            {
+                "word": "Funke",
+                "article": "der"
+            },
+            {
+                "word": "Furche",
+                "article": "die"
+            },
+            {
+                "word": "Fusion",
+                "article": "die"
+            },
+            {
+                "word": "Fu\u00dfbad",
+                "article": "das"
+            },
+            {
+                "word": "Fu\u00dfballspielen",
+                "article": "das"
+            },
+            {
+                "word": "Fu\u00dfboden",
+                "article": "der"
+            },
+            {
+                "word": "Fu\u00dfgelenk",
+                "article": "das"
+            },
+            {
+                "word": "Fu\u00dfspitze",
+                "article": "die"
+            },
+            {
+                "word": "Futtermittel",
+                "article": "das"
+            },
+            {
+                "word": "Futur",
+                "article": "das"
             }
         ]
     }
