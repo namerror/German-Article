@@ -2511,6 +2511,208 @@
                 "word": "Futter",
                 "article": "das"
             }
+        ],
+        "G": [
+            {
+                "word": "G\u00e4stehaus",
+                "article": "das"
+            },
+            {
+                "word": "Gang",
+                "article": "der"
+            },
+            {
+                "word": "Garage",
+                "article": "die"
+            },
+            {
+                "word": "Gastarbeiter",
+                "article": "der"
+            },
+            {
+                "word": "Gastfreundschaft",
+                "article": "die"
+            },
+            {
+                "word": "Gastgeber",
+                "article": "der"
+            },
+            {
+                "word": "Gastgeberin",
+                "article": "die"
+            },
+            {
+                "word": "Gasthaus",
+                "article": "das"
+            },
+            {
+                "word": "Gastraum",
+                "article": "der"
+            },
+            {
+                "word": "Geb\u00e4ude",
+                "article": "das"
+            },
+            {
+                "word": "Geb\u00fchr",
+                "article": "die"
+            },
+            {
+                "word": "Geburt",
+                "article": "die"
+            },
+            {
+                "word": "Geburtstagsfeier",
+                "article": "die"
+            },
+            {
+                "word": "Gedanke",
+                "article": "der"
+            },
+            {
+                "word": "Geduld",
+                "article": "die"
+            },
+            {
+                "word": "Gefahr",
+                "article": "die"
+            },
+            {
+                "word": "Gefallen",
+                "article": "der"
+            },
+            {
+                "word": "Gef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Gegensatz",
+                "article": "der"
+            },
+            {
+                "word": "Gegenstand",
+                "article": "der"
+            },
+            {
+                "word": "Gegenteil",
+                "article": "das"
+            },
+            {
+                "word": "Gegenvorschlag",
+                "article": "der"
+            },
+            {
+                "word": "Gehalt",
+                "article": "der"
+            },
+            {
+                "word": "Gei\u00dfbock",
+                "article": "der"
+            },
+            {
+                "word": "Gel\u00e4nde",
+                "article": "das"
+            },
+            {
+                "word": "Gel\u00e4nder",
+                "article": "das"
+            },
+            {
+                "word": "Geldb\u00f6rse",
+                "article": "die"
+            },
+            {
+                "word": "Geldst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Gepard",
+                "article": "der"
+            },
+            {
+                "word": "Geruch",
+                "article": "der"
+            },
+            {
+                "word": "Gesch\u00e4ftsreise",
+                "article": "die"
+            },
+            {
+                "word": "Geschirr",
+                "article": "das"
+            },
+            {
+                "word": "Geselle",
+                "article": "der"
+            },
+            {
+                "word": "Gesicht",
+                "article": "das"
+            },
+            {
+                "word": "Gewitter",
+                "article": "das"
+            },
+            {
+                "word": "Gigabyte",
+                "article": "das"
+            },
+            {
+                "word": "Gleitschirm",
+                "article": "der"
+            },
+            {
+                "word": "Gliederung",
+                "article": "die"
+            },
+            {
+                "word": "Gl\u00f6ckchen",
+                "article": "das"
+            },
+            {
+                "word": "Gl\u00fcckwunschkarte",
+                "article": "die"
+            },
+            {
+                "word": "Gold",
+                "article": "das"
+            },
+            {
+                "word": "Graffito",
+                "article": "das"
+            },
+            {
+                "word": "Grafiker",
+                "article": "der"
+            },
+            {
+                "word": "Grippe",
+                "article": "die"
+            },
+            {
+                "word": "Gro\u00dfraumwagen",
+                "article": "der"
+            },
+            {
+                "word": "Grund",
+                "article": "der"
+            },
+            {
+                "word": "Grundschule",
+                "article": "die"
+            },
+            {
+                "word": "Gummib\u00e4rchen",
+                "article": "das"
+            },
+            {
+                "word": "Gummistiefel",
+                "article": "der"
+            },
+            {
+                "word": "Guthaben",
+                "article": "das"
+            }
         ]
     },
     "B1": {
@@ -3724,6 +3926,328 @@
             {
                 "word": "Fu\u00dfg\u00e4nger",
                 "article": "der"
+            }
+        ],
+        "G": [
+            {
+                "word": "Ganztagsschule",
+                "article": "die"
+            },
+            {
+                "word": "Garantie",
+                "article": "die"
+            },
+            {
+                "word": "Garderobe",
+                "article": "die"
+            },
+            {
+                "word": "Gas",
+                "article": "das"
+            },
+            {
+                "word": "Gasherd",
+                "article": "der"
+            },
+            {
+                "word": "Gasse",
+                "article": "die"
+            },
+            {
+                "word": "Gastronomie",
+                "article": "die"
+            },
+            {
+                "word": "Gastst\u00e4tte",
+                "article": "die"
+            },
+            {
+                "word": "Gate",
+                "article": "das"
+            },
+            {
+                "word": "Geb\u00e4ck",
+                "article": "das"
+            },
+            {
+                "word": "Gebiet",
+                "article": "das"
+            },
+            {
+                "word": "Gebrauchsanweisung",
+                "article": "die"
+            },
+            {
+                "word": "Ged\u00e4chtnis",
+                "article": "das"
+            },
+            {
+                "word": "Gef\u00e4ngnis",
+                "article": "das"
+            },
+            {
+                "word": "Gegend",
+                "article": "die"
+            },
+            {
+                "word": "Gegen\u00fcber",
+                "article": "das"
+            },
+            {
+                "word": "Gegenwart",
+                "article": "die"
+            },
+            {
+                "word": "Gegner",
+                "article": "der"
+            },
+            {
+                "word": "Gegrinse",
+                "article": "das"
+            },
+            {
+                "word": "Geheimnis",
+                "article": "das"
+            },
+            {
+                "word": "Geheimnummer",
+                "article": "die"
+            },
+            {
+                "word": "Geheimzahl",
+                "article": "die"
+            },
+            {
+                "word": "Gehirn",
+                "article": "das"
+            },
+            {
+                "word": "Gehsteig",
+                "article": "der"
+            },
+            {
+                "word": "Geige",
+                "article": "die"
+            },
+            {
+                "word": "Geldautomat",
+                "article": "der"
+            },
+            {
+                "word": "Geldbetrag",
+                "article": "der"
+            },
+            {
+                "word": "Geldbeutel",
+                "article": "der"
+            },
+            {
+                "word": "Geldkarte",
+                "article": "die"
+            },
+            {
+                "word": "Geldschein",
+                "article": "der"
+            },
+            {
+                "word": "Gelegenheit",
+                "article": "die"
+            },
+            {
+                "word": "Gem\u00e4lde",
+                "article": "das"
+            },
+            {
+                "word": "Gemeinschaft",
+                "article": "die"
+            },
+            {
+                "word": "Genehmigung",
+                "article": "die"
+            },
+            {
+                "word": "Genuss",
+                "article": "der"
+            },
+            {
+                "word": "Gep\u00e4ckband",
+                "article": "das"
+            },
+            {
+                "word": "Gep\u00e4ckfach",
+                "article": "das"
+            },
+            {
+                "word": "Gerechtigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Gesamtbev\u00f6lkerung",
+                "article": "die"
+            },
+            {
+                "word": "Gesamtschule",
+                "article": "die"
+            },
+            {
+                "word": "Gesang",
+                "article": "der"
+            },
+            {
+                "word": "Gesch\u00e4ftspartner",
+                "article": "der"
+            },
+            {
+                "word": "Geschenkpapier",
+                "article": "das"
+            },
+            {
+                "word": "Geschlecht",
+                "article": "das"
+            },
+            {
+                "word": "Geschmack",
+                "article": "der"
+            },
+            {
+                "word": "Geschmackssache",
+                "article": "die"
+            },
+            {
+                "word": "Geschwindigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Gesellschaft",
+                "article": "die"
+            },
+            {
+                "word": "Gesetz",
+                "article": "das"
+            },
+            {
+                "word": "Geste",
+                "article": "die"
+            },
+            {
+                "word": "Getreide",
+                "article": "das"
+            },
+            {
+                "word": "Gewalt",
+                "article": "die"
+            },
+            {
+                "word": "Gewinn",
+                "article": "der"
+            },
+            {
+                "word": "Gewinner",
+                "article": "der"
+            },
+            {
+                "word": "Gewinnspiel",
+                "article": "das"
+            },
+            {
+                "word": "Gewissen",
+                "article": "das"
+            },
+            {
+                "word": "Gewissensfrage",
+                "article": "die"
+            },
+            {
+                "word": "Gew\u00fcrz",
+                "article": "das"
+            },
+            {
+                "word": "Gift",
+                "article": "das"
+            },
+            {
+                "word": "Giraffe",
+                "article": "die"
+            },
+            {
+                "word": "Girokonto",
+                "article": "das"
+            },
+            {
+                "word": "Gleichberechtigung",
+                "article": "die"
+            },
+            {
+                "word": "Globalisierung",
+                "article": "die"
+            },
+            {
+                "word": "Goldwaage",
+                "article": "die"
+            },
+            {
+                "word": "Gott",
+                "article": "der"
+            },
+            {
+                "word": "Graffiti",
+                "article": "das"
+            },
+            {
+                "word": "Grafikkarte",
+                "article": "die"
+            },
+            {
+                "word": "Grammatik",
+                "article": "die"
+            },
+            {
+                "word": "Grenzkontrolle",
+                "article": "die"
+            },
+            {
+                "word": "Grenz\u00fcbergang",
+                "article": "der"
+            },
+            {
+                "word": "Grillplatz",
+                "article": "der"
+            },
+            {
+                "word": "Gro\u00dffamilie",
+                "article": "die"
+            },
+            {
+                "word": "Gro\u00dftante",
+                "article": "die"
+            },
+            {
+                "word": "Gr\u00fcndung",
+                "article": "die"
+            },
+            {
+                "word": "Grundgeb\u00fchr",
+                "article": "die"
+            },
+            {
+                "word": "Grundidee",
+                "article": "die"
+            },
+            {
+                "word": "Grundst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "G\u00fcterzug",
+                "article": "der"
+            },
+            {
+                "word": "Gutschein",
+                "article": "der"
+            },
+            {
+                "word": "Gymnastik",
+                "article": "die"
             }
         ]
     },
@@ -5158,6 +5682,736 @@
             {
                 "word": "Fu\u00dfsohle",
                 "article": "die"
+            }
+        ],
+        "G": [
+            {
+                "word": "G\u00e4nsehaut",
+                "article": "die"
+            },
+            {
+                "word": "G\u00e4rtnerei",
+                "article": "die"
+            },
+            {
+                "word": "Galerist",
+                "article": "der"
+            },
+            {
+                "word": "Galeristin",
+                "article": "die"
+            },
+            {
+                "word": "Garn",
+                "article": "das"
+            },
+            {
+                "word": "Gattung",
+                "article": "die"
+            },
+            {
+                "word": "Geb\u00e4rdensprache",
+                "article": "die"
+            },
+            {
+                "word": "Gebirge",
+                "article": "das"
+            },
+            {
+                "word": "Geborgenheit",
+                "article": "die"
+            },
+            {
+                "word": "Gebrauchsanleitung",
+                "article": "die"
+            },
+            {
+                "word": "Ged\u00e4chtnisinhalt",
+                "article": "der"
+            },
+            {
+                "word": "Gedr\u00e4nge",
+                "article": "das"
+            },
+            {
+                "word": "Gef\u00e4lligkeit",
+                "article": "die"
+            },
+            {
+                "word": "Gef\u00e4\u00df",
+                "article": "das"
+            },
+            {
+                "word": "Gegebenheit",
+                "article": "die"
+            },
+            {
+                "word": "Gegengrund",
+                "article": "der"
+            },
+            {
+                "word": "Gegenspieler",
+                "article": "der"
+            },
+            {
+                "word": "Gegnerin",
+                "article": "die"
+            },
+            {
+                "word": "Gehaltserh\u00f6hung",
+                "article": "die"
+            },
+            {
+                "word": "Gehilfe",
+                "article": "der"
+            },
+            {
+                "word": "Gehilfin",
+                "article": "die"
+            },
+            {
+                "word": "Gehweg",
+                "article": "der"
+            },
+            {
+                "word": "Geist",
+                "article": "der"
+            },
+            {
+                "word": "Geistesgegenwart",
+                "article": "die"
+            },
+            {
+                "word": "Gelassenheit",
+                "article": "die"
+            },
+            {
+                "word": "Geltung",
+                "article": "die"
+            },
+            {
+                "word": "Gemeindehaus",
+                "article": "das"
+            },
+            {
+                "word": "Gem\u00fcsebeet",
+                "article": "das"
+            },
+            {
+                "word": "Gem\u00fcsegesch\u00e4ft",
+                "article": "das"
+            },
+            {
+                "word": "Genauigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Generation",
+                "article": "die"
+            },
+            {
+                "word": "Genie",
+                "article": "das"
+            },
+            {
+                "word": "Gerechtigkeitssinn",
+                "article": "der"
+            },
+            {
+                "word": "Gerede",
+                "article": "das"
+            },
+            {
+                "word": "Gereiztheit",
+                "article": "die"
+            },
+            {
+                "word": "Geringverdiener",
+                "article": "der"
+            },
+            {
+                "word": "Geruchssinn",
+                "article": "der"
+            },
+            {
+                "word": "Gesamtheit",
+                "article": "die"
+            },
+            {
+                "word": "Gesch\u00e4ftsf\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "Gesch\u00e4ftsf\u00fchrerin",
+                "article": "die"
+            },
+            {
+                "word": "Gesch\u00e4ftsidee",
+                "article": "die"
+            },
+            {
+                "word": "Gesch\u00e4ftsleitung",
+                "article": "die"
+            },
+            {
+                "word": "Geschehen",
+                "article": "das"
+            },
+            {
+                "word": "Geschick",
+                "article": "das"
+            },
+            {
+                "word": "Geselligkeit",
+                "article": "die"
+            },
+            {
+                "word": "Gesellschaftskritik",
+                "article": "die"
+            },
+            {
+                "word": "Gesellschaftsschicht",
+                "article": "die"
+            },
+            {
+                "word": "Gespenst",
+                "article": "das"
+            },
+            {
+                "word": "Gestik",
+                "article": "die"
+            },
+            {
+                "word": "Gesundheitssystem",
+                "article": "das"
+            },
+            {
+                "word": "Gewerkschaft",
+                "article": "die"
+            },
+            {
+                "word": "Gewinnerin",
+                "article": "die"
+            },
+            {
+                "word": "Gewissheit",
+                "article": "die"
+            },
+            {
+                "word": "Gewohnheit",
+                "article": "die"
+            },
+            {
+                "word": "Gie\u00dfkanne",
+                "article": "die"
+            },
+            {
+                "word": "Gipfel",
+                "article": "der"
+            },
+            {
+                "word": "Gitarrist",
+                "article": "der"
+            },
+            {
+                "word": "Gitarristin",
+                "article": "die"
+            },
+            {
+                "word": "Gitter",
+                "article": "das"
+            },
+            {
+                "word": "Glashaus",
+                "article": "das"
+            },
+            {
+                "word": "Glasscheibe",
+                "article": "die"
+            },
+            {
+                "word": "Gleichgewicht",
+                "article": "das"
+            },
+            {
+                "word": "Glied",
+                "article": "das"
+            },
+            {
+                "word": "Glosse",
+                "article": "die"
+            },
+            {
+                "word": "Gl\u00fcckseligkeit",
+                "article": "die"
+            },
+            {
+                "word": "G\u00f6ttersage",
+                "article": "die"
+            },
+            {
+                "word": "Goldbarren",
+                "article": "der"
+            },
+            {
+                "word": "Goldgr\u00e4ber",
+                "article": "das"
+            },
+            {
+                "word": "Goldmedaille",
+                "article": "die"
+            },
+            {
+                "word": "Grab",
+                "article": "das"
+            },
+            {
+                "word": "Grafikerin",
+                "article": "die"
+            },
+            {
+                "word": "Grashalm",
+                "article": "der"
+            },
+            {
+                "word": "Gratulant",
+                "article": "der"
+            },
+            {
+                "word": "Gratulantin",
+                "article": "die"
+            },
+            {
+                "word": "Gravitation",
+                "article": "die"
+            },
+            {
+                "word": "Grenzgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Grenzsoldat",
+                "article": "der"
+            },
+            {
+                "word": "Griff",
+                "article": "der"
+            },
+            {
+                "word": "Grizzlyb\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Groll",
+                "article": "der"
+            },
+            {
+                "word": "Gro\u00dfraumb\u00fcro",
+                "article": "das"
+            },
+            {
+                "word": "Grube",
+                "article": "die"
+            },
+            {
+                "word": "Gr\u00fcnder",
+                "article": "der"
+            },
+            {
+                "word": "Gr\u00fcnderin",
+                "article": "die"
+            },
+            {
+                "word": "Gr\u00fcndlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Grundlage",
+                "article": "die"
+            },
+            {
+                "word": "Grundrecht",
+                "article": "das"
+            },
+            {
+                "word": "Grundwasser",
+                "article": "das"
+            },
+            {
+                "word": "Gunst",
+                "article": "die"
+            },
+            {
+                "word": "Gussform",
+                "article": "die"
+            },
+            {
+                "word": "Gut",
+                "article": "das"
+            },
+            {
+                "word": "G\u00e4nsehaut",
+                "article": "die"
+            },
+            {
+                "word": "G\u00e4rtnerei",
+                "article": "die"
+            },
+            {
+                "word": "Galerist",
+                "article": "der"
+            },
+            {
+                "word": "Galeristin",
+                "article": "die"
+            },
+            {
+                "word": "Garn",
+                "article": "das"
+            },
+            {
+                "word": "Gattung",
+                "article": "die"
+            },
+            {
+                "word": "Geb\u00e4rdensprache",
+                "article": "die"
+            },
+            {
+                "word": "Gebirge",
+                "article": "das"
+            },
+            {
+                "word": "Geborgenheit",
+                "article": "die"
+            },
+            {
+                "word": "Gebrauchsanleitung",
+                "article": "die"
+            },
+            {
+                "word": "Ged\u00e4chtnisinhalt",
+                "article": "der"
+            },
+            {
+                "word": "Gedr\u00e4nge",
+                "article": "das"
+            },
+            {
+                "word": "Gef\u00e4lligkeit",
+                "article": "die"
+            },
+            {
+                "word": "Gef\u00e4\u00df",
+                "article": "das"
+            },
+            {
+                "word": "Gegebenheit",
+                "article": "die"
+            },
+            {
+                "word": "Gegengrund",
+                "article": "der"
+            },
+            {
+                "word": "Gegenspieler",
+                "article": "der"
+            },
+            {
+                "word": "Gegnerin",
+                "article": "die"
+            },
+            {
+                "word": "Gehaltserh\u00f6hung",
+                "article": "die"
+            },
+            {
+                "word": "Gehilfe",
+                "article": "der"
+            },
+            {
+                "word": "Gehilfin",
+                "article": "die"
+            },
+            {
+                "word": "Gehweg",
+                "article": "der"
+            },
+            {
+                "word": "Geist",
+                "article": "der"
+            },
+            {
+                "word": "Geistesgegenwart",
+                "article": "die"
+            },
+            {
+                "word": "Gelassenheit",
+                "article": "die"
+            },
+            {
+                "word": "Geltung",
+                "article": "die"
+            },
+            {
+                "word": "Gemeindehaus",
+                "article": "das"
+            },
+            {
+                "word": "Gem\u00fcsebeet",
+                "article": "das"
+            },
+            {
+                "word": "Gem\u00fcsegesch\u00e4ft",
+                "article": "das"
+            },
+            {
+                "word": "Genauigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Generation",
+                "article": "die"
+            },
+            {
+                "word": "Genie",
+                "article": "das"
+            },
+            {
+                "word": "Gerechtigkeitssinn",
+                "article": "der"
+            },
+            {
+                "word": "Gerede",
+                "article": "das"
+            },
+            {
+                "word": "Gereiztheit",
+                "article": "die"
+            },
+            {
+                "word": "Geringverdiener",
+                "article": "der"
+            },
+            {
+                "word": "Geruchssinn",
+                "article": "der"
+            },
+            {
+                "word": "Gesamtheit",
+                "article": "die"
+            },
+            {
+                "word": "Gesch\u00e4ftsf\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "Gesch\u00e4ftsf\u00fchrerin",
+                "article": "die"
+            },
+            {
+                "word": "Gesch\u00e4ftsidee",
+                "article": "die"
+            },
+            {
+                "word": "Gesch\u00e4ftsleitung",
+                "article": "die"
+            },
+            {
+                "word": "Geschehen",
+                "article": "das"
+            },
+            {
+                "word": "Geschick",
+                "article": "das"
+            },
+            {
+                "word": "Geselligkeit",
+                "article": "die"
+            },
+            {
+                "word": "Gesellschaftskritik",
+                "article": "die"
+            },
+            {
+                "word": "Gesellschaftsschicht",
+                "article": "die"
+            },
+            {
+                "word": "Gespenst",
+                "article": "das"
+            },
+            {
+                "word": "Gestik",
+                "article": "die"
+            },
+            {
+                "word": "Gesundheitssystem",
+                "article": "das"
+            },
+            {
+                "word": "Gewerkschaft",
+                "article": "die"
+            },
+            {
+                "word": "Gewinnerin",
+                "article": "die"
+            },
+            {
+                "word": "Gewissheit",
+                "article": "die"
+            },
+            {
+                "word": "Gewohnheit",
+                "article": "die"
+            },
+            {
+                "word": "Gie\u00dfkanne",
+                "article": "die"
+            },
+            {
+                "word": "Gipfel",
+                "article": "der"
+            },
+            {
+                "word": "Gitarrist",
+                "article": "der"
+            },
+            {
+                "word": "Gitarristin",
+                "article": "die"
+            },
+            {
+                "word": "Gitter",
+                "article": "das"
+            },
+            {
+                "word": "Glashaus",
+                "article": "das"
+            },
+            {
+                "word": "Glasscheibe",
+                "article": "die"
+            },
+            {
+                "word": "Gleichgewicht",
+                "article": "das"
+            },
+            {
+                "word": "Glied",
+                "article": "das"
+            },
+            {
+                "word": "Glosse",
+                "article": "die"
+            },
+            {
+                "word": "Gl\u00fcckseligkeit",
+                "article": "die"
+            },
+            {
+                "word": "G\u00f6ttersage",
+                "article": "die"
+            },
+            {
+                "word": "Goldbarren",
+                "article": "der"
+            },
+            {
+                "word": "Goldgr\u00e4ber",
+                "article": "das"
+            },
+            {
+                "word": "Goldmedaille",
+                "article": "die"
+            },
+            {
+                "word": "Grab",
+                "article": "das"
+            },
+            {
+                "word": "Grafikerin",
+                "article": "die"
+            },
+            {
+                "word": "Grashalm",
+                "article": "der"
+            },
+            {
+                "word": "Gratulant",
+                "article": "der"
+            },
+            {
+                "word": "Gratulantin",
+                "article": "die"
+            },
+            {
+                "word": "Gravitation",
+                "article": "die"
+            },
+            {
+                "word": "Grenzgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Grenzsoldat",
+                "article": "der"
+            },
+            {
+                "word": "Griff",
+                "article": "der"
+            },
+            {
+                "word": "Grizzlyb\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Groll",
+                "article": "der"
+            },
+            {
+                "word": "Gro\u00dfraumb\u00fcro",
+                "article": "das"
+            },
+            {
+                "word": "Grube",
+                "article": "die"
+            },
+            {
+                "word": "Gr\u00fcnder",
+                "article": "der"
+            },
+            {
+                "word": "Gr\u00fcnderin",
+                "article": "die"
+            },
+            {
+                "word": "Gr\u00fcndlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Grundlage",
+                "article": "die"
+            },
+            {
+                "word": "Grundrecht",
+                "article": "das"
+            },
+            {
+                "word": "Grundwasser",
+                "article": "das"
+            },
+            {
+                "word": "Gunst",
+                "article": "die"
+            },
+            {
+                "word": "Gussform",
+                "article": "die"
+            },
+            {
+                "word": "Gut",
+                "article": "das"
             }
         ]
     },
@@ -7160,6 +8414,516 @@
             {
                 "word": "Futur",
                 "article": "das"
+            }
+        ],
+        "G": [
+            {
+                "word": "Galerie",
+                "article": "die"
+            },
+            {
+                "word": "Garant",
+                "article": "der"
+            },
+            {
+                "word": "Gartenarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Gartenkunst",
+                "article": "die"
+            },
+            {
+                "word": "Gartenschlauch",
+                "article": "der"
+            },
+            {
+                "word": "Gaumen",
+                "article": "der"
+            },
+            {
+                "word": "Gauner",
+                "article": "der"
+            },
+            {
+                "word": "Geb\u00e4rmutter",
+                "article": "die"
+            },
+            {
+                "word": "Gebilde",
+                "article": "das"
+            },
+            {
+                "word": "Geb\u00fcsch",
+                "article": "das"
+            },
+            {
+                "word": "Geburtenh\u00e4ufigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Geburtenkontrolle",
+                "article": "die"
+            },
+            {
+                "word": "Geburtenrate",
+                "article": "die"
+            },
+            {
+                "word": "Geburtenr\u00fcckgang",
+                "article": "der"
+            },
+            {
+                "word": "Geburtenzahl",
+                "article": "die"
+            },
+            {
+                "word": "Ged\u00e4chtnishilfe",
+                "article": "die"
+            },
+            {
+                "word": "Ged\u00e4chtnisl\u00fccke",
+                "article": "die"
+            },
+            {
+                "word": "Ged\u00e4chtnisst\u00fctze",
+                "article": "die"
+            },
+            {
+                "word": "Gedankengang",
+                "article": "der"
+            },
+            {
+                "word": "Gef\u00e4hrt",
+                "article": "das"
+            },
+            {
+                "word": "Gef\u00e4ngnisstrafe",
+                "article": "die"
+            },
+            {
+                "word": "Gegenbewegung",
+                "article": "die"
+            },
+            {
+                "word": "Gegenfrage",
+                "article": "die"
+            },
+            {
+                "word": "Gegenleistung",
+                "article": "die"
+            },
+            {
+                "word": "Gegen\u00fcberstellung",
+                "article": "die"
+            },
+            {
+                "word": "Gegenverkehr",
+                "article": "der"
+            },
+            {
+                "word": "Gegenzug",
+                "article": "der"
+            },
+            {
+                "word": "Geh\u00e4use",
+                "article": "das"
+            },
+            {
+                "word": "Geheimsprache",
+                "article": "die"
+            },
+            {
+                "word": "Geh\u00f6r",
+                "article": "das"
+            },
+            {
+                "word": "Gel\u00e4chter",
+                "article": "das"
+            },
+            {
+                "word": "Geldeingang",
+                "article": "der"
+            },
+            {
+                "word": "Geldgier",
+                "article": "die"
+            },
+            {
+                "word": "Geldmangel",
+                "article": "der"
+            },
+            {
+                "word": "Geleit",
+                "article": "das"
+            },
+            {
+                "word": "Gemahl",
+                "article": "der"
+            },
+            {
+                "word": "Gemeinde",
+                "article": "die"
+            },
+            {
+                "word": "Gemeinschaftsraum",
+                "article": "der"
+            },
+            {
+                "word": "Gemeinschaftssinn",
+                "article": "der"
+            },
+            {
+                "word": "Gemeinsinn",
+                "article": "der"
+            },
+            {
+                "word": "Gemeinwohl",
+                "article": "das"
+            },
+            {
+                "word": "Gem\u00fctszustand",
+                "article": "der"
+            },
+            {
+                "word": "Gen",
+                "article": "das"
+            },
+            {
+                "word": "Generalisierung",
+                "article": "die"
+            },
+            {
+                "word": "Generalsekret\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Generalsekret\u00e4rin",
+                "article": "die"
+            },
+            {
+                "word": "Generator",
+                "article": "der"
+            },
+            {
+                "word": "Genre",
+                "article": "das"
+            },
+            {
+                "word": "Gentechnik",
+                "article": "die"
+            },
+            {
+                "word": "Gentleman",
+                "article": "der"
+            },
+            {
+                "word": "Genussmittel",
+                "article": "das"
+            },
+            {
+                "word": "Genusssucht",
+                "article": "die"
+            },
+            {
+                "word": "Gerichtshof",
+                "article": "der"
+            },
+            {
+                "word": "Gerichtsmediziner",
+                "article": "der"
+            },
+            {
+                "word": "Gerichtsurteil",
+                "article": "das"
+            },
+            {
+                "word": "Gerichtsverfahren",
+                "article": "das"
+            },
+            {
+                "word": "Gerontologie",
+                "article": "die"
+            },
+            {
+                "word": "Geruchsorgan",
+                "article": "das"
+            },
+            {
+                "word": "Gesamtauflage",
+                "article": "die"
+            },
+            {
+                "word": "Gesamteindruck",
+                "article": "der"
+            },
+            {
+                "word": "Gesch\u00e4ftsbereich",
+                "article": "der"
+            },
+            {
+                "word": "Gesch\u00e4ftsbericht",
+                "article": "der"
+            },
+            {
+                "word": "Gesch\u00e4ftslage",
+                "article": "die"
+            },
+            {
+                "word": "Geschehnis",
+                "article": "das"
+            },
+            {
+                "word": "Geschlechterrolle",
+                "article": "die"
+            },
+            {
+                "word": "Geschmacksnerv",
+                "article": "der"
+            },
+            {
+                "word": "Geschmacksrichtung",
+                "article": "die"
+            },
+            {
+                "word": "Geschmackssinn",
+                "article": "der"
+            },
+            {
+                "word": "Gesellenpr\u00fcfung",
+                "article": "die"
+            },
+            {
+                "word": "Gesetzesl\u00fccke",
+                "article": "die"
+            },
+            {
+                "word": "Gesetzgeber",
+                "article": "der"
+            },
+            {
+                "word": "Gesetzgebung",
+                "article": "die"
+            },
+            {
+                "word": "Gesetzm\u00e4\u00dfigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Gesichtsausdruck",
+                "article": "der"
+            },
+            {
+                "word": "Gesinnung",
+                "article": "die"
+            },
+            {
+                "word": "Gespr\u00e4chspartner",
+                "article": "der"
+            },
+            {
+                "word": "Gesp\u00fcr",
+                "article": "das"
+            },
+            {
+                "word": "Gestaltung",
+                "article": "die"
+            },
+            {
+                "word": "Gestank",
+                "article": "der"
+            },
+            {
+                "word": "Gestein",
+                "article": "das"
+            },
+            {
+                "word": "Gesuch",
+                "article": "das"
+            },
+            {
+                "word": "Gesundheitspolitik",
+                "article": "die"
+            },
+            {
+                "word": "Gesundheitswesen",
+                "article": "das"
+            },
+            {
+                "word": "Gesundheitszustand",
+                "article": "der"
+            },
+            {
+                "word": "Gew\u00e4hrung",
+                "article": "die"
+            },
+            {
+                "word": "Gewerbe",
+                "article": "das"
+            },
+            {
+                "word": "Gewerbesteuer",
+                "article": "die"
+            },
+            {
+                "word": "Gewichtung",
+                "article": "die"
+            },
+            {
+                "word": "Gewinnbeteiligung",
+                "article": "die"
+            },
+            {
+                "word": "Gew\u00fcrzgurke",
+                "article": "die"
+            },
+            {
+                "word": "Gezerre",
+                "article": "das"
+            },
+            {
+                "word": "Gilde",
+                "article": "die"
+            },
+            {
+                "word": "Glanzpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Glasdach",
+                "article": "das"
+            },
+            {
+                "word": "Glasnost",
+                "article": "die"
+            },
+            {
+                "word": "Gleichmacherei",
+                "article": "die"
+            },
+            {
+                "word": "Gleichzeitigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Globus",
+                "article": "der"
+            },
+            {
+                "word": "Glockenspiel",
+                "article": "das"
+            },
+            {
+                "word": "Glotze",
+                "article": "die"
+            },
+            {
+                "word": "Gl\u00fccksbringer",
+                "article": "der"
+            },
+            {
+                "word": "Gl\u00fccksgriff",
+                "article": "der"
+            },
+            {
+                "word": "Goliath",
+                "article": "der"
+            },
+            {
+                "word": "Gottseibeiuns",
+                "article": "der"
+            },
+            {
+                "word": "Graf",
+                "article": "der"
+            },
+            {
+                "word": "Granit",
+                "article": "der"
+            },
+            {
+                "word": "Greis",
+                "article": "der"
+            },
+            {
+                "word": "Gremium",
+                "article": "das"
+            },
+            {
+                "word": "Groove",
+                "article": "der"
+            },
+            {
+                "word": "Gros",
+                "article": "das"
+            },
+            {
+                "word": "Groschen",
+                "article": "der"
+            },
+            {
+                "word": "Gro\u00dfh\u00e4ndler",
+                "article": "der"
+            },
+            {
+                "word": "Gro\u00dfpapa",
+                "article": "der"
+            },
+            {
+                "word": "Gro\u00dftat",
+                "article": "die"
+            },
+            {
+                "word": "Gro\u00dfteil",
+                "article": "der"
+            },
+            {
+                "word": "Grundausstattung",
+                "article": "die"
+            },
+            {
+                "word": "Grundbed\u00fcrfnis",
+                "article": "das"
+            },
+            {
+                "word": "Grundgehalt",
+                "article": "der"
+            },
+            {
+                "word": "Grundprinzip",
+                "article": "das"
+            },
+            {
+                "word": "Grundriss",
+                "article": "der"
+            },
+            {
+                "word": "Grundsatz",
+                "article": "der"
+            },
+            {
+                "word": "Grundstudium",
+                "article": "das"
+            },
+            {
+                "word": "Grundzug",
+                "article": "der"
+            },
+            {
+                "word": "Gummi",
+                "article": "der"
+            },
+            {
+                "word": "Gutd\u00fcnken",
+                "article": "das"
+            },
+            {
+                "word": "Gutenachtkuss",
+                "article": "der"
+            },
+            {
+                "word": "Gymnasiallehrer",
+                "article": "der"
             }
         ]
     }
