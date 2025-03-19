@@ -12,9 +12,33 @@
     justify-content: flex-start;
 }
 
+@media (max-width: 768px) {
+    .level-buttons {
+        justify-content: center;
+    }
+}
+
 .level-buttons button {
-    margin: 2px;
-    padding: 5px 10px;
+    margin: 4px;
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: rgb(38, 187, 237);
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: filter 0.3s, transform 0.2s;
+    color: white;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 700;
+}
+
+.level-buttons button:hover {
+    filter: brightness(1.1);
+}
+
+.level-buttons button:active, button:focus {
+    transform: translateY(2px);
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .word-container {
@@ -23,6 +47,12 @@
     height: 400px;
     justify-content: center;
     align-items: center;
+}
+
+@media (max-width: 768px) {
+    .word-container {
+        height: 200px;
+    }
 }
 
 #word {
@@ -179,6 +209,18 @@
         top: 40%;
     }
     
+}
+
+@media (min-height: 1024px) {
+    .notification {
+        top: 35%;
+    }
+}
+
+@media (min-height: 1235px) {
+    .notification {
+        top: 30%;
+    }
 }
 
 .notification.correct {
