@@ -1557,6 +1557,236 @@
                 "word": "Gymnasium",
                 "article": "das"
             }
+        ],
+        "H": [
+            {
+                "word": "Haar",
+                "article": "das"
+            },
+            {
+                "word": "H\u00e4hnchen",
+                "article": "das"
+            },
+            {
+                "word": "H\u00e4lfte",
+                "article": "die"
+            },
+            {
+                "word": "Hafen",
+                "article": "der"
+            },
+            {
+                "word": "Halbpension",
+                "article": "die"
+            },
+            {
+                "word": "Halle",
+                "article": "die"
+            },
+            {
+                "word": "Hals",
+                "article": "der"
+            },
+            {
+                "word": "Halsschmerz",
+                "article": "der"
+            },
+            {
+                "word": "Halsweh",
+                "article": "das"
+            },
+            {
+                "word": "Haltestelle",
+                "article": "die"
+            },
+            {
+                "word": "Hamburger",
+                "article": "der"
+            },
+            {
+                "word": "Hamster",
+                "article": "der"
+            },
+            {
+                "word": "Hand",
+                "article": "die"
+            },
+            {
+                "word": "Handball",
+                "article": "der"
+            },
+            {
+                "word": "Handtasche",
+                "article": "die"
+            },
+            {
+                "word": "Handtuch",
+                "article": "das"
+            },
+            {
+                "word": "Handy",
+                "article": "das"
+            },
+            {
+                "word": "Hauptbahnhof",
+                "article": "der"
+            },
+            {
+                "word": "Hauptstadt",
+                "article": "die"
+            },
+            {
+                "word": "Hauptstra\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Haus",
+                "article": "das"
+            },
+            {
+                "word": "Hausaufgabe",
+                "article": "die"
+            },
+            {
+                "word": "Hausfrau",
+                "article": "die"
+            },
+            {
+                "word": "Hausmann",
+                "article": "der"
+            },
+            {
+                "word": "Hausmeister",
+                "article": "der"
+            },
+            {
+                "word": "Hausmittel",
+                "article": "das"
+            },
+            {
+                "word": "Hausnummer",
+                "article": "die"
+            },
+            {
+                "word": "Haustier",
+                "article": "das"
+            },
+            {
+                "word": "Heft",
+                "article": "das"
+            },
+            {
+                "word": "Heimat",
+                "article": "die"
+            },
+            {
+                "word": "Heimatland",
+                "article": "das"
+            },
+            {
+                "word": "Heizung",
+                "article": "die"
+            },
+            {
+                "word": "Helfer",
+                "article": "der"
+            },
+            {
+                "word": "Helm",
+                "article": "der"
+            },
+            {
+                "word": "Hemd",
+                "article": "das"
+            },
+            {
+                "word": "Herbst",
+                "article": "der"
+            },
+            {
+                "word": "Herd",
+                "article": "der"
+            },
+            {
+                "word": "Herr",
+                "article": "der"
+            },
+            {
+                "word": "Herrenmode",
+                "article": "die"
+            },
+            {
+                "word": "Herz",
+                "article": "das"
+            },
+            {
+                "word": "Hilfe",
+                "article": "die"
+            },
+            {
+                "word": "Hobby",
+                "article": "das"
+            },
+            {
+                "word": "Hochhaus",
+                "article": "das"
+            },
+            {
+                "word": "Hochzeit",
+                "article": "die"
+            },
+            {
+                "word": "H\u00f6he",
+                "article": "die"
+            },
+            {
+                "word": "Hof",
+                "article": "der"
+            },
+            {
+                "word": "Holz",
+                "article": "das"
+            },
+            {
+                "word": "Homepage",
+                "article": "die"
+            },
+            {
+                "word": "Honig",
+                "article": "der"
+            },
+            {
+                "word": "Hose",
+                "article": "die"
+            },
+            {
+                "word": "Hotel",
+                "article": "das"
+            },
+            {
+                "word": "Hotelfachfrau",
+                "article": "die"
+            },
+            {
+                "word": "Hund",
+                "article": "der"
+            },
+            {
+                "word": "Hunger",
+                "article": "der"
+            },
+            {
+                "word": "Husten",
+                "article": "der"
+            },
+            {
+                "word": "Hustensaft",
+                "article": "der"
+            },
+            {
+                "word": "Hut",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -2712,6 +2942,164 @@
             {
                 "word": "Guthaben",
                 "article": "das"
+            }
+        ],
+        "H": [
+            {
+                "word": "Halsband",
+                "article": "das"
+            },
+            {
+                "word": "Hammer",
+                "article": "der"
+            },
+            {
+                "word": "Handbewegung",
+                "article": "die"
+            },
+            {
+                "word": "Handkuss",
+                "article": "der"
+            },
+            {
+                "word": "Handlung",
+                "article": "die"
+            },
+            {
+                "word": "Handwerker",
+                "article": "der"
+            },
+            {
+                "word": "Handwerkerin",
+                "article": "die"
+            },
+            {
+                "word": "Hase",
+                "article": "der"
+            },
+            {
+                "word": "Hauptdarsteller",
+                "article": "der"
+            },
+            {
+                "word": "Hauptrolle",
+                "article": "die"
+            },
+            {
+                "word": "Hauptsache",
+                "article": "die"
+            },
+            {
+                "word": "Hauptschulabschluss",
+                "article": "der"
+            },
+            {
+                "word": "Hauptschule",
+                "article": "die"
+            },
+            {
+                "word": "Hauptteil",
+                "article": "der"
+            },
+            {
+                "word": "Hauptwerk",
+                "article": "das"
+            },
+            {
+                "word": "Haus\u00e4rztin",
+                "article": "die"
+            },
+            {
+                "word": "Hausarzt",
+                "article": "der"
+            },
+            {
+                "word": "Hausboot",
+                "article": "das"
+            },
+            {
+                "word": "Haushalt",
+                "article": "der"
+            },
+            {
+                "word": "Hausschuh",
+                "article": "der"
+            },
+            {
+                "word": "Haust\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "Heimatort",
+                "article": "der"
+            },
+            {
+                "word": "Heimweh",
+                "article": "das"
+            },
+            {
+                "word": "Herzchirurgie",
+                "article": "die"
+            },
+            {
+                "word": "Hierarchie",
+                "article": "die"
+            },
+            {
+                "word": "Highlight",
+                "article": "das"
+            },
+            {
+                "word": "Himbeersaft",
+                "article": "der"
+            },
+            {
+                "word": "Himmel",
+                "article": "der"
+            },
+            {
+                "word": "Himmelsrichtung",
+                "article": "die"
+            },
+            {
+                "word": "Hinfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Hintergrund",
+                "article": "der"
+            },
+            {
+                "word": "Hinterrad",
+                "article": "das"
+            },
+            {
+                "word": "Hochzeitstag",
+                "article": "der"
+            },
+            {
+                "word": "H\u00f6flichkeit",
+                "article": "die"
+            },
+            {
+                "word": "H\u00f6hle",
+                "article": "die"
+            },
+            {
+                "word": "H\u00f6rer",
+                "article": "der"
+            },
+            {
+                "word": "Hoffnung",
+                "article": "die"
+            },
+            {
+                "word": "Hotelkaufmann",
+                "article": "der"
+            },
+            {
+                "word": "Hymne",
+                "article": "die"
             }
         ]
     },
@@ -4248,6 +4636,200 @@
             {
                 "word": "Gymnastik",
                 "article": "die"
+            }
+        ],
+        "H": [
+            {
+                "word": "Hackfleisch",
+                "article": "das"
+            },
+            {
+                "word": "H\u00e4ndler",
+                "article": "der"
+            },
+            {
+                "word": "Halbbruder",
+                "article": "der"
+            },
+            {
+                "word": "Halbjahr",
+                "article": "das"
+            },
+            {
+                "word": "Halbkreis",
+                "article": "der"
+            },
+            {
+                "word": "Halbschwester",
+                "article": "die"
+            },
+            {
+                "word": "Halbtagsschule",
+                "article": "die"
+            },
+            {
+                "word": "Halbzeit",
+                "article": "die"
+            },
+            {
+                "word": "Halt",
+                "article": "der"
+            },
+            {
+                "word": "Handel",
+                "article": "der"
+            },
+            {
+                "word": "Handgep\u00e4ck",
+                "article": "das"
+            },
+            {
+                "word": "Handlinie",
+                "article": "die"
+            },
+            {
+                "word": "Handwerk",
+                "article": "das"
+            },
+            {
+                "word": "Hardrock",
+                "article": "der"
+            },
+            {
+                "word": "Harmonie",
+                "article": "die"
+            },
+            {
+                "word": "Harz",
+                "article": "das"
+            },
+            {
+                "word": "Hauptmahlzeit",
+                "article": "die"
+            },
+            {
+                "word": "Hauptperson",
+                "article": "die"
+            },
+            {
+                "word": "Hauptspeise",
+                "article": "die"
+            },
+            {
+                "word": "Hauswand",
+                "article": "die"
+            },
+            {
+                "word": "Haut",
+                "article": "die"
+            },
+            {
+                "word": "Heilung",
+                "article": "die"
+            },
+            {
+                "word": "Heim",
+                "article": "das"
+            },
+            {
+                "word": "Held",
+                "article": "der"
+            },
+            {
+                "word": "Helle",
+                "article": "die"
+            },
+            {
+                "word": "Henker",
+                "article": "der"
+            },
+            {
+                "word": "Herausforderung",
+                "article": "die"
+            },
+            {
+                "word": "Herkunft",
+                "article": "die"
+            },
+            {
+                "word": "Herkunftsland",
+                "article": "das"
+            },
+            {
+                "word": "Herrenanzug",
+                "article": "der"
+            },
+            {
+                "word": "Hersteller",
+                "article": "der"
+            },
+            {
+                "word": "Herstellung",
+                "article": "die"
+            },
+            {
+                "word": "Hilfsbereitschaft",
+                "article": "die"
+            },
+            {
+                "word": "Himbeere",
+                "article": "die"
+            },
+            {
+                "word": "Hinweis",
+                "article": "der"
+            },
+            {
+                "word": "Hirsch",
+                "article": "der"
+            },
+            {
+                "word": "Hit",
+                "article": "der"
+            },
+            {
+                "word": "Hitze",
+                "article": "die"
+            },
+            {
+                "word": "Hochschule",
+                "article": "die"
+            },
+            {
+                "word": "Hochwasser",
+                "article": "das"
+            },
+            {
+                "word": "H\u00f6chsttemperatur",
+                "article": "die"
+            },
+            {
+                "word": "Holzfaser",
+                "article": "die"
+            },
+            {
+                "word": "Horoskop",
+                "article": "das"
+            },
+            {
+                "word": "Hotline",
+                "article": "die"
+            },
+            {
+                "word": "H\u00fchnchen",
+                "article": "das"
+            },
+            {
+                "word": "H\u00fchnerfleisch",
+                "article": "das"
+            },
+            {
+                "word": "Huhn",
+                "article": "das"
+            },
+            {
+                "word": "Humor",
+                "article": "der"
             }
         ]
     },
