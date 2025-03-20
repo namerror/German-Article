@@ -36,7 +36,7 @@
     filter: brightness(1.1);
 }
 
-.level-buttons button:active, button:focus {
+.level-buttons button:active, .level-buttons button:focus, .level-buttons button.pressed{
     transform: translateY(2px);
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
 }

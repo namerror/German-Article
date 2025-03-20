@@ -6,7 +6,7 @@ let currentWord = {
 
 function setLevel(newLevel) {
     level = newLevel;
-    console.log(level);
+    // console.log(level);
     newWord(level);
 }
 
@@ -56,3 +56,16 @@ function showNotification(message) {
         });
     }, 1000); // Display for 1 second before fading out
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    const buttons = document.querySelectorAll('.level-buttons button');
+
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            // Remove the 'pressed' class from all buttons
+            buttons.forEach(btn => btn.classList.remove('pressed'));
+            // Add the 'pressed' class to the clicked button
+            button.classList.add('pressed');
+        });
+    });
+});
