@@ -1841,6 +1841,60 @@
                 "word": "Italienisch",
                 "article": "das"
             }
+        ],
+        "J": [
+            {
+                "word": "Jacke",
+                "article": "die"
+            },
+            {
+                "word": "J\u00e4nner",
+                "article": "der"
+            },
+            {
+                "word": "Jahr",
+                "article": "das"
+            },
+            {
+                "word": "Jahreszeit",
+                "article": "die"
+            },
+            {
+                "word": "Januar",
+                "article": "der"
+            },
+            {
+                "word": "Job",
+                "article": "der"
+            },
+            {
+                "word": "Journalist",
+                "article": "der"
+            },
+            {
+                "word": "Journalistin",
+                "article": "die"
+            },
+            {
+                "word": "Jugendherberge",
+                "article": "die"
+            },
+            {
+                "word": "Juli",
+                "article": "der"
+            },
+            {
+                "word": "Junge",
+                "article": "der"
+            },
+            {
+                "word": "Juni",
+                "article": "der"
+            },
+            {
+                "word": "Juristin",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -3192,6 +3246,28 @@
             {
                 "word": "Isomatte",
                 "article": "die"
+            }
+        ],
+        "J": [
+            {
+                "word": "Jahreszahl",
+                "article": "die"
+            },
+            {
+                "word": "Jahrhundert",
+                "article": "das"
+            },
+            {
+                "word": "Jazz",
+                "article": "der"
+            },
+            {
+                "word": "Jubil\u00e4um",
+                "article": "das"
+            },
+            {
+                "word": "Jugendzentrum",
+                "article": "das"
             }
         ]
     },
@@ -5000,6 +5076,64 @@
             {
                 "word": "Investor",
                 "article": "der"
+            }
+        ],
+        "J": [
+            {
+                "word": "J\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Jagd",
+                "article": "die"
+            },
+            {
+                "word": "Jahresbericht",
+                "article": "der"
+            },
+            {
+                "word": "Jahreskarte",
+                "article": "die"
+            },
+            {
+                "word": "Jahresmiete",
+                "article": "die"
+            },
+            {
+                "word": "Jobcenter",
+                "article": "das"
+            },
+            {
+                "word": "Jobsuche",
+                "article": "die"
+            },
+            {
+                "word": "Jongleur",
+                "article": "der"
+            },
+            {
+                "word": "Judo",
+                "article": "das"
+            },
+            {
+                "word": "Jugend",
+                "article": "die"
+            },
+            {
+                "word": "Jugendamt",
+                "article": "das"
+            },
+            {
+                "word": "Jungfrau",
+                "article": "die"
+            },
+            {
+                "word": "Jura",
+                "article": "der"
+            },
+            {
+                "word": "Jury",
+                "article": "die"
             }
         ]
     },
@@ -7592,6 +7726,32 @@
             {
                 "word": "Isolation",
                 "article": "die"
+            }
+        ],
+        "J": [
+            {
+                "word": "Jahreseinkommen",
+                "article": "das"
+            },
+            {
+                "word": "Jubilar",
+                "article": "der"
+            },
+            {
+                "word": "Jubilarin",
+                "article": "die"
+            },
+            {
+                "word": "Jugendzeit",
+                "article": "die"
+            },
+            {
+                "word": "Jurist",
+                "article": "der"
+            },
+            {
+                "word": "Juweliergesch\u00e4ft",
+                "article": "das"
             }
         ]
     },
@@ -10588,6 +10748,64 @@
             {
                 "word": "Irrtum",
                 "article": "der"
+            }
+        ],
+        "J": [
+            {
+                "word": "Jahreswechsel",
+                "article": "der"
+            },
+            {
+                "word": "Jahrgang",
+                "article": "der"
+            },
+            {
+                "word": "Jahrtausendwende",
+                "article": "die"
+            },
+            {
+                "word": "Jammerlappen",
+                "article": "der"
+            },
+            {
+                "word": "Jargon",
+                "article": "der"
+            },
+            {
+                "word": "Joghurt",
+                "article": "der"
+            },
+            {
+                "word": "Jubel",
+                "article": "der"
+            },
+            {
+                "word": "Jugendalter",
+                "article": "das"
+            },
+            {
+                "word": "Jugendf\u00fcrsorge",
+                "article": "die"
+            },
+            {
+                "word": "Jugendkriminalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Jugendrichter",
+                "article": "der"
+            },
+            {
+                "word": "Jugends\u00fcnde",
+                "article": "die"
+            },
+            {
+                "word": "Jungunternehmer",
+                "article": "der"
+            },
+            {
+                "word": "Justitia",
+                "article": "die"
             }
         ]
     }
