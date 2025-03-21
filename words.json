@@ -1787,6 +1787,60 @@
                 "word": "Hut",
                 "article": "der"
             }
+        ],
+        "I": [
+            {
+                "word": "Idee",
+                "article": "die"
+            },
+            {
+                "word": "Indianer",
+                "article": "der"
+            },
+            {
+                "word": "Individualist",
+                "article": "der"
+            },
+            {
+                "word": "Informatik",
+                "article": "die"
+            },
+            {
+                "word": "Informatiker",
+                "article": "der"
+            },
+            {
+                "word": "Information",
+                "article": "die"
+            },
+            {
+                "word": "Ingenieur",
+                "article": "der"
+            },
+            {
+                "word": "Insel",
+                "article": "die"
+            },
+            {
+                "word": "Interesse",
+                "article": "das"
+            },
+            {
+                "word": "Internat",
+                "article": "das"
+            },
+            {
+                "word": "Internet",
+                "article": "das"
+            },
+            {
+                "word": "Interview",
+                "article": "das"
+            },
+            {
+                "word": "Italienisch",
+                "article": "das"
+            }
         ]
     },
     "A2": {
@@ -3099,6 +3153,44 @@
             },
             {
                 "word": "Hymne",
+                "article": "die"
+            }
+        ],
+        "I": [
+            {
+                "word": "Idiot",
+                "article": "der"
+            },
+            {
+                "word": "Idiotin",
+                "article": "die"
+            },
+            {
+                "word": "Industrie",
+                "article": "die"
+            },
+            {
+                "word": "Info",
+                "article": "das"
+            },
+            {
+                "word": "Informatikerin",
+                "article": "die"
+            },
+            {
+                "word": "Ingenieurin",
+                "article": "die"
+            },
+            {
+                "word": "Inhalt",
+                "article": "der"
+            },
+            {
+                "word": "Instrument",
+                "article": "das"
+            },
+            {
+                "word": "Isomatte",
                 "article": "die"
             }
         ]
@@ -4829,6 +4921,84 @@
             },
             {
                 "word": "Humor",
+                "article": "der"
+            }
+        ],
+        "I": [
+            {
+                "word": "Illusion",
+                "article": "die"
+            },
+            {
+                "word": "Immobilie",
+                "article": "die"
+            },
+            {
+                "word": "Import",
+                "article": "der"
+            },
+            {
+                "word": "Industriegebiet",
+                "article": "das"
+            },
+            {
+                "word": "Infektion",
+                "article": "die"
+            },
+            {
+                "word": "Ingwer",
+                "article": "der"
+            },
+            {
+                "word": "Innenstadt",
+                "article": "die"
+            },
+            {
+                "word": "Insekt",
+                "article": "das"
+            },
+            {
+                "word": "Inserat",
+                "article": "das"
+            },
+            {
+                "word": "Inspiration",
+                "article": "die"
+            },
+            {
+                "word": "Installation",
+                "article": "die"
+            },
+            {
+                "word": "Institut",
+                "article": "das"
+            },
+            {
+                "word": "Institution",
+                "article": "die"
+            },
+            {
+                "word": "Integration",
+                "article": "die"
+            },
+            {
+                "word": "Integrationskurs",
+                "article": "der"
+            },
+            {
+                "word": "Intelligenz",
+                "article": "die"
+            },
+            {
+                "word": "Intensivkurs",
+                "article": "der"
+            },
+            {
+                "word": "Interessent",
+                "article": "der"
+            },
+            {
+                "word": "Investor",
                 "article": "der"
             }
         ]
@@ -6994,6 +7164,434 @@
             {
                 "word": "Gut",
                 "article": "das"
+            }
+        ],
+        "H": [
+            {
+                "word": "Habseligkeit",
+                "article": "die"
+            },
+            {
+                "word": "H\u00e4rte",
+                "article": "die"
+            },
+            {
+                "word": "H\u00e4ufigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Haftung",
+                "article": "die"
+            },
+            {
+                "word": "Hai",
+                "article": "der"
+            },
+            {
+                "word": "Halbinsel",
+                "article": "die"
+            },
+            {
+                "word": "Halbwertszeit",
+                "article": "die"
+            },
+            {
+                "word": "Hallenschwimmbad",
+                "article": "das"
+            },
+            {
+                "word": "Haltung",
+                "article": "die"
+            },
+            {
+                "word": "Handelsbeziehung",
+                "article": "die"
+            },
+            {
+                "word": "Handelsschule",
+                "article": "die"
+            },
+            {
+                "word": "Handelsunternehmen",
+                "article": "das"
+            },
+            {
+                "word": "Handfl\u00e4che",
+                "article": "die"
+            },
+            {
+                "word": "Handgriff",
+                "article": "der"
+            },
+            {
+                "word": "Hantel",
+                "article": "die"
+            },
+            {
+                "word": "Happen",
+                "article": "der"
+            },
+            {
+                "word": "Hast",
+                "article": "die"
+            },
+            {
+                "word": "Hauptattraktion",
+                "article": "die"
+            },
+            {
+                "word": "Hauptfigur",
+                "article": "die"
+            },
+            {
+                "word": "Hauptthema",
+                "article": "das"
+            },
+            {
+                "word": "Hauptunterschied",
+                "article": "der"
+            },
+            {
+                "word": "Hausarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Hausordnung",
+                "article": "die"
+            },
+            {
+                "word": "Hausrat",
+                "article": "der"
+            },
+            {
+                "word": "Hausverbot",
+                "article": "das"
+            },
+            {
+                "word": "Hausverwaltung",
+                "article": "die"
+            },
+            {
+                "word": "Hautcreme",
+                "article": "die"
+            },
+            {
+                "word": "Hautton",
+                "article": "der"
+            },
+            {
+                "word": "Heilpraktiker",
+                "article": "der"
+            },
+            {
+                "word": "Heilverfahren",
+                "article": "das"
+            },
+            {
+                "word": "Heimarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Heimflug",
+                "article": "der"
+            },
+            {
+                "word": "Heiratsantrag",
+                "article": "der"
+            },
+            {
+                "word": "Heiterkeit",
+                "article": "die"
+            },
+            {
+                "word": "Heldin",
+                "article": "die"
+            },
+            {
+                "word": "Helferin",
+                "article": "die"
+            },
+            {
+                "word": "Hemmung",
+                "article": "die"
+            },
+            {
+                "word": "Herrenausstatter",
+                "article": "der"
+            },
+            {
+                "word": "Herzenswunsch",
+                "article": "der"
+            },
+            {
+                "word": "Herzfrequenz",
+                "article": "die"
+            },
+            {
+                "word": "Herzinfarkt",
+                "article": "der"
+            },
+            {
+                "word": "Hexe",
+                "article": "die"
+            },
+            {
+                "word": "Hexenschuss",
+                "article": "der"
+            },
+            {
+                "word": "Hieroglyphe",
+                "article": "die"
+            },
+            {
+                "word": "Hilfskraft",
+                "article": "die"
+            },
+            {
+                "word": "Hilfsmittel",
+                "article": "das"
+            },
+            {
+                "word": "Hilfsorganisation",
+                "article": "die"
+            },
+            {
+                "word": "Hindernis",
+                "article": "das"
+            },
+            {
+                "word": "Hinsicht",
+                "article": "die"
+            },
+            {
+                "word": "Hinterhof",
+                "article": "der"
+            },
+            {
+                "word": "Hirn",
+                "article": "das"
+            },
+            {
+                "word": "Hirnschaden",
+                "article": "der"
+            },
+            {
+                "word": "Hitparade",
+                "article": "die"
+            },
+            {
+                "word": "Hoch",
+                "article": "das"
+            },
+            {
+                "word": "Hochrechnung",
+                "article": "die"
+            },
+            {
+                "word": "Hochschulreife",
+                "article": "die"
+            },
+            {
+                "word": "Hochstimmung",
+                "article": "die"
+            },
+            {
+                "word": "H\u00f6chststand",
+                "article": "der"
+            },
+            {
+                "word": "H\u00f6fling",
+                "article": "der"
+            },
+            {
+                "word": "H\u00f6hepunkt",
+                "article": "der"
+            },
+            {
+                "word": "H\u00f6rspiel",
+                "article": "das"
+            },
+            {
+                "word": "Holzplatte",
+                "article": "die"
+            },
+            {
+                "word": "Holzt\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "Hommage",
+                "article": "die"
+            },
+            {
+                "word": "Hom\u00f6opathie",
+                "article": "die"
+            },
+            {
+                "word": "Horizont",
+                "article": "der"
+            },
+            {
+                "word": "Horn",
+                "article": "das"
+            },
+            {
+                "word": "Horror",
+                "article": "der"
+            },
+            {
+                "word": "Hosentasche",
+                "article": "die"
+            },
+            {
+                "word": "H\u00fcfte",
+                "article": "die"
+            },
+            {
+                "word": "H\u00fcgel",
+                "article": "der"
+            },
+            {
+                "word": "H\u00fclle",
+                "article": "die"
+            },
+            {
+                "word": "H\u00fcrde",
+                "article": "die"
+            },
+            {
+                "word": "H\u00fctte",
+                "article": "die"
+            },
+            {
+                "word": "Hundeh\u00fctte",
+                "article": "die"
+            }
+        ],
+        "I": [
+            {
+                "word": "Idealbild",
+                "article": "das"
+            },
+            {
+                "word": "Identit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Immunsystem",
+                "article": "das"
+            },
+            {
+                "word": "Impuls",
+                "article": "der"
+            },
+            {
+                "word": "Inbegriff",
+                "article": "der"
+            },
+            {
+                "word": "Individualisierung",
+                "article": "die"
+            },
+            {
+                "word": "Individuum",
+                "article": "das"
+            },
+            {
+                "word": "Industrialisierung",
+                "article": "die"
+            },
+            {
+                "word": "Informant",
+                "article": "der"
+            },
+            {
+                "word": "Informantin",
+                "article": "die"
+            },
+            {
+                "word": "Infrastruktur",
+                "article": "die"
+            },
+            {
+                "word": "Infusion",
+                "article": "die"
+            },
+            {
+                "word": "Inhalation",
+                "article": "die"
+            },
+            {
+                "word": "Inhaltsangabe",
+                "article": "die"
+            },
+            {
+                "word": "Inhaltsstoff",
+                "article": "der"
+            },
+            {
+                "word": "Initiale",
+                "article": "das"
+            },
+            {
+                "word": "Initiative",
+                "article": "die"
+            },
+            {
+                "word": "Inland",
+                "article": "das"
+            },
+            {
+                "word": "Innenarchitektur",
+                "article": "die"
+            },
+            {
+                "word": "Inneneinrichtung",
+                "article": "die"
+            },
+            {
+                "word": "Innovation",
+                "article": "die"
+            },
+            {
+                "word": "Instinkt",
+                "article": "der"
+            },
+            {
+                "word": "Instruktion",
+                "article": "die"
+            },
+            {
+                "word": "Intelligenzquotient",
+                "article": "der"
+            },
+            {
+                "word": "Intelligenztest",
+                "article": "der"
+            },
+            {
+                "word": "Internetzugang",
+                "article": "der"
+            },
+            {
+                "word": "Interpretation",
+                "article": "die"
+            },
+            {
+                "word": "Intimit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Inventar",
+                "article": "das"
+            },
+            {
+                "word": "Investition",
+                "article": "die"
+            },
+            {
+                "word": "Isolation",
+                "article": "die"
             }
         ]
     },
@@ -9505,6 +10103,490 @@
             },
             {
                 "word": "Gymnasiallehrer",
+                "article": "der"
+            }
+        ],
+        "H": [
+            {
+                "word": "H\u00e4kchen",
+                "article": "das"
+            },
+            {
+                "word": "H\u00e4me",
+                "article": "die"
+            },
+            {
+                "word": "H\u00e4ufung",
+                "article": "die"
+            },
+            {
+                "word": "Haft",
+                "article": "die"
+            },
+            {
+                "word": "Haftrichter",
+                "article": "der"
+            },
+            {
+                "word": "Handarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Handbuch",
+                "article": "das"
+            },
+            {
+                "word": "Handelskammer",
+                "article": "die"
+            },
+            {
+                "word": "Handelsplatz",
+                "article": "der"
+            },
+            {
+                "word": "Handgemenge",
+                "article": "das"
+            },
+            {
+                "word": "Handlungsdruck",
+                "article": "der"
+            },
+            {
+                "word": "Handout",
+                "article": "das"
+            },
+            {
+                "word": "Handr\u00fccken",
+                "article": "der"
+            },
+            {
+                "word": "Handwerksbetrieb",
+                "article": "der"
+            },
+            {
+                "word": "Hass",
+                "article": "der"
+            },
+            {
+                "word": "Haube",
+                "article": "die"
+            },
+            {
+                "word": "Hauptbedeutung",
+                "article": "die"
+            },
+            {
+                "word": "Hauptberuf",
+                "article": "der"
+            },
+            {
+                "word": "Hauptfaktor",
+                "article": "der"
+            },
+            {
+                "word": "Hauptgedanke",
+                "article": "der"
+            },
+            {
+                "word": "Hauptgrund",
+                "article": "der"
+            },
+            {
+                "word": "Hauptmieter",
+                "article": "der"
+            },
+            {
+                "word": "Hauptpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Hausbau",
+                "article": "der"
+            },
+            {
+                "word": "Haush\u00e4lterin",
+                "article": "die"
+            },
+            {
+                "word": "Hauskatze",
+                "article": "die"
+            },
+            {
+                "word": "Hedonist",
+                "article": "der"
+            },
+            {
+                "word": "Heimatstadt",
+                "article": "die"
+            },
+            {
+                "word": "Heimweg",
+                "article": "der"
+            },
+            {
+                "word": "Heiratsschwindel",
+                "article": "der"
+            },
+            {
+                "word": "Hei\u00dfluftballon",
+                "article": "der"
+            },
+            {
+                "word": "Heizer",
+                "article": "der"
+            },
+            {
+                "word": "Heizungsanlage",
+                "article": "die"
+            },
+            {
+                "word": "Hektar",
+                "article": "das"
+            },
+            {
+                "word": "Hektik",
+                "article": "die"
+            },
+            {
+                "word": "Helfersyndrom",
+                "article": "das"
+            },
+            {
+                "word": "Hemisph\u00e4re",
+                "article": "die"
+            },
+            {
+                "word": "Hergang",
+                "article": "der"
+            },
+            {
+                "word": "Herzchen",
+                "article": "das"
+            },
+            {
+                "word": "Herzklopfen",
+                "article": "das"
+            },
+            {
+                "word": "Herzog",
+                "article": "der"
+            },
+            {
+                "word": "Heu",
+                "article": "das"
+            },
+            {
+                "word": "Heuschrecke",
+                "article": "die"
+            },
+            {
+                "word": "Hilfeleistung",
+                "article": "die"
+            },
+            {
+                "word": "Hilfestellung",
+                "article": "die"
+            },
+            {
+                "word": "Hilfsaktion",
+                "article": "die"
+            },
+            {
+                "word": "Hilfswerk",
+                "article": "das"
+            },
+            {
+                "word": "Hinblick",
+                "article": "der"
+            },
+            {
+                "word": "Hingabe",
+                "article": "die"
+            },
+            {
+                "word": "Hintergrundinformation",
+                "article": "die"
+            },
+            {
+                "word": "Hinterlassenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Hiphop",
+                "article": "der"
+            },
+            {
+                "word": "Hirtenvolk",
+                "article": "das"
+            },
+            {
+                "word": "Historiker",
+                "article": "der"
+            },
+            {
+                "word": "Hitliste",
+                "article": "die"
+            },
+            {
+                "word": "Hochbegabung",
+                "article": "die"
+            },
+            {
+                "word": "Hochdeutsch",
+                "article": "das"
+            },
+            {
+                "word": "Hochkonjunktur",
+                "article": "die"
+            },
+            {
+                "word": "Hochkultur",
+                "article": "die"
+            },
+            {
+                "word": "Hochschulabschluss",
+                "article": "der"
+            },
+            {
+                "word": "Hochschulstudium",
+                "article": "das"
+            },
+            {
+                "word": "Hochsommer",
+                "article": "der"
+            },
+            {
+                "word": "Hochsprache",
+                "article": "die"
+            },
+            {
+                "word": "H\u00f6chstleistung",
+                "article": "die"
+            },
+            {
+                "word": "H\u00f6lle",
+                "article": "die"
+            },
+            {
+                "word": "H\u00f6rnchen",
+                "article": "das"
+            },
+            {
+                "word": "Hoffnungstr\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Hofnarr",
+                "article": "der"
+            },
+            {
+                "word": "Holding",
+                "article": "die"
+            },
+            {
+                "word": "Holzbr\u00fccke",
+                "article": "die"
+            },
+            {
+                "word": "Holzkohle",
+                "article": "die"
+            },
+            {
+                "word": "Holzscheit",
+                "article": "das"
+            },
+            {
+                "word": "Holzschneidekunst",
+                "article": "die"
+            },
+            {
+                "word": "Homebanking",
+                "article": "das"
+            },
+            {
+                "word": "Honorarprofessor",
+                "article": "der"
+            },
+            {
+                "word": "Hornhaut",
+                "article": "die"
+            },
+            {
+                "word": "Hotelzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Hugenotte",
+                "article": "der"
+            },
+            {
+                "word": "Hungerjahr",
+                "article": "das"
+            },
+            {
+                "word": "Hutnadel",
+                "article": "die"
+            },
+            {
+                "word": "Hygiene",
+                "article": "die"
+            },
+            {
+                "word": "Hysterie",
+                "article": "die"
+            }
+        ],
+        "I": [
+            {
+                "word": "Icon",
+                "article": "das"
+            },
+            {
+                "word": "Ideal",
+                "article": "das"
+            },
+            {
+                "word": "Ideenreichtum",
+                "article": "der"
+            },
+            {
+                "word": "Identifizierung",
+                "article": "die"
+            },
+            {
+                "word": "Ideologie",
+                "article": "die"
+            },
+            {
+                "word": "Illustrierte",
+                "article": "die"
+            },
+            {
+                "word": "Image",
+                "article": "das"
+            },
+            {
+                "word": "Imagination",
+                "article": "die"
+            },
+            {
+                "word": "Imbissbude",
+                "article": "die"
+            },
+            {
+                "word": "Imitator",
+                "article": "der"
+            },
+            {
+                "word": "Immigrant",
+                "article": "der"
+            },
+            {
+                "word": "Imperativsatz",
+                "article": "der"
+            },
+            {
+                "word": "Implantat",
+                "article": "das"
+            },
+            {
+                "word": "Indikator",
+                "article": "der"
+            },
+            {
+                "word": "Individualit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Industrieland",
+                "article": "das"
+            },
+            {
+                "word": "Industrieprodukt",
+                "article": "das"
+            },
+            {
+                "word": "Infarkt",
+                "article": "der"
+            },
+            {
+                "word": "Informationstechnik",
+                "article": "die"
+            },
+            {
+                "word": "Infostand",
+                "article": "der"
+            },
+            {
+                "word": "Inhaltsverzeichnis",
+                "article": "das"
+            },
+            {
+                "word": "Initiator",
+                "article": "der"
+            },
+            {
+                "word": "Insolvenz",
+                "article": "die"
+            },
+            {
+                "word": "Instabilit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Intellekt",
+                "article": "der"
+            },
+            {
+                "word": "Intendant",
+                "article": "der"
+            },
+            {
+                "word": "Intensit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Intensivierung",
+                "article": "die"
+            },
+            {
+                "word": "Intention",
+                "article": "die"
+            },
+            {
+                "word": "Interessengebiet",
+                "article": "das"
+            },
+            {
+                "word": "Interessengemeinschaft",
+                "article": "die"
+            },
+            {
+                "word": "Internist",
+                "article": "der"
+            },
+            {
+                "word": "Interpret",
+                "article": "der"
+            },
+            {
+                "word": "Intonation",
+                "article": "die"
+            },
+            {
+                "word": "Intro",
+                "article": "das"
+            },
+            {
+                "word": "Investitionsgut",
+                "article": "das"
+            },
+            {
+                "word": "Ironie",
+                "article": "die"
+            },
+            {
+                "word": "Irrtum",
                 "article": "der"
             }
         ]
