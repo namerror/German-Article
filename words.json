@@ -1895,6 +1895,388 @@
                 "word": "Juristin",
                 "article": "die"
             }
+        ],
+        "K": [
+            {
+                "word": "K\u00e4rtchen",
+                "article": "das"
+            },
+            {
+                "word": "K\u00e4se",
+                "article": "der"
+            },
+            {
+                "word": "K\u00e4sefondue",
+                "article": "das"
+            },
+            {
+                "word": "Kaffee",
+                "article": "der"
+            },
+            {
+                "word": "Kaffeehaus",
+                "article": "das"
+            },
+            {
+                "word": "Kaffeemaschine",
+                "article": "die"
+            },
+            {
+                "word": "Kakao",
+                "article": "der"
+            },
+            {
+                "word": "Kalender",
+                "article": "der"
+            },
+            {
+                "word": "Kamel",
+                "article": "das"
+            },
+            {
+                "word": "Kamera",
+                "article": "die"
+            },
+            {
+                "word": "Kamillentee",
+                "article": "der"
+            },
+            {
+                "word": "Kamm",
+                "article": "der"
+            },
+            {
+                "word": "Kanne",
+                "article": "die"
+            },
+            {
+                "word": "Kantine",
+                "article": "die"
+            },
+            {
+                "word": "Kanton",
+                "article": "der"
+            },
+            {
+                "word": "Kapitel",
+                "article": "das"
+            },
+            {
+                "word": "Karibik",
+                "article": "die"
+            },
+            {
+                "word": "Karneval",
+                "article": "der"
+            },
+            {
+                "word": "Karotte",
+                "article": "die"
+            },
+            {
+                "word": "Karte",
+                "article": "die"
+            },
+            {
+                "word": "Karteikarte",
+                "article": "die"
+            },
+            {
+                "word": "Kartoffel",
+                "article": "die"
+            },
+            {
+                "word": "Karton",
+                "article": "der"
+            },
+            {
+                "word": "Kasse",
+                "article": "die"
+            },
+            {
+                "word": "Kassenzettel",
+                "article": "der"
+            },
+            {
+                "word": "Katalog",
+                "article": "der"
+            },
+            {
+                "word": "Katze",
+                "article": "die"
+            },
+            {
+                "word": "Kaufhaus",
+                "article": "das"
+            },
+            {
+                "word": "Keks",
+                "article": "der"
+            },
+            {
+                "word": "Kellner",
+                "article": "der"
+            },
+            {
+                "word": "Kellnerin",
+                "article": "die"
+            },
+            {
+                "word": "Ketchup",
+                "article": "das"
+            },
+            {
+                "word": "Kilo",
+                "article": "das"
+            },
+            {
+                "word": "Kilogramm",
+                "article": "das"
+            },
+            {
+                "word": "Kilometer",
+                "article": "der"
+            },
+            {
+                "word": "Kind",
+                "article": "das"
+            },
+            {
+                "word": "Kindergarten",
+                "article": "der"
+            },
+            {
+                "word": "Kinderzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Kino",
+                "article": "das"
+            },
+            {
+                "word": "Kiosk",
+                "article": "der"
+            },
+            {
+                "word": "Kirche",
+                "article": "die"
+            },
+            {
+                "word": "Kiste",
+                "article": "die"
+            },
+            {
+                "word": "Kiwi",
+                "article": "der"
+            },
+            {
+                "word": "Klasse",
+                "article": "die"
+            },
+            {
+                "word": "Klassenarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Klassenzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Klassik",
+                "article": "die"
+            },
+            {
+                "word": "Klassiker",
+                "article": "der"
+            },
+            {
+                "word": "Klavier",
+                "article": "das"
+            },
+            {
+                "word": "Kleid",
+                "article": "das"
+            },
+            {
+                "word": "Kleidergesch\u00e4ft",
+                "article": "das"
+            },
+            {
+                "word": "Kleidung",
+                "article": "die"
+            },
+            {
+                "word": "Kleintier",
+                "article": "das"
+            },
+            {
+                "word": "Klinik",
+                "article": "die"
+            },
+            {
+                "word": "Kneipe",
+                "article": "die"
+            },
+            {
+                "word": "Knie",
+                "article": "das"
+            },
+            {
+                "word": "Knochen",
+                "article": "der"
+            },
+            {
+                "word": "Koch",
+                "article": "der"
+            },
+            {
+                "word": "K\u00f6nig",
+                "article": "der"
+            },
+            {
+                "word": "K\u00f6rper",
+                "article": "der"
+            },
+            {
+                "word": "K\u00f6rperteil",
+                "article": "der"
+            },
+            {
+                "word": "Koffer",
+                "article": "der"
+            },
+            {
+                "word": "Kollege",
+                "article": "der"
+            },
+            {
+                "word": "Kollegin",
+                "article": "die"
+            },
+            {
+                "word": "Kontakt",
+                "article": "der"
+            },
+            {
+                "word": "Kontinent",
+                "article": "der"
+            },
+            {
+                "word": "Konto",
+                "article": "das"
+            },
+            {
+                "word": "Kontrolle",
+                "article": "die"
+            },
+            {
+                "word": "Konzert",
+                "article": "das"
+            },
+            {
+                "word": "Kopf",
+                "article": "der"
+            },
+            {
+                "word": "Kopfh\u00f6rer",
+                "article": "der"
+            },
+            {
+                "word": "Kopfschmerz",
+                "article": "der"
+            },
+            {
+                "word": "Kosmetik",
+                "article": "die"
+            },
+            {
+                "word": "Kost\u00fcm",
+                "article": "das"
+            },
+            {
+                "word": "Krabbe",
+                "article": "die"
+            },
+            {
+                "word": "Krankenhaus",
+                "article": "das"
+            },
+            {
+                "word": "Krankenschwester",
+                "article": "die"
+            },
+            {
+                "word": "Krankheit",
+                "article": "die"
+            },
+            {
+                "word": "Kreditkarte",
+                "article": "die"
+            },
+            {
+                "word": "Kreis",
+                "article": "der"
+            },
+            {
+                "word": "Kuchen",
+                "article": "der"
+            },
+            {
+                "word": "K\u00fcche",
+                "article": "die"
+            },
+            {
+                "word": "K\u00fcchenschrank",
+                "article": "der"
+            },
+            {
+                "word": "K\u00fchlschrank",
+                "article": "der"
+            },
+            {
+                "word": "K\u00fcnstler",
+                "article": "der"
+            },
+            {
+                "word": "K\u00fcste",
+                "article": "die"
+            },
+            {
+                "word": "Kugelschreiber",
+                "article": "der"
+            },
+            {
+                "word": "Kuli",
+                "article": "der"
+            },
+            {
+                "word": "Kultfilm",
+                "article": "der"
+            },
+            {
+                "word": "Kunde",
+                "article": "der"
+            },
+            {
+                "word": "Kundin",
+                "article": "die"
+            },
+            {
+                "word": "Kunst",
+                "article": "die"
+            },
+            {
+                "word": "Kunstlehrer",
+                "article": "der"
+            },
+            {
+                "word": "Kunstmuseum",
+                "article": "das"
+            },
+            {
+                "word": "Kurs",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -3267,6 +3649,324 @@
             },
             {
                 "word": "Jugendzentrum",
+                "article": "das"
+            }
+        ],
+        "K": [
+            {
+                "word": "Kabel",
+                "article": "das"
+            },
+            {
+                "word": "Kabine",
+                "article": "die"
+            },
+            {
+                "word": "K\u00e4tzchen",
+                "article": "das"
+            },
+            {
+                "word": "K\u00e4ufer",
+                "article": "der"
+            },
+            {
+                "word": "Kaffeebohne",
+                "article": "die"
+            },
+            {
+                "word": "Kaiser",
+                "article": "der"
+            },
+            {
+                "word": "Kaiserin",
+                "article": "die"
+            },
+            {
+                "word": "Kaiserzeit",
+                "article": "die"
+            },
+            {
+                "word": "Kajak",
+                "article": "der"
+            },
+            {
+                "word": "Kanu",
+                "article": "das"
+            },
+            {
+                "word": "Kapuzenjacke",
+                "article": "die"
+            },
+            {
+                "word": "Karriere",
+                "article": "die"
+            },
+            {
+                "word": "Kategorie",
+                "article": "die"
+            },
+            {
+                "word": "Kauffrau",
+                "article": "die"
+            },
+            {
+                "word": "Kaufmann",
+                "article": "der"
+            },
+            {
+                "word": "Keller",
+                "article": "der"
+            },
+            {
+                "word": "Kennzeichen",
+                "article": "das"
+            },
+            {
+                "word": "Kerzenlicht",
+                "article": "das"
+            },
+            {
+                "word": "Kette",
+                "article": "die"
+            },
+            {
+                "word": "Kinderarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Kinderfest",
+                "article": "das"
+            },
+            {
+                "word": "Kinderspielplatz",
+                "article": "der"
+            },
+            {
+                "word": "Kinderwagen",
+                "article": "der"
+            },
+            {
+                "word": "Kindheit",
+                "article": "die"
+            },
+            {
+                "word": "Kinokarte",
+                "article": "die"
+            },
+            {
+                "word": "Klassenfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Klassenkamerad",
+                "article": "der"
+            },
+            {
+                "word": "Klassenkameradin",
+                "article": "die"
+            },
+            {
+                "word": "Klassentreffen",
+                "article": "das"
+            },
+            {
+                "word": "Kleiderschrank",
+                "article": "der"
+            },
+            {
+                "word": "Kleidungsst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Kleinbus",
+                "article": "der"
+            },
+            {
+                "word": "Kleine",
+                "article": "das"
+            },
+            {
+                "word": "Klischee",
+                "article": "das"
+            },
+            {
+                "word": "Klub",
+                "article": "der"
+            },
+            {
+                "word": "Kochbuch",
+                "article": "das"
+            },
+            {
+                "word": "Kochkurs",
+                "article": "der"
+            },
+            {
+                "word": "K\u00f6chin",
+                "article": "die"
+            },
+            {
+                "word": "K\u00f6lsch",
+                "article": "das"
+            },
+            {
+                "word": "K\u00f6nigin",
+                "article": "die"
+            },
+            {
+                "word": "Komikerin",
+                "article": "die"
+            },
+            {
+                "word": "Kommentar",
+                "article": "der"
+            },
+            {
+                "word": "Kommunikation",
+                "article": "die"
+            },
+            {
+                "word": "Kom\u00f6die",
+                "article": "die"
+            },
+            {
+                "word": "Kompass",
+                "article": "der"
+            },
+            {
+                "word": "Kompliment",
+                "article": "das"
+            },
+            {
+                "word": "Kondition",
+                "article": "die"
+            },
+            {
+                "word": "Konferenz",
+                "article": "die"
+            },
+            {
+                "word": "Konflikt",
+                "article": "der"
+            },
+            {
+                "word": "Konfliktsituation",
+                "article": "die"
+            },
+            {
+                "word": "Konsequenz",
+                "article": "die"
+            },
+            {
+                "word": "Kontext",
+                "article": "der"
+            },
+            {
+                "word": "Kontrolleur",
+                "article": "der"
+            },
+            {
+                "word": "Konzept",
+                "article": "das"
+            },
+            {
+                "word": "Konzerthaus",
+                "article": "das"
+            },
+            {
+                "word": "Konzertsaal",
+                "article": "der"
+            },
+            {
+                "word": "Kooperation",
+                "article": "die"
+            },
+            {
+                "word": "Koordinate",
+                "article": "die"
+            },
+            {
+                "word": "Kopfball",
+                "article": "der"
+            },
+            {
+                "word": "Kopierer",
+                "article": "der"
+            },
+            {
+                "word": "Kosename",
+                "article": "der"
+            },
+            {
+                "word": "Krankenkasse",
+                "article": "die"
+            },
+            {
+                "word": "Krankenpfleger",
+                "article": "der"
+            },
+            {
+                "word": "Krankenwagen",
+                "article": "der"
+            },
+            {
+                "word": "Kredit",
+                "article": "der"
+            },
+            {
+                "word": "Kreuzung",
+                "article": "die"
+            },
+            {
+                "word": "Kreuzwortr\u00e4tsel",
+                "article": "das"
+            },
+            {
+                "word": "Krieg",
+                "article": "der"
+            },
+            {
+                "word": "Krimi",
+                "article": "der"
+            },
+            {
+                "word": "Krise",
+                "article": "die"
+            },
+            {
+                "word": "K\u00fcken",
+                "article": "das"
+            },
+            {
+                "word": "K\u00fcnstlerin",
+                "article": "die"
+            },
+            {
+                "word": "Kuh",
+                "article": "die"
+            },
+            {
+                "word": "Kultur",
+                "article": "die"
+            },
+            {
+                "word": "Kulturzentrum",
+                "article": "das"
+            },
+            {
+                "word": "Kunsterziehung",
+                "article": "die"
+            },
+            {
+                "word": "Kursteilnehmer",
+                "article": "der"
+            },
+            {
+                "word": "Kurve",
+                "article": "die"
+            },
+            {
+                "word": "Kuscheltier",
                 "article": "das"
             }
         ]
@@ -5134,6 +5834,348 @@
             {
                 "word": "Jury",
                 "article": "die"
+            }
+        ],
+        "K": [
+            {
+                "word": "K\u00e4fig",
+                "article": "der"
+            },
+            {
+                "word": "K\u00e4lte",
+                "article": "die"
+            },
+            {
+                "word": "K\u00e4nguru",
+                "article": "das"
+            },
+            {
+                "word": "K\u00e4sekuchen",
+                "article": "der"
+            },
+            {
+                "word": "K\u00e4serei",
+                "article": "die"
+            },
+            {
+                "word": "Kaffeepulver",
+                "article": "das"
+            },
+            {
+                "word": "Kaffeesatz",
+                "article": "der"
+            },
+            {
+                "word": "Kaffeetasse",
+                "article": "die"
+            },
+            {
+                "word": "Kampf",
+                "article": "der"
+            },
+            {
+                "word": "Kampfsport",
+                "article": "der"
+            },
+            {
+                "word": "Kanal",
+                "article": "der"
+            },
+            {
+                "word": "Kandidatin",
+                "article": "die"
+            },
+            {
+                "word": "Kapit\u00e4n",
+                "article": "der"
+            },
+            {
+                "word": "Karaoke",
+                "article": "das"
+            },
+            {
+                "word": "Karate",
+                "article": "das"
+            },
+            {
+                "word": "Kassette",
+                "article": "die"
+            },
+            {
+                "word": "Kasten",
+                "article": "der"
+            },
+            {
+                "word": "Katastrophe",
+                "article": "die"
+            },
+            {
+                "word": "Kauf",
+                "article": "der"
+            },
+            {
+                "word": "Kaufentscheidung",
+                "article": "die"
+            },
+            {
+                "word": "Kerker",
+                "article": "der"
+            },
+            {
+                "word": "Kerl",
+                "article": "der"
+            },
+            {
+                "word": "Kerze",
+                "article": "die"
+            },
+            {
+                "word": "Keyboard",
+                "article": "das"
+            },
+            {
+                "word": "Kindererziehung",
+                "article": "die"
+            },
+            {
+                "word": "Kinderfilm",
+                "article": "der"
+            },
+            {
+                "word": "Kindertagesst\u00e4tte",
+                "article": "die"
+            },
+            {
+                "word": "Kissen",
+                "article": "das"
+            },
+            {
+                "word": "Kita",
+                "article": "die"
+            },
+            {
+                "word": "Klassenlehrer",
+                "article": "der"
+            },
+            {
+                "word": "Klassensprecher",
+                "article": "der"
+            },
+            {
+                "word": "Kleinfamilie",
+                "article": "die"
+            },
+            {
+                "word": "Kleingeld",
+                "article": "das"
+            },
+            {
+                "word": "Klettergarten",
+                "article": "der"
+            },
+            {
+                "word": "Klick",
+                "article": "der"
+            },
+            {
+                "word": "Klima",
+                "article": "das"
+            },
+            {
+                "word": "Klimaanlage",
+                "article": "die"
+            },
+            {
+                "word": "Klingel",
+                "article": "die"
+            },
+            {
+                "word": "Klo\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Knicks",
+                "article": "der"
+            },
+            {
+                "word": "Kn\u00f6del",
+                "article": "der"
+            },
+            {
+                "word": "Knopf",
+                "article": "der"
+            },
+            {
+                "word": "K\u00f6rperh\u00e4lfte",
+                "article": "die"
+            },
+            {
+                "word": "K\u00f6rperhaltung",
+                "article": "die"
+            },
+            {
+                "word": "K\u00f6rpersprache",
+                "article": "die"
+            },
+            {
+                "word": "Kofferraum",
+                "article": "der"
+            },
+            {
+                "word": "Kohle",
+                "article": "die"
+            },
+            {
+                "word": "Kohlekraftwerk",
+                "article": "das"
+            },
+            {
+                "word": "Koma",
+                "article": "das"
+            },
+            {
+                "word": "Komponist",
+                "article": "der"
+            },
+            {
+                "word": "Konkurrenz",
+                "article": "die"
+            },
+            {
+                "word": "Konsulat",
+                "article": "das"
+            },
+            {
+                "word": "Konsum",
+                "article": "der"
+            },
+            {
+                "word": "Konsument",
+                "article": "der"
+            },
+            {
+                "word": "Kontoauszug",
+                "article": "der"
+            },
+            {
+                "word": "Kontonummer",
+                "article": "die"
+            },
+            {
+                "word": "Konzeption",
+                "article": "die"
+            },
+            {
+                "word": "Konzertreise",
+                "article": "die"
+            },
+            {
+                "word": "Kopie",
+                "article": "die"
+            },
+            {
+                "word": "Korb",
+                "article": "der"
+            },
+            {
+                "word": "Kraft",
+                "article": "die"
+            },
+            {
+                "word": "Kraftfahrzeug",
+                "article": "das"
+            },
+            {
+                "word": "Krankenzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Krebs",
+                "article": "der"
+            },
+            {
+                "word": "Kreuz",
+                "article": "das"
+            },
+            {
+                "word": "Kreuzfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Kriminalpolizei",
+                "article": "die"
+            },
+            {
+                "word": "Krisensituation",
+                "article": "die"
+            },
+            {
+                "word": "Kriterium",
+                "article": "das"
+            },
+            {
+                "word": "Kritik",
+                "article": "die"
+            },
+            {
+                "word": "Kr\u00f6te",
+                "article": "die"
+            },
+            {
+                "word": "Kr\u00f6tenwanderung",
+                "article": "die"
+            },
+            {
+                "word": "Krokodil",
+                "article": "das"
+            },
+            {
+                "word": "Kr\u00fcppel",
+                "article": "der"
+            },
+            {
+                "word": "K\u00fcndigung",
+                "article": "die"
+            },
+            {
+                "word": "Kulisse",
+                "article": "die"
+            },
+            {
+                "word": "Kumpel",
+                "article": "der"
+            },
+            {
+                "word": "Kunsthistoriker",
+                "article": "der"
+            },
+            {
+                "word": "Kunststoff",
+                "article": "der"
+            },
+            {
+                "word": "Kunstst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Kunstwerk",
+                "article": "das"
+            },
+            {
+                "word": "Kursleiter",
+                "article": "der"
+            },
+            {
+                "word": "Kursleiterin",
+                "article": "die"
+            },
+            {
+                "word": "Kuss",
+                "article": "der"
+            },
+            {
+                "word": "Kuvert",
+                "article": "das"
             }
         ]
     },
@@ -7752,6 +8794,428 @@
             {
                 "word": "Juweliergesch\u00e4ft",
                 "article": "das"
+            }
+        ],
+        "K": [
+            {
+                "word": "Kabarett",
+                "article": "das"
+            },
+            {
+                "word": "Kabarettist",
+                "article": "der"
+            },
+            {
+                "word": "Kabarettistin",
+                "article": "die"
+            },
+            {
+                "word": "Kader",
+                "article": "der"
+            },
+            {
+                "word": "K\u00e4mpfer",
+                "article": "der"
+            },
+            {
+                "word": "K\u00e4mpferin",
+                "article": "die"
+            },
+            {
+                "word": "Kaffeefilter",
+                "article": "der"
+            },
+            {
+                "word": "Kalkulation",
+                "article": "die"
+            },
+            {
+                "word": "Kalorie",
+                "article": "die"
+            },
+            {
+                "word": "Kampagne",
+                "article": "die"
+            },
+            {
+                "word": "Kandidat",
+                "article": "der"
+            },
+            {
+                "word": "Kaninchen",
+                "article": "das"
+            },
+            {
+                "word": "Kanzler",
+                "article": "der"
+            },
+            {
+                "word": "Kanzlerin",
+                "article": "die"
+            },
+            {
+                "word": "Kanzlerkandidat",
+                "article": "der"
+            },
+            {
+                "word": "Kanzlerkandidatin",
+                "article": "die"
+            },
+            {
+                "word": "Kapital",
+                "article": "das"
+            },
+            {
+                "word": "Kappe",
+                "article": "die"
+            },
+            {
+                "word": "Kapsel",
+                "article": "die"
+            },
+            {
+                "word": "Karawane",
+                "article": "die"
+            },
+            {
+                "word": "Karikatur",
+                "article": "die"
+            },
+            {
+                "word": "Karo",
+                "article": "das"
+            },
+            {
+                "word": "Kartoffelsuppe",
+                "article": "die"
+            },
+            {
+                "word": "Kaufvertrag",
+                "article": "der"
+            },
+            {
+                "word": "Kaution",
+                "article": "die"
+            },
+            {
+                "word": "Keilschrift",
+                "article": "die"
+            },
+            {
+                "word": "Kenntnis",
+                "article": "die"
+            },
+            {
+                "word": "Keyboarder",
+                "article": "der"
+            },
+            {
+                "word": "Kickboxen",
+                "article": "das"
+            },
+            {
+                "word": "Kiefer",
+                "article": "die"
+            },
+            {
+                "word": "Kiez",
+                "article": "der"
+            },
+            {
+                "word": "Kinderzahl",
+                "article": "die"
+            },
+            {
+                "word": "Kinofilm",
+                "article": "der"
+            },
+            {
+                "word": "Kinokasse",
+                "article": "die"
+            },
+            {
+                "word": "Klage",
+                "article": "die"
+            },
+            {
+                "word": "Klammer",
+                "article": "die"
+            },
+            {
+                "word": "Klang",
+                "article": "der"
+            },
+            {
+                "word": "Klarheit",
+                "article": "die"
+            },
+            {
+                "word": "Kleinkind",
+                "article": "das"
+            },
+            {
+                "word": "Klient",
+                "article": "der"
+            },
+            {
+                "word": "Klimazone",
+                "article": "die"
+            },
+            {
+                "word": "Kloster",
+                "article": "das"
+            },
+            {
+                "word": "Klugheit",
+                "article": "die"
+            },
+            {
+                "word": "Knecht",
+                "article": "der"
+            },
+            {
+                "word": "Knopfloch",
+                "article": "das"
+            },
+            {
+                "word": "Knospe",
+                "article": "die"
+            },
+            {
+                "word": "Knoten",
+                "article": "der"
+            },
+            {
+                "word": "Koalition",
+                "article": "die"
+            },
+            {
+                "word": "K\u00f6nner",
+                "article": "der"
+            },
+            {
+                "word": "K\u00f6rpergr\u00f6\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "K\u00f6rpertemperatur",
+                "article": "die"
+            },
+            {
+                "word": "Komik",
+                "article": "die"
+            },
+            {
+                "word": "Komma",
+                "article": "das"
+            },
+            {
+                "word": "Kommentator",
+                "article": "der"
+            },
+            {
+                "word": "Kommilitone",
+                "article": "der"
+            },
+            {
+                "word": "Kommilitonin",
+                "article": "die"
+            },
+            {
+                "word": "Kommissar",
+                "article": "der"
+            },
+            {
+                "word": "Kommissarin",
+                "article": "die"
+            },
+            {
+                "word": "Kommunikationsmittel",
+                "article": "das"
+            },
+            {
+                "word": "Kommunikationsm\u00f6glichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Kompensation",
+                "article": "die"
+            },
+            {
+                "word": "Kompetenz",
+                "article": "die"
+            },
+            {
+                "word": "Komplikation",
+                "article": "die"
+            },
+            {
+                "word": "Komplize",
+                "article": "der"
+            },
+            {
+                "word": "Komplizin",
+                "article": "die"
+            },
+            {
+                "word": "Komponistin",
+                "article": "die"
+            },
+            {
+                "word": "Kongress",
+                "article": "der"
+            },
+            {
+                "word": "Konsumentin",
+                "article": "die"
+            },
+            {
+                "word": "Konsumgesellschaft",
+                "article": "die"
+            },
+            {
+                "word": "Kontaktlinse",
+                "article": "die"
+            },
+            {
+                "word": "Kontrast",
+                "article": "der"
+            },
+            {
+                "word": "Konvention",
+                "article": "die"
+            },
+            {
+                "word": "Konversation",
+                "article": "die"
+            },
+            {
+                "word": "Konzentration",
+                "article": "die"
+            },
+            {
+                "word": "Konzern",
+                "article": "der"
+            },
+            {
+                "word": "Konzertpianist",
+                "article": "der"
+            },
+            {
+                "word": "Koordination",
+                "article": "die"
+            },
+            {
+                "word": "Kopfbedeckung",
+                "article": "die"
+            },
+            {
+                "word": "Kopfrechnen",
+                "article": "das"
+            },
+            {
+                "word": "Korrektur",
+                "article": "die"
+            },
+            {
+                "word": "Korruption",
+                "article": "die"
+            },
+            {
+                "word": "Kraftlosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Kraftstoff",
+                "article": "der"
+            },
+            {
+                "word": "Kraftwerk",
+                "article": "das"
+            },
+            {
+                "word": "Kragen",
+                "article": "der"
+            },
+            {
+                "word": "Krake",
+                "article": "der"
+            },
+            {
+                "word": "Kralle",
+                "article": "die"
+            },
+            {
+                "word": "Kram",
+                "article": "der"
+            },
+            {
+                "word": "Krawatte",
+                "article": "die"
+            },
+            {
+                "word": "Kreditkartenbetrug",
+                "article": "der"
+            },
+            {
+                "word": "Krempel",
+                "article": "der"
+            },
+            {
+                "word": "Krieger",
+                "article": "der"
+            },
+            {
+                "word": "Kriegerin",
+                "article": "die"
+            },
+            {
+                "word": "Kritiker",
+                "article": "der"
+            },
+            {
+                "word": "Kritikerin",
+                "article": "die"
+            },
+            {
+                "word": "K\u00fchlraum",
+                "article": "der"
+            },
+            {
+                "word": "K\u00fchltruhe",
+                "article": "die"
+            },
+            {
+                "word": "Kulturdenkmal",
+                "article": "das"
+            },
+            {
+                "word": "Kulturschock",
+                "article": "der"
+            },
+            {
+                "word": "Kunstraub",
+                "article": "der"
+            },
+            {
+                "word": "Kunstturnen",
+                "article": "das"
+            },
+            {
+                "word": "Kurier",
+                "article": "der"
+            },
+            {
+                "word": "Kurzfassung",
+                "article": "die"
+            },
+            {
+                "word": "Kurzvortrag",
+                "article": "der"
+            },
+            {
+                "word": "Kutsche",
+                "article": "die"
             }
         ]
     },
@@ -10805,6 +12269,600 @@
             },
             {
                 "word": "Justitia",
+                "article": "die"
+            }
+        ],
+        "K": [
+            {
+                "word": "Kaderschmiede",
+                "article": "die"
+            },
+            {
+                "word": "Kakaobohne",
+                "article": "die"
+            },
+            {
+                "word": "Kaktus",
+                "article": "der"
+            },
+            {
+                "word": "Kalenderblatt",
+                "article": "das"
+            },
+            {
+                "word": "Kamerad",
+                "article": "der"
+            },
+            {
+                "word": "Kamin",
+                "article": "der"
+            },
+            {
+                "word": "Kante",
+                "article": "die"
+            },
+            {
+                "word": "Kanzlei",
+                "article": "die"
+            },
+            {
+                "word": "Kapazit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Kapitalgeber",
+                "article": "der"
+            },
+            {
+                "word": "Kapitulation",
+                "article": "die"
+            },
+            {
+                "word": "Karaffe",
+                "article": "die"
+            },
+            {
+                "word": "Karnevalszeit",
+                "article": "die"
+            },
+            {
+                "word": "Kaserne",
+                "article": "die"
+            },
+            {
+                "word": "Katastrophenfall",
+                "article": "der"
+            },
+            {
+                "word": "Kathodenstrahl",
+                "article": "der"
+            },
+            {
+                "word": "Kaufkraft",
+                "article": "die"
+            },
+            {
+                "word": "Kaufzwang",
+                "article": "der"
+            },
+            {
+                "word": "Keim",
+                "article": "der"
+            },
+            {
+                "word": "Kennzeichnung",
+                "article": "die"
+            },
+            {
+                "word": "Kern",
+                "article": "der"
+            },
+            {
+                "word": "Kessel",
+                "article": "der"
+            },
+            {
+                "word": "Kick",
+                "article": "der"
+            },
+            {
+                "word": "Kiefernholz",
+                "article": "das"
+            },
+            {
+                "word": "Kinderarzt",
+                "article": "der"
+            },
+            {
+                "word": "Kinderg\u00e4rtner",
+                "article": "der"
+            },
+            {
+                "word": "Kinderg\u00e4rtnerin",
+                "article": "die"
+            },
+            {
+                "word": "Kinderschuh",
+                "article": "der"
+            },
+            {
+                "word": "Kindheitserinnerung",
+                "article": "die"
+            },
+            {
+                "word": "Kirchg\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Kitt",
+                "article": "der"
+            },
+            {
+                "word": "Kittel",
+                "article": "der"
+            },
+            {
+                "word": "Klappbett",
+                "article": "das"
+            },
+            {
+                "word": "Klappe",
+                "article": "die"
+            },
+            {
+                "word": "Klappentext",
+                "article": "der"
+            },
+            {
+                "word": "Klappstuhl",
+                "article": "der"
+            },
+            {
+                "word": "Klaps",
+                "article": "der"
+            },
+            {
+                "word": "Klartext",
+                "article": "der"
+            },
+            {
+                "word": "Klaue",
+                "article": "die"
+            },
+            {
+                "word": "Klebeband",
+                "article": "das"
+            },
+            {
+                "word": "Klebstoff",
+                "article": "der"
+            },
+            {
+                "word": "Klee",
+                "article": "der"
+            },
+            {
+                "word": "Kleiderb\u00fcgel",
+                "article": "der"
+            },
+            {
+                "word": "Kleinigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Kleinstadt",
+                "article": "die"
+            },
+            {
+                "word": "Klette",
+                "article": "die"
+            },
+            {
+                "word": "Klettverschluss",
+                "article": "der"
+            },
+            {
+                "word": "Klimakatastrophe",
+                "article": "die"
+            },
+            {
+                "word": "Klinge",
+                "article": "die"
+            },
+            {
+                "word": "Klosett",
+                "article": "das"
+            },
+            {
+                "word": "Kluft",
+                "article": "die"
+            },
+            {
+                "word": "Kniestrumpf",
+                "article": "der"
+            },
+            {
+                "word": "Kniff",
+                "article": "der"
+            },
+            {
+                "word": "Knochenbruch",
+                "article": "der"
+            },
+            {
+                "word": "Knochenmark",
+                "article": "das"
+            },
+            {
+                "word": "Kochplatte",
+                "article": "die"
+            },
+            {
+                "word": "Kochrezept",
+                "article": "das"
+            },
+            {
+                "word": "K\u00f6nigreich",
+                "article": "das"
+            },
+            {
+                "word": "K\u00f6pfchen",
+                "article": "das"
+            },
+            {
+                "word": "K\u00f6rperfunktion",
+                "article": "die"
+            },
+            {
+                "word": "K\u00f6rpergeruch",
+                "article": "der"
+            },
+            {
+                "word": "K\u00f6rperverletzung",
+                "article": "die"
+            },
+            {
+                "word": "Kognition",
+                "article": "die"
+            },
+            {
+                "word": "Koh\u00e4renz",
+                "article": "die"
+            },
+            {
+                "word": "Kohlef\u00f6rderung",
+                "article": "die"
+            },
+            {
+                "word": "Koks",
+                "article": "der"
+            },
+            {
+                "word": "Kollegialit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Kollektion",
+                "article": "die"
+            },
+            {
+                "word": "Kolonialherrschaft",
+                "article": "die"
+            },
+            {
+                "word": "Kolonie",
+                "article": "die"
+            },
+            {
+                "word": "Kolumne",
+                "article": "die"
+            },
+            {
+                "word": "Komfort",
+                "article": "der"
+            },
+            {
+                "word": "Komiker",
+                "article": "der"
+            },
+            {
+                "word": "Komitee",
+                "article": "das"
+            },
+            {
+                "word": "Kommune",
+                "article": "die"
+            },
+            {
+                "word": "Kommunikationswissenschaftler",
+                "article": "der"
+            },
+            {
+                "word": "Komplexit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Komponente",
+                "article": "die"
+            },
+            {
+                "word": "Kompositum",
+                "article": "das"
+            },
+            {
+                "word": "Konditionalsatz",
+                "article": "der"
+            },
+            {
+                "word": "Konjunktion",
+                "article": "die"
+            },
+            {
+                "word": "Konjunktiv",
+                "article": "der"
+            },
+            {
+                "word": "Konjunktur",
+                "article": "die"
+            },
+            {
+                "word": "Konkurrenzdruck",
+                "article": "der"
+            },
+            {
+                "word": "Konkurrenzkampf",
+                "article": "der"
+            },
+            {
+                "word": "Konnektor",
+                "article": "der"
+            },
+            {
+                "word": "Konservendose",
+                "article": "die"
+            },
+            {
+                "word": "Konsistenz",
+                "article": "die"
+            },
+            {
+                "word": "Konstrukt",
+                "article": "das"
+            },
+            {
+                "word": "Konstruktion",
+                "article": "die"
+            },
+            {
+                "word": "Konsumgut",
+                "article": "das"
+            },
+            {
+                "word": "Konsumverzicht",
+                "article": "der"
+            },
+            {
+                "word": "Kontaktaufnahme",
+                "article": "die"
+            },
+            {
+                "word": "Kontostand",
+                "article": "der"
+            },
+            {
+                "word": "Kontrahent",
+                "article": "der"
+            },
+            {
+                "word": "Koordinator",
+                "article": "der"
+            },
+            {
+                "word": "Koproduktion",
+                "article": "die"
+            },
+            {
+                "word": "Korbmacher",
+                "article": "der"
+            },
+            {
+                "word": "Korbstuhl",
+                "article": "der"
+            },
+            {
+                "word": "Korrektheit",
+                "article": "die"
+            },
+            {
+                "word": "Korrelat",
+                "article": "das"
+            },
+            {
+                "word": "Korrespondenz",
+                "article": "die"
+            },
+            {
+                "word": "Kosmos",
+                "article": "der"
+            },
+            {
+                "word": "Kraftwagen",
+                "article": "der"
+            },
+            {
+                "word": "Krampf",
+                "article": "der"
+            },
+            {
+                "word": "Krankengeld",
+                "article": "das"
+            },
+            {
+                "word": "Krankenstand",
+                "article": "der"
+            },
+            {
+                "word": "Krankheitserreger",
+                "article": "der"
+            },
+            {
+                "word": "Krankheitsfall",
+                "article": "der"
+            },
+            {
+                "word": "Kreativit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Krebsfr\u00fcherkennung",
+                "article": "die"
+            },
+            {
+                "word": "Kreditw\u00fcrdigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Kreislauf",
+                "article": "der"
+            },
+            {
+                "word": "Kriegswaise",
+                "article": "die"
+            },
+            {
+                "word": "Kriminalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Kriminologe",
+                "article": "der"
+            },
+            {
+                "word": "Krimskrams",
+                "article": "der"
+            },
+            {
+                "word": "Kr\u00f6sus",
+                "article": "der"
+            },
+            {
+                "word": "Kr\u00fcmel",
+                "article": "der"
+            },
+            {
+                "word": "Kruste",
+                "article": "die"
+            },
+            {
+                "word": "Kubismus",
+                "article": "der"
+            },
+            {
+                "word": "K\u00fchlwasser",
+                "article": "das"
+            },
+            {
+                "word": "K\u00fcndigungsfrist",
+                "article": "die"
+            },
+            {
+                "word": "K\u00fcrzel",
+                "article": "das"
+            },
+            {
+                "word": "K\u00fcrzung",
+                "article": "die"
+            },
+            {
+                "word": "K\u00fcster",
+                "article": "der"
+            },
+            {
+                "word": "Kuhstall",
+                "article": "der"
+            },
+            {
+                "word": "Kult",
+                "article": "der"
+            },
+            {
+                "word": "Kulturgeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Kulturkreis",
+                "article": "der"
+            },
+            {
+                "word": "Kulturwissenschaftler",
+                "article": "der"
+            },
+            {
+                "word": "Kummer",
+                "article": "der"
+            },
+            {
+                "word": "Kundendienst",
+                "article": "der"
+            },
+            {
+                "word": "Kunstakademie",
+                "article": "die"
+            },
+            {
+                "word": "Kunstdruck",
+                "article": "der"
+            },
+            {
+                "word": "Kunstgegenstand",
+                "article": "der"
+            },
+            {
+                "word": "Kunstgeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Kunstgewerbe",
+                "article": "das"
+            },
+            {
+                "word": "Kunsth\u00e4ndler",
+                "article": "der"
+            },
+            {
+                "word": "Kunsthandwerk",
+                "article": "das"
+            },
+            {
+                "word": "Kunsthochschule",
+                "article": "die"
+            },
+            {
+                "word": "Kunstsammlung",
+                "article": "die"
+            },
+            {
+                "word": "Kunstschatz",
+                "article": "der"
+            },
+            {
+                "word": "Kunststudium",
+                "article": "das"
+            },
+            {
+                "word": "Kur",
+                "article": "die"
+            },
+            {
+                "word": "Kuratorin",
+                "article": "die"
+            },
+            {
+                "word": "Kurzzeitged\u00e4chtnis",
+                "article": "das"
+            },
+            {
+                "word": "Kusine",
                 "article": "die"
             }
         ]
