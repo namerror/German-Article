@@ -2277,6 +2277,160 @@
                 "word": "Kurs",
                 "article": "der"
             }
+        ],
+        "L": [
+            {
+                "word": "Label",
+                "article": "das"
+            },
+            {
+                "word": "Labrador",
+                "article": "der"
+            },
+            {
+                "word": "Laden",
+                "article": "der"
+            },
+            {
+                "word": "Lage",
+                "article": "die"
+            },
+            {
+                "word": "Lampe",
+                "article": "die"
+            },
+            {
+                "word": "Land",
+                "article": "das"
+            },
+            {
+                "word": "Landkarte",
+                "article": "die"
+            },
+            {
+                "word": "Landschaft",
+                "article": "die"
+            },
+            {
+                "word": "Landwirt",
+                "article": "der"
+            },
+            {
+                "word": "Latein",
+                "article": "das"
+            },
+            {
+                "word": "Lateinlehrerin",
+                "article": "die"
+            },
+            {
+                "word": "Laune",
+                "article": "die"
+            },
+            {
+                "word": "Leben",
+                "article": "das"
+            },
+            {
+                "word": "Lebensmittel",
+                "article": "das"
+            },
+            {
+                "word": "Lehrer",
+                "article": "der"
+            },
+            {
+                "word": "Lehrerin",
+                "article": "die"
+            },
+            {
+                "word": "Leiter",
+                "article": "der"
+            },
+            {
+                "word": "Leiterin",
+                "article": "die"
+            },
+            {
+                "word": "Licht",
+                "article": "das"
+            },
+            {
+                "word": "Liebe",
+                "article": "die"
+            },
+            {
+                "word": "Lieblingsfach",
+                "article": "das"
+            },
+            {
+                "word": "Lieblingsfilm",
+                "article": "der"
+            },
+            {
+                "word": "Lieblingsgruppe",
+                "article": "die"
+            },
+            {
+                "word": "Lieblingslied",
+                "article": "das"
+            },
+            {
+                "word": "Lieblingsort",
+                "article": "der"
+            },
+            {
+                "word": "Lied",
+                "article": "das"
+            },
+            {
+                "word": "Limo",
+                "article": "die"
+            },
+            {
+                "word": "Limonade",
+                "article": "die"
+            },
+            {
+                "word": "Linie",
+                "article": "die"
+            },
+            {
+                "word": "Lippenstift",
+                "article": "der"
+            },
+            {
+                "word": "Liter",
+                "article": "das"
+            },
+            {
+                "word": "Literatur",
+                "article": "die"
+            },
+            {
+                "word": "L\u00f6ffel",
+                "article": "der"
+            },
+            {
+                "word": "L\u00f6sung",
+                "article": "die"
+            },
+            {
+                "word": "Loft",
+                "article": "das"
+            },
+            {
+                "word": "Lokal",
+                "article": "das"
+            },
+            {
+                "word": "Luftballon",
+                "article": "der"
+            },
+            {
+                "word": "Lust",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -3968,6 +4122,120 @@
             {
                 "word": "Kuscheltier",
                 "article": "das"
+            }
+        ],
+        "L": [
+            {
+                "word": "L\u00e4nge",
+                "article": "die"
+            },
+            {
+                "word": "Lagerfeuer",
+                "article": "das"
+            },
+            {
+                "word": "Lagerhaus",
+                "article": "das"
+            },
+            {
+                "word": "Langeweile",
+                "article": "die"
+            },
+            {
+                "word": "Laptop",
+                "article": "das"
+            },
+            {
+                "word": "Lastwagen",
+                "article": "der"
+            },
+            {
+                "word": "Lauf",
+                "article": "der"
+            },
+            {
+                "word": "Lautsprecher",
+                "article": "der"
+            },
+            {
+                "word": "Lebensphase",
+                "article": "die"
+            },
+            {
+                "word": "Lebkuchen",
+                "article": "der"
+            },
+            {
+                "word": "Lehre",
+                "article": "die"
+            },
+            {
+                "word": "Leidenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Lieblingsbuch",
+                "article": "das"
+            },
+            {
+                "word": "Lieblingsfarbe",
+                "article": "die"
+            },
+            {
+                "word": "Lieblingstier",
+                "article": "das"
+            },
+            {
+                "word": "Lieblingsverein",
+                "article": "der"
+            },
+            {
+                "word": "Lieblingswort",
+                "article": "das"
+            },
+            {
+                "word": "Link",
+                "article": "der"
+            },
+            {
+                "word": "Liste",
+                "article": "die"
+            },
+            {
+                "word": "Loch",
+                "article": "das"
+            },
+            {
+                "word": "Logbuch",
+                "article": "das"
+            },
+            {
+                "word": "Logop\u00e4din",
+                "article": "die"
+            },
+            {
+                "word": "Los",
+                "article": "das"
+            },
+            {
+                "word": "L\u00fccke",
+                "article": "die"
+            },
+            {
+                "word": "L\u00fcge",
+                "article": "die"
+            },
+            {
+                "word": "Luft",
+                "article": "die"
+            },
+            {
+                "word": "Luxemburger",
+                "article": "der"
+            },
+            {
+                "word": "Luxemburgerin",
+                "article": "die"
             }
         ]
     },
@@ -6176,6 +6444,160 @@
             {
                 "word": "Kuvert",
                 "article": "das"
+            }
+        ],
+        "L": [
+            {
+                "word": "Labor",
+                "article": "das"
+            },
+            {
+                "word": "Labskaus",
+                "article": "das"
+            },
+            {
+                "word": "Labyrinth",
+                "article": "das"
+            },
+            {
+                "word": "L\u00e4rm",
+                "article": "der"
+            },
+            {
+                "word": "Lager",
+                "article": "das"
+            },
+            {
+                "word": "Lampenfieber",
+                "article": "das"
+            },
+            {
+                "word": "Landmensch",
+                "article": "der"
+            },
+            {
+                "word": "Landung",
+                "article": "die"
+            },
+            {
+                "word": "Landwirtschaft",
+                "article": "die"
+            },
+            {
+                "word": "Lasagne",
+                "article": "die"
+            },
+            {
+                "word": "Laster",
+                "article": "der"
+            },
+            {
+                "word": "Laufwerk",
+                "article": "das"
+            },
+            {
+                "word": "Lebensdauer",
+                "article": "die"
+            },
+            {
+                "word": "Lebenserwartung",
+                "article": "die"
+            },
+            {
+                "word": "Lebensgefahr",
+                "article": "die"
+            },
+            {
+                "word": "Lebensgeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Lebenslauf",
+                "article": "der"
+            },
+            {
+                "word": "Lebenswandel",
+                "article": "der"
+            },
+            {
+                "word": "Lebensweisheit",
+                "article": "die"
+            },
+            {
+                "word": "Leder",
+                "article": "das"
+            },
+            {
+                "word": "Lehne",
+                "article": "die"
+            },
+            {
+                "word": "Lehrgang",
+                "article": "der"
+            },
+            {
+                "word": "Lehrling",
+                "article": "der"
+            },
+            {
+                "word": "Leistung",
+                "article": "die"
+            },
+            {
+                "word": "Leitung",
+                "article": "die"
+            },
+            {
+                "word": "Leser",
+                "article": "der"
+            },
+            {
+                "word": "Level",
+                "article": "der"
+            },
+            {
+                "word": "Liebesbrief",
+                "article": "der"
+            },
+            {
+                "word": "Liebeserkl\u00e4rung",
+                "article": "die"
+            },
+            {
+                "word": "Liebesgeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Liebesszene",
+                "article": "die"
+            },
+            {
+                "word": "Lieferung",
+                "article": "die"
+            },
+            {
+                "word": "Lift",
+                "article": "der"
+            },
+            {
+                "word": "Lippe",
+                "article": "die"
+            },
+            {
+                "word": "Location",
+                "article": "die"
+            },
+            {
+                "word": "L\u00f6we",
+                "article": "der"
+            },
+            {
+                "word": "Lohn",
+                "article": "der"
+            },
+            {
+                "word": "Luxus",
+                "article": "der"
             }
         ]
     },
@@ -9215,6 +9637,204 @@
             },
             {
                 "word": "Kutsche",
+                "article": "die"
+            }
+        ],
+        "L": [
+            {
+                "word": "L\u00e4ngeneinheit",
+                "article": "die"
+            },
+            {
+                "word": "Landessprache",
+                "article": "die"
+            },
+            {
+                "word": "Langlauf",
+                "article": "der"
+            },
+            {
+                "word": "Last",
+                "article": "die"
+            },
+            {
+                "word": "Laufbahn",
+                "article": "die"
+            },
+            {
+                "word": "Laufband",
+                "article": "das"
+            },
+            {
+                "word": "Laus",
+                "article": "die"
+            },
+            {
+                "word": "Laute",
+                "article": "die"
+            },
+            {
+                "word": "Lautst\u00e4rke",
+                "article": "die"
+            },
+            {
+                "word": "Lebensbedingung",
+                "article": "die"
+            },
+            {
+                "word": "Lebensentwurf",
+                "article": "der"
+            },
+            {
+                "word": "Lebensjahr",
+                "article": "das"
+            },
+            {
+                "word": "Lebenslage",
+                "article": "die"
+            },
+            {
+                "word": "Lebensmotto",
+                "article": "das"
+            },
+            {
+                "word": "Lebensunterhalt",
+                "article": "der"
+            },
+            {
+                "word": "Lebensweg",
+                "article": "der"
+            },
+            {
+                "word": "Lebensweise",
+                "article": "die"
+            },
+            {
+                "word": "Legende",
+                "article": "die"
+            },
+            {
+                "word": "Lehrkraft",
+                "article": "die"
+            },
+            {
+                "word": "Leib",
+                "article": "der"
+            },
+            {
+                "word": "Leinwand",
+                "article": "die"
+            },
+            {
+                "word": "Leistungsf\u00e4higkeit",
+                "article": "die"
+            },
+            {
+                "word": "Leistungsgesellschaft",
+                "article": "die"
+            },
+            {
+                "word": "Lekt\u00fcre",
+                "article": "die"
+            },
+            {
+                "word": "Lernerfolg",
+                "article": "der"
+            },
+            {
+                "word": "Lerninhalt",
+                "article": "der"
+            },
+            {
+                "word": "Leserbrief",
+                "article": "der"
+            },
+            {
+                "word": "Lesung",
+                "article": "die"
+            },
+            {
+                "word": "Liberalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Lidschlag",
+                "article": "der"
+            },
+            {
+                "word": "Liebling",
+                "article": "der"
+            },
+            {
+                "word": "Lieferzeit",
+                "article": "die"
+            },
+            {
+                "word": "Liegest\u00fctz",
+                "article": "der"
+            },
+            {
+                "word": "Lifestyle",
+                "article": "der"
+            },
+            {
+                "word": "Linse",
+                "article": "die"
+            },
+            {
+                "word": "Lob",
+                "article": "das"
+            },
+            {
+                "word": "Loblied",
+                "article": "das"
+            },
+            {
+                "word": "Lockerung",
+                "article": "die"
+            },
+            {
+                "word": "L\u00f6schblatt",
+                "article": "das"
+            },
+            {
+                "word": "L\u00f6segeld",
+                "article": "das"
+            },
+            {
+                "word": "Logistik",
+                "article": "die"
+            },
+            {
+                "word": "Logo",
+                "article": "das"
+            },
+            {
+                "word": "Lokf\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "Lokf\u00fchrerin",
+                "article": "die"
+            },
+            {
+                "word": "Lotto",
+                "article": "das"
+            },
+            {
+                "word": "L\u00fcgengeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Lungenkrankheit",
+                "article": "die"
+            },
+            {
+                "word": "Luxushotel",
+                "article": "das"
+            },
+            {
+                "word": "Lyrik",
                 "article": "die"
             }
         ]
@@ -12864,6 +13484,388 @@
             {
                 "word": "Kusine",
                 "article": "die"
+            }
+        ],
+        "L": [
+            {
+                "word": "Ladenpreis",
+                "article": "der"
+            },
+            {
+                "word": "L\u00e4rmpegel",
+                "article": "der"
+            },
+            {
+                "word": "L\u00e4rmschutz",
+                "article": "der"
+            },
+            {
+                "word": "L\u00e4ssigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Lagerung",
+                "article": "die"
+            },
+            {
+                "word": "Landesverrat",
+                "article": "der"
+            },
+            {
+                "word": "Landflucht",
+                "article": "die"
+            },
+            {
+                "word": "Landkreis",
+                "article": "der"
+            },
+            {
+                "word": "Langzeitged\u00e4chtnis",
+                "article": "das"
+            },
+            {
+                "word": "Lastschrift",
+                "article": "die"
+            },
+            {
+                "word": "Lattenzaun",
+                "article": "der"
+            },
+            {
+                "word": "Laufsteg",
+                "article": "der"
+            },
+            {
+                "word": "Laufzeit",
+                "article": "die"
+            },
+            {
+                "word": "Laut",
+                "article": "der"
+            },
+            {
+                "word": "Lavastrom",
+                "article": "der"
+            },
+            {
+                "word": "Lebensalter",
+                "article": "das"
+            },
+            {
+                "word": "Lebensart",
+                "article": "die"
+            },
+            {
+                "word": "Lebenserfahrung",
+                "article": "die"
+            },
+            {
+                "word": "Lebensform",
+                "article": "die"
+            },
+            {
+                "word": "Lebensfreude",
+                "article": "die"
+            },
+            {
+                "word": "Lebensf\u00fchrung",
+                "article": "die"
+            },
+            {
+                "word": "Lebensgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Lebensgestaltung",
+                "article": "die"
+            },
+            {
+                "word": "Lebensgrundlage",
+                "article": "die"
+            },
+            {
+                "word": "Lebensk\u00fcnstler",
+                "article": "der"
+            },
+            {
+                "word": "Lebensmittelindustrie",
+                "article": "die"
+            },
+            {
+                "word": "Lebensmittelkontrolleur",
+                "article": "der"
+            },
+            {
+                "word": "Lebensmittelpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Lebensn\u00e4he",
+                "article": "die"
+            },
+            {
+                "word": "Lebensqualit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Lebensspanne",
+                "article": "die"
+            },
+            {
+                "word": "Lebensstil",
+                "article": "der"
+            },
+            {
+                "word": "Lebenswelt",
+                "article": "die"
+            },
+            {
+                "word": "Lebenswerk",
+                "article": "das"
+            },
+            {
+                "word": "Leber",
+                "article": "die"
+            },
+            {
+                "word": "Lebewesen",
+                "article": "das"
+            },
+            {
+                "word": "Lederhaut",
+                "article": "die"
+            },
+            {
+                "word": "Lederhose",
+                "article": "die"
+            },
+            {
+                "word": "Leere",
+                "article": "die"
+            },
+            {
+                "word": "Legat",
+                "article": "der"
+            },
+            {
+                "word": "Legitimation",
+                "article": "die"
+            },
+            {
+                "word": "Legitimierung",
+                "article": "die"
+            },
+            {
+                "word": "Lehm",
+                "article": "der"
+            },
+            {
+                "word": "Lehrmeister",
+                "article": "der"
+            },
+            {
+                "word": "Lehrperson",
+                "article": "die"
+            },
+            {
+                "word": "Lehrplan",
+                "article": "der"
+            },
+            {
+                "word": "Lehrstuhl",
+                "article": "der"
+            },
+            {
+                "word": "Lehrveranstaltung",
+                "article": "die"
+            },
+            {
+                "word": "Leichenwagen",
+                "article": "der"
+            },
+            {
+                "word": "Leichtigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Leidensgenosse",
+                "article": "der"
+            },
+            {
+                "word": "Leiharbeit",
+                "article": "die"
+            },
+            {
+                "word": "Leine",
+                "article": "die"
+            },
+            {
+                "word": "Leistungsdruck",
+                "article": "der"
+            },
+            {
+                "word": "Leitfaden",
+                "article": "der"
+            },
+            {
+                "word": "Leitgedanke",
+                "article": "der"
+            },
+            {
+                "word": "Lektion",
+                "article": "die"
+            },
+            {
+                "word": "Lenkung",
+                "article": "die"
+            },
+            {
+                "word": "Lernprozess",
+                "article": "der"
+            },
+            {
+                "word": "Lernziel",
+                "article": "das"
+            },
+            {
+                "word": "Leseratte",
+                "article": "die"
+            },
+            {
+                "word": "Leserschaft",
+                "article": "die"
+            },
+            {
+                "word": "Lesezeichen",
+                "article": "das"
+            },
+            {
+                "word": "Leuchte",
+                "article": "die"
+            },
+            {
+                "word": "Leuk\u00e4mie",
+                "article": "die"
+            },
+            {
+                "word": "Liberalisierung",
+                "article": "die"
+            },
+            {
+                "word": "Lichtblick",
+                "article": "der"
+            },
+            {
+                "word": "Liebesgl\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Liebeskummer",
+                "article": "der"
+            },
+            {
+                "word": "Liebesleben",
+                "article": "das"
+            },
+            {
+                "word": "Liebhaber",
+                "article": "der"
+            },
+            {
+                "word": "Lieferwagen",
+                "article": "der"
+            },
+            {
+                "word": "Liga",
+                "article": "die"
+            },
+            {
+                "word": "Linde",
+                "article": "die"
+            },
+            {
+                "word": "Linguistik",
+                "article": "die"
+            },
+            {
+                "word": "Linienbus",
+                "article": "der"
+            },
+            {
+                "word": "Linsengericht",
+                "article": "das"
+            },
+            {
+                "word": "Lippenbekenntnis",
+                "article": "das"
+            },
+            {
+                "word": "Literaturverfilmung",
+                "article": "die"
+            },
+            {
+                "word": "Literaturwissenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Literaturwissenschaftler",
+                "article": "der"
+            },
+            {
+                "word": "Lithographie",
+                "article": "die"
+            },
+            {
+                "word": "Lobby",
+                "article": "die"
+            },
+            {
+                "word": "Locke",
+                "article": "die"
+            },
+            {
+                "word": "L\u00f6wenzahn",
+                "article": "der"
+            },
+            {
+                "word": "Logis",
+                "article": "das"
+            },
+            {
+                "word": "Lokalkolorit",
+                "article": "das"
+            },
+            {
+                "word": "Lokalpresse",
+                "article": "die"
+            },
+            {
+                "word": "Lokomotive",
+                "article": "die"
+            },
+            {
+                "word": "Luftfracht",
+                "article": "die"
+            },
+            {
+                "word": "Luftverschmutzung",
+                "article": "die"
+            },
+            {
+                "word": "Lupe",
+                "article": "die"
+            },
+            {
+                "word": "Lustgewinn",
+                "article": "der"
+            },
+            {
+                "word": "Lustprinzip",
+                "article": "das"
+            },
+            {
+                "word": "Lymphknoten",
+                "article": "der"
             }
         ]
     }
