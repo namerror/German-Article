@@ -2431,6 +2431,284 @@
                 "word": "Lust",
                 "article": "die"
             }
+        ],
+        "M": [
+            {
+                "word": "M\u00e4dchen",
+                "article": "das"
+            },
+            {
+                "word": "M\u00e4rz",
+                "article": "der"
+            },
+            {
+                "word": "Magazin",
+                "article": "das"
+            },
+            {
+                "word": "Mahlzeit",
+                "article": "die"
+            },
+            {
+                "word": "Mai",
+                "article": "der"
+            },
+            {
+                "word": "Mal",
+                "article": "das"
+            },
+            {
+                "word": "Mama",
+                "article": "die"
+            },
+            {
+                "word": "Mann",
+                "article": "der"
+            },
+            {
+                "word": "Mantel",
+                "article": "der"
+            },
+            {
+                "word": "Maori",
+                "article": "der"
+            },
+            {
+                "word": "Marathon",
+                "article": "der"
+            },
+            {
+                "word": "Markt",
+                "article": "der"
+            },
+            {
+                "word": "Marktplatz",
+                "article": "der"
+            },
+            {
+                "word": "Marmelade",
+                "article": "die"
+            },
+            {
+                "word": "Maschine",
+                "article": "die"
+            },
+            {
+                "word": "Ma\u00df",
+                "article": "das"
+            },
+            {
+                "word": "Mathebuch",
+                "article": "das"
+            },
+            {
+                "word": "Mathelehrer",
+                "article": "der"
+            },
+            {
+                "word": "Mathematik",
+                "article": "die"
+            },
+            {
+                "word": "Maurer",
+                "article": "der"
+            },
+            {
+                "word": "Mechaniker",
+                "article": "der"
+            },
+            {
+                "word": "Medikament",
+                "article": "das"
+            },
+            {
+                "word": "Meer",
+                "article": "das"
+            },
+            {
+                "word": "Meeting",
+                "article": "das"
+            },
+            {
+                "word": "Mehl",
+                "article": "das"
+            },
+            {
+                "word": "Melodie",
+                "article": "die"
+            },
+            {
+                "word": "Mensch",
+                "article": "der"
+            },
+            {
+                "word": "Messer",
+                "article": "das"
+            },
+            {
+                "word": "Meter",
+                "article": "das"
+            },
+            {
+                "word": "Metzgerei",
+                "article": "die"
+            },
+            {
+                "word": "Miete",
+                "article": "die"
+            },
+            {
+                "word": "Milch",
+                "article": "die"
+            },
+            {
+                "word": "Milliarde",
+                "article": "die"
+            },
+            {
+                "word": "Million",
+                "article": "die"
+            },
+            {
+                "word": "Mineralwasser",
+                "article": "das"
+            },
+            {
+                "word": "Minute",
+                "article": "die"
+            },
+            {
+                "word": "Mitarbeiter",
+                "article": "der"
+            },
+            {
+                "word": "Mitglied",
+                "article": "das"
+            },
+            {
+                "word": "Mitsch\u00fcler",
+                "article": "der"
+            },
+            {
+                "word": "Mittag",
+                "article": "der"
+            },
+            {
+                "word": "Mittagessen",
+                "article": "das"
+            },
+            {
+                "word": "Mitte",
+                "article": "die"
+            },
+            {
+                "word": "Mittel",
+                "article": "das"
+            },
+            {
+                "word": "Mittelmeer",
+                "article": "das"
+            },
+            {
+                "word": "Mittwoch",
+                "article": "der"
+            },
+            {
+                "word": "Mode",
+                "article": "die"
+            },
+            {
+                "word": "Modedesigner",
+                "article": "der"
+            },
+            {
+                "word": "M\u00f6bel",
+                "article": "das"
+            },
+            {
+                "word": "M\u00f6belpacker",
+                "article": "der"
+            },
+            {
+                "word": "M\u00f6glichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Moment",
+                "article": "der"
+            },
+            {
+                "word": "Monat",
+                "article": "der"
+            },
+            {
+                "word": "Mongolei",
+                "article": "die"
+            },
+            {
+                "word": "Montag",
+                "article": "der"
+            },
+            {
+                "word": "Morgen",
+                "article": "der"
+            },
+            {
+                "word": "Motorrad",
+                "article": "das"
+            },
+            {
+                "word": "Motto",
+                "article": "das"
+            },
+            {
+                "word": "M\u00fcll",
+                "article": "der"
+            },
+            {
+                "word": "M\u00fcsli",
+                "article": "das"
+            },
+            {
+                "word": "M\u00fctze",
+                "article": "die"
+            },
+            {
+                "word": "Mund",
+                "article": "der"
+            },
+            {
+                "word": "Museum",
+                "article": "das"
+            },
+            {
+                "word": "Museumsbesuch",
+                "article": "der"
+            },
+            {
+                "word": "Musik",
+                "article": "die"
+            },
+            {
+                "word": "Musikanlage",
+                "article": "die"
+            },
+            {
+                "word": "Musiker",
+                "article": "der"
+            },
+            {
+                "word": "Musikschule",
+                "article": "die"
+            },
+            {
+                "word": "Mutter",
+                "article": "die"
+            },
+            {
+                "word": "Muttersprache",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -4236,6 +4514,228 @@
             {
                 "word": "Luxemburgerin",
                 "article": "die"
+            }
+        ],
+        "M": [
+            {
+                "word": "M\u00e4nnerchor",
+                "article": "der"
+            },
+            {
+                "word": "M\u00e4uschen",
+                "article": "das"
+            },
+            {
+                "word": "Magen",
+                "article": "der"
+            },
+            {
+                "word": "Maibaum",
+                "article": "der"
+            },
+            {
+                "word": "Mailbox",
+                "article": "die"
+            },
+            {
+                "word": "Maler",
+                "article": "der"
+            },
+            {
+                "word": "Malerei",
+                "article": "die"
+            },
+            {
+                "word": "Mannschaft",
+                "article": "die"
+            },
+            {
+                "word": "Maskottchen",
+                "article": "das"
+            },
+            {
+                "word": "Material",
+                "article": "das"
+            },
+            {
+                "word": "Mathe",
+                "article": "die"
+            },
+            {
+                "word": "Mauer",
+                "article": "die"
+            },
+            {
+                "word": "Maus",
+                "article": "die"
+            },
+            {
+                "word": "Mechanikerin",
+                "article": "die"
+            },
+            {
+                "word": "Medaille",
+                "article": "die"
+            },
+            {
+                "word": "Medium",
+                "article": "das"
+            },
+            {
+                "word": "Medizin",
+                "article": "die"
+            },
+            {
+                "word": "Meerschweinchen",
+                "article": "das"
+            },
+            {
+                "word": "Mehrwertsteuer",
+                "article": "die"
+            },
+            {
+                "word": "Meinung",
+                "article": "die"
+            },
+            {
+                "word": "Meisterpr\u00fcfung",
+                "article": "die"
+            },
+            {
+                "word": "Menge",
+                "article": "die"
+            },
+            {
+                "word": "Mensa",
+                "article": "die"
+            },
+            {
+                "word": "Men\u00fc",
+                "article": "das"
+            },
+            {
+                "word": "Messe",
+                "article": "die"
+            },
+            {
+                "word": "Metropole",
+                "article": "die"
+            },
+            {
+                "word": "Mikrofon",
+                "article": "das"
+            },
+            {
+                "word": "Mikrowelle",
+                "article": "die"
+            },
+            {
+                "word": "Mist",
+                "article": "der"
+            },
+            {
+                "word": "Mitgliedsausweis",
+                "article": "der"
+            },
+            {
+                "word": "Mitsch\u00fclerin",
+                "article": "die"
+            },
+            {
+                "word": "Mitspieler",
+                "article": "der"
+            },
+            {
+                "word": "Mitspielerin",
+                "article": "die"
+            },
+            {
+                "word": "Mittagspause",
+                "article": "die"
+            },
+            {
+                "word": "Mitternacht",
+                "article": "die"
+            },
+            {
+                "word": "Model",
+                "article": "der"
+            },
+            {
+                "word": "Modenschau",
+                "article": "die"
+            },
+            {
+                "word": "Moderator",
+                "article": "der"
+            },
+            {
+                "word": "Moderatorin",
+                "article": "die"
+            },
+            {
+                "word": "Mond",
+                "article": "der"
+            },
+            {
+                "word": "Moped",
+                "article": "das"
+            },
+            {
+                "word": "Morgenstunde",
+                "article": "die"
+            },
+            {
+                "word": "Motor",
+                "article": "der"
+            },
+            {
+                "word": "Motorroller",
+                "article": "der"
+            },
+            {
+                "word": "Mountainbike",
+                "article": "das"
+            },
+            {
+                "word": "M\u00fclltonne",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fcnze",
+                "article": "die"
+            },
+            {
+                "word": "Muschel",
+                "article": "die"
+            },
+            {
+                "word": "Musikerin",
+                "article": "die"
+            },
+            {
+                "word": "Musikfest",
+                "article": "das"
+            },
+            {
+                "word": "Musikgeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Muskel",
+                "article": "der"
+            },
+            {
+                "word": "Muskelkater",
+                "article": "der"
+            },
+            {
+                "word": "Muss",
+                "article": "das"
+            },
+            {
+                "word": "Muttertag",
+                "article": "der"
             }
         ]
     },
@@ -6597,6 +7097,248 @@
             },
             {
                 "word": "Luxus",
+                "article": "der"
+            }
+        ],
+        "M": [
+            {
+                "word": "M\u00e4dchenname",
+                "article": "der"
+            },
+            {
+                "word": "M\u00e4rchen",
+                "article": "das"
+            },
+            {
+                "word": "Mahnung",
+                "article": "die"
+            },
+            {
+                "word": "Makler",
+                "article": "der"
+            },
+            {
+                "word": "Manager",
+                "article": "der"
+            },
+            {
+                "word": "Mappe",
+                "article": "die"
+            },
+            {
+                "word": "Margarine",
+                "article": "die"
+            },
+            {
+                "word": "Marke",
+                "article": "die"
+            },
+            {
+                "word": "Markierung",
+                "article": "die"
+            },
+            {
+                "word": "Marktanteil",
+                "article": "der"
+            },
+            {
+                "word": "Mars",
+                "article": "der"
+            },
+            {
+                "word": "Maske",
+                "article": "die"
+            },
+            {
+                "word": "Massel",
+                "article": "der"
+            },
+            {
+                "word": "Massenproduktion",
+                "article": "die"
+            },
+            {
+                "word": "Massenware",
+                "article": "die"
+            },
+            {
+                "word": "Ma\u00dfnahme",
+                "article": "die"
+            },
+            {
+                "word": "Mehrheit",
+                "article": "die"
+            },
+            {
+                "word": "Meister",
+                "article": "der"
+            },
+            {
+                "word": "Meldung",
+                "article": "die"
+            },
+            {
+                "word": "Menschenkenntnis",
+                "article": "die"
+            },
+            {
+                "word": "Menschenmasse",
+                "article": "die"
+            },
+            {
+                "word": "Merkmal",
+                "article": "das"
+            },
+            {
+                "word": "Metall",
+                "article": "das"
+            },
+            {
+                "word": "Methode",
+                "article": "die"
+            },
+            {
+                "word": "Metzger",
+                "article": "der"
+            },
+            {
+                "word": "Mieter",
+                "article": "der"
+            },
+            {
+                "word": "Migrant",
+                "article": "der"
+            },
+            {
+                "word": "Migration",
+                "article": "die"
+            },
+            {
+                "word": "Millionenstadt",
+                "article": "die"
+            },
+            {
+                "word": "Minderheit",
+                "article": "die"
+            },
+            {
+                "word": "Mindestalter",
+                "article": "das"
+            },
+            {
+                "word": "Minister",
+                "article": "der"
+            },
+            {
+                "word": "Ministerium",
+                "article": "das"
+            },
+            {
+                "word": "Mischbrot",
+                "article": "das"
+            },
+            {
+                "word": "Mischung",
+                "article": "die"
+            },
+            {
+                "word": "Missbrauch",
+                "article": "der"
+            },
+            {
+                "word": "Missgeschick",
+                "article": "das"
+            },
+            {
+                "word": "Missverst\u00e4ndnis",
+                "article": "das"
+            },
+            {
+                "word": "Mitbewohner",
+                "article": "der"
+            },
+            {
+                "word": "Mitleid",
+                "article": "das"
+            },
+            {
+                "word": "Mittelalter",
+                "article": "das"
+            },
+            {
+                "word": "Mittelaltermarkt",
+                "article": "der"
+            },
+            {
+                "word": "Modell",
+                "article": "das"
+            },
+            {
+                "word": "M\u00f6hre",
+                "article": "die"
+            },
+            {
+                "word": "Molkerei",
+                "article": "die"
+            },
+            {
+                "word": "Moll",
+                "article": "der"
+            },
+            {
+                "word": "Monitor",
+                "article": "der"
+            },
+            {
+                "word": "Monster",
+                "article": "das"
+            },
+            {
+                "word": "Moral",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fccke",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fche",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fcllabfuhr",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fcllberg",
+                "article": "der"
+            },
+            {
+                "word": "M\u00fclltrennung",
+                "article": "die"
+            },
+            {
+                "word": "Musikindustrie",
+                "article": "die"
+            },
+            {
+                "word": "Musikinstrument",
+                "article": "das"
+            },
+            {
+                "word": "Musiklehrer",
+                "article": "der"
+            },
+            {
+                "word": "Musikst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Muster",
+                "article": "das"
+            },
+            {
+                "word": "Mut",
                 "article": "der"
             }
         ]
@@ -9835,6 +10577,744 @@
             },
             {
                 "word": "Lyrik",
+                "article": "die"
+            }
+        ],
+        "M": [
+            {
+                "word": "Macht",
+                "article": "die"
+            },
+            {
+                "word": "Machthaber",
+                "article": "der"
+            },
+            {
+                "word": "Machtwechsel",
+                "article": "der"
+            },
+            {
+                "word": "Macke",
+                "article": "die"
+            },
+            {
+                "word": "Magd",
+                "article": "die"
+            },
+            {
+                "word": "Magengeschw\u00fcr",
+                "article": "das"
+            },
+            {
+                "word": "Magier",
+                "article": "der"
+            },
+            {
+                "word": "Makel",
+                "article": "der"
+            },
+            {
+                "word": "Mammografie",
+                "article": "die"
+            },
+            {
+                "word": "Management",
+                "article": "das"
+            },
+            {
+                "word": "Managerin",
+                "article": "die"
+            },
+            {
+                "word": "Mandant",
+                "article": "der"
+            },
+            {
+                "word": "Mandantin",
+                "article": "die"
+            },
+            {
+                "word": "Mandelentz\u00fcndung",
+                "article": "die"
+            },
+            {
+                "word": "Mangel",
+                "article": "der"
+            },
+            {
+                "word": "Mangelberuf",
+                "article": "der"
+            },
+            {
+                "word": "Mangelerscheinung",
+                "article": "die"
+            },
+            {
+                "word": "Manipulation",
+                "article": "die"
+            },
+            {
+                "word": "Manufaktur",
+                "article": "die"
+            },
+            {
+                "word": "Marathonlauf",
+                "article": "der"
+            },
+            {
+                "word": "Marktforschung",
+                "article": "die"
+            },
+            {
+                "word": "Marktf\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "Maschinenbauer",
+                "article": "der"
+            },
+            {
+                "word": "Maskenbildner",
+                "article": "der"
+            },
+            {
+                "word": "Masse",
+                "article": "die"
+            },
+            {
+                "word": "Massenprotest",
+                "article": "der"
+            },
+            {
+                "word": "Ma\u00dfstab",
+                "article": "der"
+            },
+            {
+                "word": "Matratze",
+                "article": "die"
+            },
+            {
+                "word": "Maximum",
+                "article": "das"
+            },
+            {
+                "word": "Mediziner",
+                "article": "der"
+            },
+            {
+                "word": "Medizinerin",
+                "article": "die"
+            },
+            {
+                "word": "Meerestier",
+                "article": "das"
+            },
+            {
+                "word": "Mehraufwand",
+                "article": "der"
+            },
+            {
+                "word": "Mehrsprachigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Meinungsfreiheit",
+                "article": "die"
+            },
+            {
+                "word": "Meinungsverschiedenheit",
+                "article": "die"
+            },
+            {
+                "word": "Meistersch\u00fcler",
+                "article": "der"
+            },
+            {
+                "word": "Melancholie",
+                "article": "die"
+            },
+            {
+                "word": "Menschenaffe",
+                "article": "der"
+            },
+            {
+                "word": "Menschenleben",
+                "article": "das"
+            },
+            {
+                "word": "Menschenverstand",
+                "article": "der"
+            },
+            {
+                "word": "Menschheit",
+                "article": "die"
+            },
+            {
+                "word": "Menschlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Mentalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Messegel\u00e4nde",
+                "article": "das"
+            },
+            {
+                "word": "Messehalle",
+                "article": "die"
+            },
+            {
+                "word": "Messger\u00e4t",
+                "article": "das"
+            },
+            {
+                "word": "Messung",
+                "article": "die"
+            },
+            {
+                "word": "Metamorphose",
+                "article": "die"
+            },
+            {
+                "word": "Mietvertrag",
+                "article": "der"
+            },
+            {
+                "word": "Migr\u00e4ne",
+                "article": "die"
+            },
+            {
+                "word": "Milchprodukt",
+                "article": "das"
+            },
+            {
+                "word": "Milieu",
+                "article": "das"
+            },
+            {
+                "word": "Militarisierung",
+                "article": "die"
+            },
+            {
+                "word": "Million\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Mimik",
+                "article": "die"
+            },
+            {
+                "word": "Mindestbestellwert",
+                "article": "der"
+            },
+            {
+                "word": "Mineralstoff",
+                "article": "der"
+            },
+            {
+                "word": "Ministerpr\u00e4sident",
+                "article": "der"
+            },
+            {
+                "word": "Ministerpr\u00e4sidentin",
+                "article": "die"
+            },
+            {
+                "word": "Misserfolg",
+                "article": "der"
+            },
+            {
+                "word": "Mitarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Mitbewohnerin",
+                "article": "die"
+            },
+            {
+                "word": "Mitgift",
+                "article": "die"
+            },
+            {
+                "word": "Mitinhaber",
+                "article": "der"
+            },
+            {
+                "word": "Mitinhaberin",
+                "article": "die"
+            },
+            {
+                "word": "Mitmensch",
+                "article": "der"
+            },
+            {
+                "word": "Mitschrift",
+                "article": "die"
+            },
+            {
+                "word": "Mittagsschlaf",
+                "article": "der"
+            },
+            {
+                "word": "Mittelklassehotel",
+                "article": "das"
+            },
+            {
+                "word": "Mobile",
+                "article": "das"
+            },
+            {
+                "word": "Mobilfunkanbieter",
+                "article": "der"
+            },
+            {
+                "word": "Mobilit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Monotonie",
+                "article": "die"
+            },
+            {
+                "word": "Moor",
+                "article": "das"
+            },
+            {
+                "word": "Motel",
+                "article": "das"
+            },
+            {
+                "word": "Motiv",
+                "article": "das"
+            },
+            {
+                "word": "Motorik",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fchle",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fc\u00dfiggang",
+                "article": "der"
+            },
+            {
+                "word": "Multi",
+                "article": "der"
+            },
+            {
+                "word": "Murmeltier",
+                "article": "das"
+            },
+            {
+                "word": "Musikant",
+                "article": "der"
+            },
+            {
+                "word": "Musikantin",
+                "article": "die"
+            },
+            {
+                "word": "Musiktherapeut",
+                "article": "der"
+            },
+            {
+                "word": "Musiktherapeutin",
+                "article": "die"
+            },
+            {
+                "word": "Musikunterricht",
+                "article": "der"
+            },
+            {
+                "word": "Muskelgewebe",
+                "article": "das"
+            },
+            {
+                "word": "Muslim",
+                "article": "der"
+            },
+            {
+                "word": "Muslimin",
+                "article": "die"
+            },
+            {
+                "word": "Muttersprachler",
+                "article": "der"
+            },
+            {
+                "word": "Muttersprachlerin",
+                "article": "die"
+            },
+            {
+                "word": "Macht",
+                "article": "die"
+            },
+            {
+                "word": "Machthaber",
+                "article": "der"
+            },
+            {
+                "word": "Machtwechsel",
+                "article": "der"
+            },
+            {
+                "word": "Macke",
+                "article": "die"
+            },
+            {
+                "word": "Magd",
+                "article": "die"
+            },
+            {
+                "word": "Magengeschw\u00fcr",
+                "article": "das"
+            },
+            {
+                "word": "Magier",
+                "article": "der"
+            },
+            {
+                "word": "Makel",
+                "article": "der"
+            },
+            {
+                "word": "Mammografie",
+                "article": "die"
+            },
+            {
+                "word": "Management",
+                "article": "das"
+            },
+            {
+                "word": "Managerin",
+                "article": "die"
+            },
+            {
+                "word": "Mandant",
+                "article": "der"
+            },
+            {
+                "word": "Mandantin",
+                "article": "die"
+            },
+            {
+                "word": "Mandelentz\u00fcndung",
+                "article": "die"
+            },
+            {
+                "word": "Mangel",
+                "article": "der"
+            },
+            {
+                "word": "Mangelberuf",
+                "article": "der"
+            },
+            {
+                "word": "Mangelerscheinung",
+                "article": "die"
+            },
+            {
+                "word": "Manipulation",
+                "article": "die"
+            },
+            {
+                "word": "Manufaktur",
+                "article": "die"
+            },
+            {
+                "word": "Marathonlauf",
+                "article": "der"
+            },
+            {
+                "word": "Marktforschung",
+                "article": "die"
+            },
+            {
+                "word": "Marktf\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "Maschinenbauer",
+                "article": "der"
+            },
+            {
+                "word": "Maskenbildner",
+                "article": "der"
+            },
+            {
+                "word": "Masse",
+                "article": "die"
+            },
+            {
+                "word": "Massenprotest",
+                "article": "der"
+            },
+            {
+                "word": "Ma\u00dfstab",
+                "article": "der"
+            },
+            {
+                "word": "Matratze",
+                "article": "die"
+            },
+            {
+                "word": "Maximum",
+                "article": "das"
+            },
+            {
+                "word": "Mediziner",
+                "article": "der"
+            },
+            {
+                "word": "Medizinerin",
+                "article": "die"
+            },
+            {
+                "word": "Meerestier",
+                "article": "das"
+            },
+            {
+                "word": "Mehraufwand",
+                "article": "der"
+            },
+            {
+                "word": "Mehrsprachigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Meinungsfreiheit",
+                "article": "die"
+            },
+            {
+                "word": "Meinungsverschiedenheit",
+                "article": "die"
+            },
+            {
+                "word": "Meistersch\u00fcler",
+                "article": "der"
+            },
+            {
+                "word": "Melancholie",
+                "article": "die"
+            },
+            {
+                "word": "Menschenaffe",
+                "article": "der"
+            },
+            {
+                "word": "Menschenleben",
+                "article": "das"
+            },
+            {
+                "word": "Menschenverstand",
+                "article": "der"
+            },
+            {
+                "word": "Menschheit",
+                "article": "die"
+            },
+            {
+                "word": "Menschlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Mentalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Messegel\u00e4nde",
+                "article": "das"
+            },
+            {
+                "word": "Messehalle",
+                "article": "die"
+            },
+            {
+                "word": "Messger\u00e4t",
+                "article": "das"
+            },
+            {
+                "word": "Messung",
+                "article": "die"
+            },
+            {
+                "word": "Metamorphose",
+                "article": "die"
+            },
+            {
+                "word": "Mietvertrag",
+                "article": "der"
+            },
+            {
+                "word": "Migr\u00e4ne",
+                "article": "die"
+            },
+            {
+                "word": "Milchprodukt",
+                "article": "das"
+            },
+            {
+                "word": "Milieu",
+                "article": "das"
+            },
+            {
+                "word": "Militarisierung",
+                "article": "die"
+            },
+            {
+                "word": "Million\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Mimik",
+                "article": "die"
+            },
+            {
+                "word": "Mindestbestellwert",
+                "article": "der"
+            },
+            {
+                "word": "Mineralstoff",
+                "article": "der"
+            },
+            {
+                "word": "Ministerpr\u00e4sident",
+                "article": "der"
+            },
+            {
+                "word": "Ministerpr\u00e4sidentin",
+                "article": "die"
+            },
+            {
+                "word": "Misserfolg",
+                "article": "der"
+            },
+            {
+                "word": "Mitarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Mitbewohnerin",
+                "article": "die"
+            },
+            {
+                "word": "Mitgift",
+                "article": "die"
+            },
+            {
+                "word": "Mitinhaber",
+                "article": "der"
+            },
+            {
+                "word": "Mitinhaberin",
+                "article": "die"
+            },
+            {
+                "word": "Mitmensch",
+                "article": "der"
+            },
+            {
+                "word": "Mitschrift",
+                "article": "die"
+            },
+            {
+                "word": "Mittagsschlaf",
+                "article": "der"
+            },
+            {
+                "word": "Mittelklassehotel",
+                "article": "das"
+            },
+            {
+                "word": "Mobile",
+                "article": "das"
+            },
+            {
+                "word": "Mobilfunkanbieter",
+                "article": "der"
+            },
+            {
+                "word": "Mobilit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Monotonie",
+                "article": "die"
+            },
+            {
+                "word": "Moor",
+                "article": "das"
+            },
+            {
+                "word": "Motel",
+                "article": "das"
+            },
+            {
+                "word": "Motiv",
+                "article": "das"
+            },
+            {
+                "word": "Motorik",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fchle",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fc\u00dfiggang",
+                "article": "der"
+            },
+            {
+                "word": "Multi",
+                "article": "der"
+            },
+            {
+                "word": "Murmeltier",
+                "article": "das"
+            },
+            {
+                "word": "Musikant",
+                "article": "der"
+            },
+            {
+                "word": "Musikantin",
+                "article": "die"
+            },
+            {
+                "word": "Musiktherapeut",
+                "article": "der"
+            },
+            {
+                "word": "Musiktherapeutin",
+                "article": "die"
+            },
+            {
+                "word": "Musikunterricht",
+                "article": "der"
+            },
+            {
+                "word": "Muskelgewebe",
+                "article": "das"
+            },
+            {
+                "word": "Muslim",
+                "article": "der"
+            },
+            {
+                "word": "Muslimin",
+                "article": "die"
+            },
+            {
+                "word": "Muttersprachler",
+                "article": "der"
+            },
+            {
+                "word": "Muttersprachlerin",
                 "article": "die"
             }
         ]
@@ -13866,6 +15346,360 @@
             {
                 "word": "Lymphknoten",
                 "article": "der"
+            }
+        ],
+        "M": [
+            {
+                "word": "Machbarkeit",
+                "article": "die"
+            },
+            {
+                "word": "M\u00e4hdrescher",
+                "article": "der"
+            },
+            {
+                "word": "Magnet",
+                "article": "der"
+            },
+            {
+                "word": "Mahnbrief",
+                "article": "der"
+            },
+            {
+                "word": "Mango",
+                "article": "die"
+            },
+            {
+                "word": "Manie",
+                "article": "die"
+            },
+            {
+                "word": "Markenzeichen",
+                "article": "das"
+            },
+            {
+                "word": "Marker",
+                "article": "der"
+            },
+            {
+                "word": "Marktl\u00fccke",
+                "article": "die"
+            },
+            {
+                "word": "Marktwert",
+                "article": "der"
+            },
+            {
+                "word": "Maschinenbau",
+                "article": "der"
+            },
+            {
+                "word": "Maskerade",
+                "article": "die"
+            },
+            {
+                "word": "Maskierung",
+                "article": "die"
+            },
+            {
+                "word": "Massage",
+                "article": "die"
+            },
+            {
+                "word": "Massentierhaltung",
+                "article": "die"
+            },
+            {
+                "word": "Ma\u00dflosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Master",
+                "article": "der"
+            },
+            {
+                "word": "Materialismus",
+                "article": "der"
+            },
+            {
+                "word": "Materie",
+                "article": "die"
+            },
+            {
+                "word": "Maya",
+                "article": "der"
+            },
+            {
+                "word": "Mediation",
+                "article": "die"
+            },
+            {
+                "word": "Mediator",
+                "article": "der"
+            },
+            {
+                "word": "Meditation",
+                "article": "die"
+            },
+            {
+                "word": "Meerenge",
+                "article": "die"
+            },
+            {
+                "word": "Meinungs\u00e4u\u00dferung",
+                "article": "die"
+            },
+            {
+                "word": "Meisterwerk",
+                "article": "das"
+            },
+            {
+                "word": "Melanom",
+                "article": "das"
+            },
+            {
+                "word": "Menschenhandel",
+                "article": "der"
+            },
+            {
+                "word": "Menschenrecht",
+                "article": "das"
+            },
+            {
+                "word": "Menschenrechtler",
+                "article": "der"
+            },
+            {
+                "word": "Menschenrechtlerin",
+                "article": "die"
+            },
+            {
+                "word": "Menschentraube",
+                "article": "die"
+            },
+            {
+                "word": "Menschenw\u00fcrde",
+                "article": "die"
+            },
+            {
+                "word": "Message",
+                "article": "die"
+            },
+            {
+                "word": "Messwert",
+                "article": "der"
+            },
+            {
+                "word": "Metapher",
+                "article": "die"
+            },
+            {
+                "word": "Mettwurst",
+                "article": "die"
+            },
+            {
+                "word": "Meuterei",
+                "article": "die"
+            },
+            {
+                "word": "Miesepeter",
+                "article": "der"
+            },
+            {
+                "word": "Mietminderung",
+                "article": "die"
+            },
+            {
+                "word": "Mikroskop",
+                "article": "das"
+            },
+            {
+                "word": "Millisekunde",
+                "article": "die"
+            },
+            {
+                "word": "Minderwertigkeitsgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Minderwertigkeitskomplex",
+                "article": "der"
+            },
+            {
+                "word": "Mindesthaltbarkeitsdatum",
+                "article": "das"
+            },
+            {
+                "word": "Mindestlohn",
+                "article": "der"
+            },
+            {
+                "word": "Mindestzahl",
+                "article": "die"
+            },
+            {
+                "word": "Mischform",
+                "article": "die"
+            },
+            {
+                "word": "Misere",
+                "article": "die"
+            },
+            {
+                "word": "Missbildung",
+                "article": "die"
+            },
+            {
+                "word": "Missernte",
+                "article": "die"
+            },
+            {
+                "word": "Mission",
+                "article": "die"
+            },
+            {
+                "word": "Missionar",
+                "article": "der"
+            },
+            {
+                "word": "Missionarin",
+                "article": "die"
+            },
+            {
+                "word": "Mitbewerber",
+                "article": "der"
+            },
+            {
+                "word": "Mitb\u00fcrger",
+                "article": "der"
+            },
+            {
+                "word": "Mitgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Mitgliedsbeitrag",
+                "article": "der"
+            },
+            {
+                "word": "Mitgliedschaft",
+                "article": "die"
+            },
+            {
+                "word": "Mitschuld",
+                "article": "die"
+            },
+            {
+                "word": "Mittelpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Mittelstand",
+                "article": "der"
+            },
+            {
+                "word": "Mittvierziger",
+                "article": "der"
+            },
+            {
+                "word": "Mixer",
+                "article": "der"
+            },
+            {
+                "word": "Mobilfunk",
+                "article": "der"
+            },
+            {
+                "word": "Modehaus",
+                "article": "das"
+            },
+            {
+                "word": "Modem",
+                "article": "das"
+            },
+            {
+                "word": "Modemacher",
+                "article": "der"
+            },
+            {
+                "word": "Modemacherin",
+                "article": "die"
+            },
+            {
+                "word": "Moderation",
+                "article": "die"
+            },
+            {
+                "word": "Moderne",
+                "article": "die"
+            },
+            {
+                "word": "Modernisierung",
+                "article": "die"
+            },
+            {
+                "word": "Modesch\u00f6pfer",
+                "article": "der"
+            },
+            {
+                "word": "Modifikation",
+                "article": "die"
+            },
+            {
+                "word": "Modus",
+                "article": "der"
+            },
+            {
+                "word": "Monolog",
+                "article": "der"
+            },
+            {
+                "word": "Mosaik",
+                "article": "das"
+            },
+            {
+                "word": "Motivation",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fcdigkeit",
+                "article": "die"
+            },
+            {
+                "word": "M\u00fcllmann",
+                "article": "der"
+            },
+            {
+                "word": "Multiplikator",
+                "article": "der"
+            },
+            {
+                "word": "Multitasking",
+                "article": "das"
+            },
+            {
+                "word": "Munition",
+                "article": "die"
+            },
+            {
+                "word": "Musical",
+                "article": "das"
+            },
+            {
+                "word": "Musterknabe",
+                "article": "der"
+            },
+            {
+                "word": "Mutation",
+                "article": "die"
+            },
+            {
+                "word": "Mutprobe",
+                "article": "die"
+            },
+            {
+                "word": "Mysterium",
+                "article": "das"
             }
         ]
     }
