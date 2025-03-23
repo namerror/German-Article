@@ -223,6 +223,30 @@
     }
 }
 
+@media (max-width: 768px) and (min-height: 839px) {
+    .notification {
+        font-size: 1.5em;
+        top: 25%;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 768px) and (max-height: 820px) {
+    .notification {
+        font-size: 1.5em;
+        top: 30%;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 768px) and (max-height: 710px) {
+    .notification {
+        font-size: 1.5em;
+        top: 35%;
+        padding: 10px;
+    }
+}
+
 .notification.correct {
     background-color: green;
 }
