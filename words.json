@@ -2709,6 +2709,108 @@
                 "word": "Muttersprache",
                 "article": "die"
             }
+        ],
+        "N": [
+            {
+                "word": "Nachbar",
+                "article": "der"
+            },
+            {
+                "word": "Nachhilfelehrer",
+                "article": "der"
+            },
+            {
+                "word": "Nachmittag",
+                "article": "der"
+            },
+            {
+                "word": "Nachname",
+                "article": "der"
+            },
+            {
+                "word": "Nachricht",
+                "article": "die"
+            },
+            {
+                "word": "Nacht",
+                "article": "die"
+            },
+            {
+                "word": "Nachteil",
+                "article": "der"
+            },
+            {
+                "word": "N\u00e4he",
+                "article": "die"
+            },
+            {
+                "word": "Name",
+                "article": "der"
+            },
+            {
+                "word": "Namenstag",
+                "article": "der"
+            },
+            {
+                "word": "Nase",
+                "article": "die"
+            },
+            {
+                "word": "Nationalfeiertag",
+                "article": "der"
+            },
+            {
+                "word": "Nelke",
+                "article": "die"
+            },
+            {
+                "word": "Netzwerk",
+                "article": "das"
+            },
+            {
+                "word": "Neuer\u00f6ffnung",
+                "article": "die"
+            },
+            {
+                "word": "Neuseeland",
+                "article": "das"
+            },
+            {
+                "word": "Nikolaus",
+                "article": "der"
+            },
+            {
+                "word": "Norden",
+                "article": "der"
+            },
+            {
+                "word": "Nordsee",
+                "article": "die"
+            },
+            {
+                "word": "Notarzt",
+                "article": "der"
+            },
+            {
+                "word": "Notiz",
+                "article": "die"
+            },
+            {
+                "word": "November",
+                "article": "der"
+            },
+            {
+                "word": "Nudel",
+                "article": "die"
+            },
+            {
+                "word": "Nummer",
+                "article": "die"
+            },
+            {
+                "word": "Nutzer",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -4735,6 +4837,84 @@
             },
             {
                 "word": "Muttertag",
+                "article": "der"
+            }
+        ],
+        "N": [
+            {
+                "word": "Nachbarin",
+                "article": "die"
+            },
+            {
+                "word": "Nachbarschaft",
+                "article": "die"
+            },
+            {
+                "word": "Nachrichtensprecher",
+                "article": "der"
+            },
+            {
+                "word": "Nachspeise",
+                "article": "die"
+            },
+            {
+                "word": "Nagellack",
+                "article": "der"
+            },
+            {
+                "word": "Natur",
+                "article": "die"
+            },
+            {
+                "word": "Navigationsger\u00e4t",
+                "article": "das"
+            },
+            {
+                "word": "Navigationssystem",
+                "article": "das"
+            },
+            {
+                "word": "Netz",
+                "article": "das"
+            },
+            {
+                "word": "Neujahr",
+                "article": "das"
+            },
+            {
+                "word": "Neujahrsfest",
+                "article": "das"
+            },
+            {
+                "word": "Neuwerk",
+                "article": "das"
+            },
+            {
+                "word": "Newcomer",
+                "article": "der"
+            },
+            {
+                "word": "Niederlage",
+                "article": "die"
+            },
+            {
+                "word": "Not",
+                "article": "die"
+            },
+            {
+                "word": "Note",
+                "article": "die"
+            },
+            {
+                "word": "Notizbuch",
+                "article": "das"
+            },
+            {
+                "word": "Notruf",
+                "article": "der"
+            },
+            {
+                "word": "Nymphensittich",
                 "article": "der"
             }
         ]
@@ -7340,6 +7520,140 @@
             {
                 "word": "Mut",
                 "article": "der"
+            }
+        ],
+        "N": [
+            {
+                "word": "Nachbardorf",
+                "article": "das"
+            },
+            {
+                "word": "Nachfrage",
+                "article": "die"
+            },
+            {
+                "word": "Nachtdienst",
+                "article": "der"
+            },
+            {
+                "word": "Nachthemd",
+                "article": "das"
+            },
+            {
+                "word": "Nachtisch",
+                "article": "der"
+            },
+            {
+                "word": "Nachtportier",
+                "article": "der"
+            },
+            {
+                "word": "Nachtw\u00e4chter",
+                "article": "der"
+            },
+            {
+                "word": "Nachtzeit",
+                "article": "die"
+            },
+            {
+                "word": "Nadel",
+                "article": "die"
+            },
+            {
+                "word": "N\u00e4hmaschine",
+                "article": "die"
+            },
+            {
+                "word": "N\u00e4sse",
+                "article": "die"
+            },
+            {
+                "word": "Nagel",
+                "article": "der"
+            },
+            {
+                "word": "Nahrungsmittel",
+                "article": "das"
+            },
+            {
+                "word": "Naturschutz",
+                "article": "der"
+            },
+            {
+                "word": "Naturschutzgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Naturwissenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Nebel",
+                "article": "der"
+            },
+            {
+                "word": "Neffe",
+                "article": "der"
+            },
+            {
+                "word": "Neid",
+                "article": "der"
+            },
+            {
+                "word": "Nerv",
+                "article": "der"
+            },
+            {
+                "word": "Nervosit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Neubau",
+                "article": "der"
+            },
+            {
+                "word": "Neuerung",
+                "article": "die"
+            },
+            {
+                "word": "Neuigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Nichte",
+                "article": "die"
+            },
+            {
+                "word": "Nichtraucher",
+                "article": "der"
+            },
+            {
+                "word": "Nichtstun",
+                "article": "das"
+            },
+            {
+                "word": "Nord",
+                "article": "der"
+            },
+            {
+                "word": "Nordseeinsel",
+                "article": "die"
+            },
+            {
+                "word": "Notaufnahme",
+                "article": "die"
+            },
+            {
+                "word": "Notausgang",
+                "article": "der"
+            },
+            {
+                "word": "Notfall",
+                "article": "der"
+            },
+            {
+                "word": "Nutzung",
+                "article": "die"
             }
         ]
     },
@@ -11315,6 +11629,216 @@
             },
             {
                 "word": "Muttersprachlerin",
+                "article": "die"
+            }
+        ],
+        "N": [
+            {
+                "word": "Nachbildung",
+                "article": "die"
+            },
+            {
+                "word": "Nachhilfe",
+                "article": "die"
+            },
+            {
+                "word": "Nachhilfestunde",
+                "article": "die"
+            },
+            {
+                "word": "Nachholbedarf",
+                "article": "der"
+            },
+            {
+                "word": "Nachmieter",
+                "article": "der"
+            },
+            {
+                "word": "Nachmieterin",
+                "article": "die"
+            },
+            {
+                "word": "Nachteule",
+                "article": "die"
+            },
+            {
+                "word": "Nachweis",
+                "article": "der"
+            },
+            {
+                "word": "Nachwuchs",
+                "article": "der"
+            },
+            {
+                "word": "Nachwuchskraft",
+                "article": "die"
+            },
+            {
+                "word": "N\u00e4chstenliebe",
+                "article": "die"
+            },
+            {
+                "word": "N\u00e4herin",
+                "article": "die"
+            },
+            {
+                "word": "Nahrungserg\u00e4nzungsmittel",
+                "article": "das"
+            },
+            {
+                "word": "Naht",
+                "article": "die"
+            },
+            {
+                "word": "Narkosearzt",
+                "article": "der"
+            },
+            {
+                "word": "Nation",
+                "article": "die"
+            },
+            {
+                "word": "Nationalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Nationalmannschaft",
+                "article": "die"
+            },
+            {
+                "word": "Nationalsozialismus",
+                "article": "der"
+            },
+            {
+                "word": "Nationalsozialist",
+                "article": "der"
+            },
+            {
+                "word": "Nationalsozialistin",
+                "article": "die"
+            },
+            {
+                "word": "Nationaltheater",
+                "article": "das"
+            },
+            {
+                "word": "Nat\u00fcrlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Naturerscheinung",
+                "article": "die"
+            },
+            {
+                "word": "Naturheilverfahren",
+                "article": "das"
+            },
+            {
+                "word": "Naturkatastrophe",
+                "article": "die"
+            },
+            {
+                "word": "Nebenerwerb",
+                "article": "der"
+            },
+            {
+                "word": "Nebenwirkung",
+                "article": "die"
+            },
+            {
+                "word": "Nervenkitzel",
+                "article": "der"
+            },
+            {
+                "word": "Nervenzelle",
+                "article": "die"
+            },
+            {
+                "word": "Nest",
+                "article": "das"
+            },
+            {
+                "word": "Neuank\u00f6mmling",
+                "article": "der"
+            },
+            {
+                "word": "Neugier",
+                "article": "die"
+            },
+            {
+                "word": "Neutralit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Nichtschwimmer",
+                "article": "der"
+            },
+            {
+                "word": "Nichtschwimmerin",
+                "article": "die"
+            },
+            {
+                "word": "Nickerchen",
+                "article": "das"
+            },
+            {
+                "word": "Niederlassung",
+                "article": "die"
+            },
+            {
+                "word": "Niere",
+                "article": "die"
+            },
+            {
+                "word": "Nobelpreis",
+                "article": "der"
+            },
+            {
+                "word": "Nobelpreistr\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Nobelpreistr\u00e4gerin",
+                "article": "die"
+            },
+            {
+                "word": "Nomade",
+                "article": "der"
+            },
+            {
+                "word": "Nomadentum",
+                "article": "das"
+            },
+            {
+                "word": "Nonsens",
+                "article": "der"
+            },
+            {
+                "word": "Normalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Notizblock",
+                "article": "der"
+            },
+            {
+                "word": "Notlage",
+                "article": "die"
+            },
+            {
+                "word": "Notl\u00fcge",
+                "article": "die"
+            },
+            {
+                "word": "Notversorgung",
+                "article": "die"
+            },
+            {
+                "word": "Notwendigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Novelle",
                 "article": "die"
             }
         ]
@@ -15700,6 +16224,212 @@
             {
                 "word": "Mysterium",
                 "article": "das"
+            }
+        ],
+        "N": [
+            {
+                "word": "Nachahmung",
+                "article": "die"
+            },
+            {
+                "word": "Nachbarland",
+                "article": "das"
+            },
+            {
+                "word": "Nachbesserung",
+                "article": "die"
+            },
+            {
+                "word": "Nachforschung",
+                "article": "die"
+            },
+            {
+                "word": "Nachkomme",
+                "article": "der"
+            },
+            {
+                "word": "Nachschub",
+                "article": "der"
+            },
+            {
+                "word": "Nachsorge",
+                "article": "die"
+            },
+            {
+                "word": "Nachtschicht",
+                "article": "die"
+            },
+            {
+                "word": "Nachttisch",
+                "article": "der"
+            },
+            {
+                "word": "Nachwelt",
+                "article": "die"
+            },
+            {
+                "word": "Nacken",
+                "article": "der"
+            },
+            {
+                "word": "Nadel\u00f6hr",
+                "article": "das"
+            },
+            {
+                "word": "Nahrung",
+                "article": "die"
+            },
+            {
+                "word": "Nahverkehr",
+                "article": "der"
+            },
+            {
+                "word": "Naschsucht",
+                "article": "die"
+            },
+            {
+                "word": "Nasenh\u00f6hle",
+                "article": "die"
+            },
+            {
+                "word": "Nasenl\u00e4nge",
+                "article": "die"
+            },
+            {
+                "word": "Nationalbewusstsein",
+                "article": "das"
+            },
+            {
+                "word": "Nationalhymne",
+                "article": "die"
+            },
+            {
+                "word": "Naturell",
+                "article": "das"
+            },
+            {
+                "word": "Naturgesetz",
+                "article": "das"
+            },
+            {
+                "word": "Nebenraum",
+                "article": "der"
+            },
+            {
+                "word": "Nebent\u00e4tigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Neider",
+                "article": "der"
+            },
+            {
+                "word": "Neigung",
+                "article": "die"
+            },
+            {
+                "word": "Nektar",
+                "article": "der"
+            },
+            {
+                "word": "Nenner",
+                "article": "der"
+            },
+            {
+                "word": "Nennform",
+                "article": "die"
+            },
+            {
+                "word": "Nervens\u00e4ge",
+                "article": "die"
+            },
+            {
+                "word": "Neuauflage",
+                "article": "die"
+            },
+            {
+                "word": "Neuerscheinung",
+                "article": "die"
+            },
+            {
+                "word": "Neugeborene",
+                "article": "das"
+            },
+            {
+                "word": "Neugierde",
+                "article": "die"
+            },
+            {
+                "word": "Neuheit",
+                "article": "die"
+            },
+            {
+                "word": "Neuland",
+                "article": "das"
+            },
+            {
+                "word": "Neuordnung",
+                "article": "die"
+            },
+            {
+                "word": "Neuorientierung",
+                "article": "die"
+            },
+            {
+                "word": "Neurologe",
+                "article": "der"
+            },
+            {
+                "word": "Neuron",
+                "article": "das"
+            },
+            {
+                "word": "Nichtw\u00e4hler",
+                "article": "der"
+            },
+            {
+                "word": "Niete",
+                "article": "die"
+            },
+            {
+                "word": "Nitrat",
+                "article": "das"
+            },
+            {
+                "word": "Nominalisierung",
+                "article": "die"
+            },
+            {
+                "word": "Nominalstil",
+                "article": "der"
+            },
+            {
+                "word": "Norm",
+                "article": "die"
+            },
+            {
+                "word": "Normalfall",
+                "article": "der"
+            },
+            {
+                "word": "Notbehelf",
+                "article": "der"
+            },
+            {
+                "word": "Nothilfe",
+                "article": "die"
+            },
+            {
+                "word": "Notstand",
+                "article": "der"
+            },
+            {
+                "word": "Nuance",
+                "article": "die"
+            },
+            {
+                "word": "Nutzen",
+                "article": "der"
             }
         ]
     }
