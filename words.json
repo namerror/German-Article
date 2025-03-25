@@ -2811,6 +2811,80 @@
                 "word": "Nutzer",
                 "article": "der"
             }
+        ],
+        "O": [
+            {
+                "word": "Obst",
+                "article": "das"
+            },
+            {
+                "word": "Obstsalat",
+                "article": "der"
+            },
+            {
+                "word": "Ohr",
+                "article": "das"
+            },
+            {
+                "word": "Oktober",
+                "article": "der"
+            },
+            {
+                "word": "Oktoberfest",
+                "article": "das"
+            },
+            {
+                "word": "Olive",
+                "article": "die"
+            },
+            {
+                "word": "Oma",
+                "article": "die"
+            },
+            {
+                "word": "Onkel",
+                "article": "der"
+            },
+            {
+                "word": "Opa",
+                "article": "der"
+            },
+            {
+                "word": "Orange",
+                "article": "die"
+            },
+            {
+                "word": "Orangensaft",
+                "article": "der"
+            },
+            {
+                "word": "Orchester",
+                "article": "das"
+            },
+            {
+                "word": "Ordnung",
+                "article": "die"
+            },
+            {
+                "word": "Ort",
+                "article": "der"
+            },
+            {
+                "word": "Osten",
+                "article": "der"
+            },
+            {
+                "word": "Ostern",
+                "article": "das"
+            },
+            {
+                "word": "Ostsee",
+                "article": "die"
+            },
+            {
+                "word": "Ostseek\u00fcste",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -4915,6 +4989,40 @@
             },
             {
                 "word": "Nymphensittich",
+                "article": "der"
+            }
+        ],
+        "O": [
+            {
+                "word": "Oberarzt",
+                "article": "der"
+            },
+            {
+                "word": "Ofen",
+                "article": "der"
+            },
+            {
+                "word": "Ohrring",
+                "article": "der"
+            },
+            {
+                "word": "Oper",
+                "article": "die"
+            },
+            {
+                "word": "Operation",
+                "article": "die"
+            },
+            {
+                "word": "Operationssaal",
+                "article": "der"
+            },
+            {
+                "word": "Opernball",
+                "article": "der"
+            },
+            {
+                "word": "Overall",
                 "article": "der"
             }
         ]
@@ -7654,6 +7762,56 @@
             {
                 "word": "Nutzung",
                 "article": "die"
+            }
+        ],
+        "O": [
+            {
+                "word": "Obergeschoss",
+                "article": "das"
+            },
+            {
+                "word": "Ohrwurm",
+                "article": "der"
+            },
+            {
+                "word": "Olympiade",
+                "article": "die"
+            },
+            {
+                "word": "Opfer",
+                "article": "das"
+            },
+            {
+                "word": "Optik",
+                "article": "die"
+            },
+            {
+                "word": "Optimismus",
+                "article": "der"
+            },
+            {
+                "word": "Ordination",
+                "article": "die"
+            },
+            {
+                "word": "Ordner",
+                "article": "der"
+            },
+            {
+                "word": "Organisation",
+                "article": "die"
+            },
+            {
+                "word": "Original",
+                "article": "das"
+            },
+            {
+                "word": "Ost",
+                "article": "der"
+            },
+            {
+                "word": "Outfit",
+                "article": "das"
             }
         ]
     },
@@ -11839,6 +11997,72 @@
             },
             {
                 "word": "Novelle",
+                "article": "die"
+            }
+        ],
+        "O": [
+            {
+                "word": "Oase",
+                "article": "die"
+            },
+            {
+                "word": "Oberarm",
+                "article": "der"
+            },
+            {
+                "word": "Oberbegriff",
+                "article": "der"
+            },
+            {
+                "word": "Oberschicht",
+                "article": "die"
+            },
+            {
+                "word": "Oberweite",
+                "article": "die"
+            },
+            {
+                "word": "Objekt",
+                "article": "das"
+            },
+            {
+                "word": "Odyssee",
+                "article": "die"
+            },
+            {
+                "word": "Offenheit",
+                "article": "die"
+            },
+            {
+                "word": "Oldtimer",
+                "article": "der"
+            },
+            {
+                "word": "Oliven\u00f6l",
+                "article": "das"
+            },
+            {
+                "word": "Optiker",
+                "article": "der"
+            },
+            {
+                "word": "Option",
+                "article": "die"
+            },
+            {
+                "word": "Orden",
+                "article": "der"
+            },
+            {
+                "word": "Organ",
+                "article": "das"
+            },
+            {
+                "word": "Organismus",
+                "article": "der"
+            },
+            {
+                "word": "Orientierung",
                 "article": "die"
             }
         ]
@@ -16430,6 +16654,64 @@
             {
                 "word": "Nutzen",
                 "article": "der"
+            }
+        ],
+        "O": [
+            {
+                "word": "Oberfl\u00e4che",
+                "article": "die"
+            },
+            {
+                "word": "Oberhaupt",
+                "article": "das"
+            },
+            {
+                "word": "Oberk\u00f6rper",
+                "article": "der"
+            },
+            {
+                "word": "Objektivit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Obstbaum",
+                "article": "der"
+            },
+            {
+                "word": "Ochse",
+                "article": "der"
+            },
+            {
+                "word": "Ohrl\u00e4ppchen",
+                "article": "das"
+            },
+            {
+                "word": "Oktave",
+                "article": "die"
+            },
+            {
+                "word": "Operns\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Ordensfrau",
+                "article": "die"
+            },
+            {
+                "word": "Organisator",
+                "article": "der"
+            },
+            {
+                "word": "Originaltext",
+                "article": "der"
+            },
+            {
+                "word": "Ortschaft",
+                "article": "die"
+            },
+            {
+                "word": "Ortung",
+                "article": "die"
             }
         ]
     }
