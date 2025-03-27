@@ -2885,6 +2885,264 @@
                 "word": "Ostseek\u00fcste",
                 "article": "die"
             }
+        ],
+        "P": [
+            {
+                "word": "Paar",
+                "article": "das"
+            },
+            {
+                "word": "Packung",
+                "article": "die"
+            },
+            {
+                "word": "Paket",
+                "article": "das"
+            },
+            {
+                "word": "Palme",
+                "article": "die"
+            },
+            {
+                "word": "Pantomime",
+                "article": "die"
+            },
+            {
+                "word": "Papa",
+                "article": "der"
+            },
+            {
+                "word": "Papagei",
+                "article": "der"
+            },
+            {
+                "word": "Papier",
+                "article": "das"
+            },
+            {
+                "word": "Parf\u00fcm",
+                "article": "das"
+            },
+            {
+                "word": "Parf\u00fcmerie",
+                "article": "die"
+            },
+            {
+                "word": "Park",
+                "article": "der"
+            },
+            {
+                "word": "Partner",
+                "article": "der"
+            },
+            {
+                "word": "Partnerin",
+                "article": "die"
+            },
+            {
+                "word": "Party",
+                "article": "die"
+            },
+            {
+                "word": "Pass",
+                "article": "der"
+            },
+            {
+                "word": "Passagier",
+                "article": "der"
+            },
+            {
+                "word": "Patient",
+                "article": "der"
+            },
+            {
+                "word": "Pause",
+                "article": "die"
+            },
+            {
+                "word": "Person",
+                "article": "die"
+            },
+            {
+                "word": "Personalabteilung",
+                "article": "die"
+            },
+            {
+                "word": "Pfannkuchen",
+                "article": "der"
+            },
+            {
+                "word": "Pfeffer",
+                "article": "der"
+            },
+            {
+                "word": "Pferd",
+                "article": "das"
+            },
+            {
+                "word": "Pfund",
+                "article": "das"
+            },
+            {
+                "word": "Physik",
+                "article": "die"
+            },
+            {
+                "word": "Physiotherapeut",
+                "article": "der"
+            },
+            {
+                "word": "Physiotherapie",
+                "article": "die"
+            },
+            {
+                "word": "Picknick",
+                "article": "das"
+            },
+            {
+                "word": "Pinnwand",
+                "article": "die"
+            },
+            {
+                "word": "Pizza",
+                "article": "die"
+            },
+            {
+                "word": "Pizzeria",
+                "article": "die"
+            },
+            {
+                "word": "Plakat",
+                "article": "das"
+            },
+            {
+                "word": "Plan",
+                "article": "der"
+            },
+            {
+                "word": "Plattform",
+                "article": "die"
+            },
+            {
+                "word": "Platz",
+                "article": "der"
+            },
+            {
+                "word": "Plural",
+                "article": "der"
+            },
+            {
+                "word": "Polizei",
+                "article": "die"
+            },
+            {
+                "word": "Polnisch",
+                "article": "das"
+            },
+            {
+                "word": "Pool",
+                "article": "der"
+            },
+            {
+                "word": "Portugiesisch",
+                "article": "das"
+            },
+            {
+                "word": "Post",
+                "article": "die"
+            },
+            {
+                "word": "Poster",
+                "article": "der"
+            },
+            {
+                "word": "Postkarte",
+                "article": "die"
+            },
+            {
+                "word": "Postleitzahl",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00e4sentation",
+                "article": "die"
+            },
+            {
+                "word": "Praktikum",
+                "article": "das"
+            },
+            {
+                "word": "Praxis",
+                "article": "die"
+            },
+            {
+                "word": "Preis",
+                "article": "der"
+            },
+            {
+                "word": "Presse",
+                "article": "die"
+            },
+            {
+                "word": "Problem",
+                "article": "das"
+            },
+            {
+                "word": "Professor",
+                "article": "der"
+            },
+            {
+                "word": "Professorin",
+                "article": "die"
+            },
+            {
+                "word": "Profil",
+                "article": "das"
+            },
+            {
+                "word": "Programm",
+                "article": "das"
+            },
+            {
+                "word": "Programmierer",
+                "article": "der"
+            },
+            {
+                "word": "Projekt",
+                "article": "das"
+            },
+            {
+                "word": "Promoter",
+                "article": "der"
+            },
+            {
+                "word": "Prospekt",
+                "article": "der"
+            },
+            {
+                "word": "Prozent",
+                "article": "das"
+            },
+            {
+                "word": "Pr\u00fcfung",
+                "article": "die"
+            },
+            {
+                "word": "P\u00fcnktlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Pulli",
+                "article": "der"
+            },
+            {
+                "word": "Pullover",
+                "article": "der"
+            },
+            {
+                "word": "Punkt",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -5024,6 +5282,204 @@
             {
                 "word": "Overall",
                 "article": "der"
+            }
+        ],
+        "P": [
+            {
+                "word": "P\u00e4ckchen",
+                "article": "das"
+            },
+            {
+                "word": "Panne",
+                "article": "die"
+            },
+            {
+                "word": "Paps",
+                "article": "der"
+            },
+            {
+                "word": "Paragliding",
+                "article": "das"
+            },
+            {
+                "word": "Parallele",
+                "article": "die"
+            },
+            {
+                "word": "Parkhaus",
+                "article": "das"
+            },
+            {
+                "word": "Parkplatz",
+                "article": "der"
+            },
+            {
+                "word": "Partnerlook",
+                "article": "der"
+            },
+            {
+                "word": "Partnerspiel",
+                "article": "das"
+            },
+            {
+                "word": "Passwort",
+                "article": "das"
+            },
+            {
+                "word": "Pech",
+                "article": "das"
+            },
+            {
+                "word": "Personalausweis",
+                "article": "der"
+            },
+            {
+                "word": "Pfanne",
+                "article": "die"
+            },
+            {
+                "word": "Pflanze",
+                "article": "die"
+            },
+            {
+                "word": "Pflaster",
+                "article": "das"
+            },
+            {
+                "word": "Pf\u00fctze",
+                "article": "die"
+            },
+            {
+                "word": "Phase",
+                "article": "die"
+            },
+            {
+                "word": "Philharmonie",
+                "article": "die"
+            },
+            {
+                "word": "Pilot",
+                "article": "der"
+            },
+            {
+                "word": "Pilotin",
+                "article": "die"
+            },
+            {
+                "word": "Pin",
+                "article": "der"
+            },
+            {
+                "word": "Pinsel",
+                "article": "der"
+            },
+            {
+                "word": "Planet",
+                "article": "der"
+            },
+            {
+                "word": "Planung",
+                "article": "die"
+            },
+            {
+                "word": "Plastik",
+                "article": "die"
+            },
+            {
+                "word": "Plastikdose",
+                "article": "die"
+            },
+            {
+                "word": "Platte",
+                "article": "die"
+            },
+            {
+                "word": "Plattenspieler",
+                "article": "der"
+            },
+            {
+                "word": "Pleitegeier",
+                "article": "der"
+            },
+            {
+                "word": "Politik",
+                "article": "die"
+            },
+            {
+                "word": "Polizist",
+                "article": "der"
+            },
+            {
+                "word": "Polizistin",
+                "article": "die"
+            },
+            {
+                "word": "Pop",
+                "article": "der"
+            },
+            {
+                "word": "Popcorn",
+                "article": "das"
+            },
+            {
+                "word": "Portion",
+                "article": "die"
+            },
+            {
+                "word": "Porto",
+                "article": "das"
+            },
+            {
+                "word": "Portr\u00e4t",
+                "article": "das"
+            },
+            {
+                "word": "Position",
+                "article": "die"
+            },
+            {
+                "word": "Posteingang",
+                "article": "der"
+            },
+            {
+                "word": "Prinzessin",
+                "article": "die"
+            },
+            {
+                "word": "Privatauto",
+                "article": "das"
+            },
+            {
+                "word": "Produkt",
+                "article": "das"
+            },
+            {
+                "word": "Profi",
+                "article": "der"
+            },
+            {
+                "word": "Projektgruppe",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00fcfer",
+                "article": "der"
+            },
+            {
+                "word": "Pr\u00fcferin",
+                "article": "die"
+            },
+            {
+                "word": "Psychologe",
+                "article": "der"
+            },
+            {
+                "word": "Psychologin",
+                "article": "die"
+            },
+            {
+                "word": "Pyramide",
+                "article": "die"
             }
         ]
     },
@@ -7812,6 +8268,256 @@
             {
                 "word": "Outfit",
                 "article": "das"
+            }
+        ],
+        "P": [
+            {
+                "word": "P\u00e4dagoge",
+                "article": "der"
+            },
+            {
+                "word": "P\u00e4rchen",
+                "article": "das"
+            },
+            {
+                "word": "Panda",
+                "article": "der"
+            },
+            {
+                "word": "Pandab\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Papierherstellung",
+                "article": "die"
+            },
+            {
+                "word": "Papiert\u00fcte",
+                "article": "die"
+            },
+            {
+                "word": "Pappe",
+                "article": "die"
+            },
+            {
+                "word": "Papyrus",
+                "article": "der"
+            },
+            {
+                "word": "Parkuhr",
+                "article": "die"
+            },
+            {
+                "word": "Partei",
+                "article": "die"
+            },
+            {
+                "word": "Partnerschaft",
+                "article": "die"
+            },
+            {
+                "word": "Passivit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Passkontrolle",
+                "article": "die"
+            },
+            {
+                "word": "Pasta",
+                "article": "die"
+            },
+            {
+                "word": "Patchwork",
+                "article": "das"
+            },
+            {
+                "word": "Pate",
+                "article": "der"
+            },
+            {
+                "word": "Patenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Patrone",
+                "article": "die"
+            },
+            {
+                "word": "Pausenbrot",
+                "article": "das"
+            },
+            {
+                "word": "Pension",
+                "article": "die"
+            },
+            {
+                "word": "Perserteppich",
+                "article": "der"
+            },
+            {
+                "word": "Pers\u00f6nlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Personal",
+                "article": "das"
+            },
+            {
+                "word": "Personalchef",
+                "article": "der"
+            },
+            {
+                "word": "Pflaume",
+                "article": "die"
+            },
+            {
+                "word": "Pfleger",
+                "article": "der"
+            },
+            {
+                "word": "Pflegerin",
+                "article": "die"
+            },
+            {
+                "word": "Pflicht",
+                "article": "die"
+            },
+            {
+                "word": "Phantasie",
+                "article": "die"
+            },
+            {
+                "word": "Philosophie",
+                "article": "die"
+            },
+            {
+                "word": "Pianistin",
+                "article": "die"
+            },
+            {
+                "word": "Pille",
+                "article": "die"
+            },
+            {
+                "word": "Pilz",
+                "article": "der"
+            },
+            {
+                "word": "Pirat",
+                "article": "der"
+            },
+            {
+                "word": "Plastikfolie",
+                "article": "die"
+            },
+            {
+                "word": "Plastikt\u00fcte",
+                "article": "die"
+            },
+            {
+                "word": "Platzreservierung",
+                "article": "die"
+            },
+            {
+                "word": "Politiker",
+                "article": "der"
+            },
+            {
+                "word": "Popmusik",
+                "article": "die"
+            },
+            {
+                "word": "Portemonnaie",
+                "article": "das"
+            },
+            {
+                "word": "Postfach",
+                "article": "das"
+            },
+            {
+                "word": "Praktikant",
+                "article": "der"
+            },
+            {
+                "word": "Premiere",
+                "article": "die"
+            },
+            {
+                "word": "Pressekonferenz",
+                "article": "die"
+            },
+            {
+                "word": "Privatleben",
+                "article": "das"
+            },
+            {
+                "word": "Privatsache",
+                "article": "die"
+            },
+            {
+                "word": "Privatsph\u00e4re",
+                "article": "die"
+            },
+            {
+                "word": "Probe",
+                "article": "die"
+            },
+            {
+                "word": "Produktion",
+                "article": "die"
+            },
+            {
+                "word": "Produzent",
+                "article": "der"
+            },
+            {
+                "word": "Promenade",
+                "article": "die"
+            },
+            {
+                "word": "Prost",
+                "article": "das"
+            },
+            {
+                "word": "Protest",
+                "article": "der"
+            },
+            {
+                "word": "Provinz",
+                "article": "die"
+            },
+            {
+                "word": "Prozess",
+                "article": "der"
+            },
+            {
+                "word": "Prozessor",
+                "article": "der"
+            },
+            {
+                "word": "Publikum",
+                "article": "das"
+            },
+            {
+                "word": "Puderzucker",
+                "article": "der"
+            },
+            {
+                "word": "Puls",
+                "article": "der"
+            },
+            {
+                "word": "Punk",
+                "article": "der"
+            },
+            {
+                "word": "Puppe",
+                "article": "die"
+            },
+            {
+                "word": "Putzfrau",
+                "article": "die"
             }
         ]
     },
@@ -12063,6 +12769,356 @@
             },
             {
                 "word": "Orientierung",
+                "article": "die"
+            }
+        ],
+        "P": [
+            {
+                "word": "P\u00e4dagogin",
+                "article": "die"
+            },
+            {
+                "word": "Palast",
+                "article": "der"
+            },
+            {
+                "word": "Panik",
+                "article": "die"
+            },
+            {
+                "word": "Panorama",
+                "article": "das"
+            },
+            {
+                "word": "Papeterie",
+                "article": "die"
+            },
+            {
+                "word": "Parabel",
+                "article": "die"
+            },
+            {
+                "word": "Paragraph",
+                "article": "der"
+            },
+            {
+                "word": "Parf\u00fcmeur",
+                "article": "der"
+            },
+            {
+                "word": "Parf\u00fcmeurin",
+                "article": "die"
+            },
+            {
+                "word": "Parlament",
+                "article": "das"
+            },
+            {
+                "word": "Partie",
+                "article": "die"
+            },
+            {
+                "word": "Partitur",
+                "article": "die"
+            },
+            {
+                "word": "Partnerwahl",
+                "article": "die"
+            },
+            {
+                "word": "Passion",
+                "article": "die"
+            },
+            {
+                "word": "Patent",
+                "article": "das"
+            },
+            {
+                "word": "Patin",
+                "article": "die"
+            },
+            {
+                "word": "Pauschalreise",
+                "article": "die"
+            },
+            {
+                "word": "Pazifismus",
+                "article": "der"
+            },
+            {
+                "word": "Pendler",
+                "article": "der"
+            },
+            {
+                "word": "Pep",
+                "article": "der"
+            },
+            {
+                "word": "Perspektive",
+                "article": "die"
+            },
+            {
+                "word": "Pessimismus",
+                "article": "der"
+            },
+            {
+                "word": "Pest",
+                "article": "die"
+            },
+            {
+                "word": "Pfeife",
+                "article": "die"
+            },
+            {
+                "word": "Pfeil",
+                "article": "der"
+            },
+            {
+                "word": "Pfeiler",
+                "article": "der"
+            },
+            {
+                "word": "Pflanzenfresser",
+                "article": "der"
+            },
+            {
+                "word": "Pflege",
+                "article": "die"
+            },
+            {
+                "word": "Pflichtbewusstsein",
+                "article": "das"
+            },
+            {
+                "word": "Ph\u00e4nomen",
+                "article": "das"
+            },
+            {
+                "word": "Philosoph",
+                "article": "der"
+            },
+            {
+                "word": "Philosophin",
+                "article": "die"
+            },
+            {
+                "word": "Physiker",
+                "article": "der"
+            },
+            {
+                "word": "Physikerin",
+                "article": "die"
+            },
+            {
+                "word": "Physiologie",
+                "article": "die"
+            },
+            {
+                "word": "Physiotherapeutin",
+                "article": "die"
+            },
+            {
+                "word": "Pianist",
+                "article": "der"
+            },
+            {
+                "word": "Pik",
+                "article": "der"
+            },
+            {
+                "word": "Piktogramm",
+                "article": "das"
+            },
+            {
+                "word": "Pipette",
+                "article": "die"
+            },
+            {
+                "word": "Pl\u00e4doyer",
+                "article": "das"
+            },
+            {
+                "word": "Plattenfirma",
+                "article": "die"
+            },
+            {
+                "word": "Plattheit",
+                "article": "die"
+            },
+            {
+                "word": "Plausch",
+                "article": "der"
+            },
+            {
+                "word": "Pluspunkt",
+                "article": "der"
+            },
+            {
+                "word": "Plutonium",
+                "article": "das"
+            },
+            {
+                "word": "Pokal",
+                "article": "der"
+            },
+            {
+                "word": "Polis",
+                "article": "die"
+            },
+            {
+                "word": "Politikwissenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Polizeimeister",
+                "article": "der"
+            },
+            {
+                "word": "Popstar",
+                "article": "der"
+            },
+            {
+                "word": "Popularit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00e4gung",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00e4mie",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00e4parat",
+                "article": "das"
+            },
+            {
+                "word": "Pr\u00e4senz",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00e4sident",
+                "article": "der"
+            },
+            {
+                "word": "Pr\u00e4sidentin",
+                "article": "die"
+            },
+            {
+                "word": "Preisvergleich",
+                "article": "der"
+            },
+            {
+                "word": "Preisverleihung",
+                "article": "die"
+            },
+            {
+                "word": "Pressesprecher",
+                "article": "der"
+            },
+            {
+                "word": "Pressesprecherin",
+                "article": "die"
+            },
+            {
+                "word": "Prinzip",
+                "article": "das"
+            },
+            {
+                "word": "Priorit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Prise",
+                "article": "die"
+            },
+            {
+                "word": "Privatwohnung",
+                "article": "die"
+            },
+            {
+                "word": "Proband",
+                "article": "der"
+            },
+            {
+                "word": "Probandin",
+                "article": "die"
+            },
+            {
+                "word": "Probezeit",
+                "article": "die"
+            },
+            {
+                "word": "Produktionsst\u00e4tte",
+                "article": "die"
+            },
+            {
+                "word": "Produzentin",
+                "article": "die"
+            },
+            {
+                "word": "Professur",
+                "article": "die"
+            },
+            {
+                "word": "Profimannschaft",
+                "article": "die"
+            },
+            {
+                "word": "Profit",
+                "article": "der"
+            },
+            {
+                "word": "Prognose",
+                "article": "die"
+            },
+            {
+                "word": "Projektmanagement",
+                "article": "das"
+            },
+            {
+                "word": "Protestaktion",
+                "article": "die"
+            },
+            {
+                "word": "Protokollant",
+                "article": "der"
+            },
+            {
+                "word": "Provokation",
+                "article": "die"
+            },
+            {
+                "word": "Prozentzahl",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00fcfling",
+                "article": "der"
+            },
+            {
+                "word": "Pr\u00fcfungsangst",
+                "article": "die"
+            },
+            {
+                "word": "Psyche",
+                "article": "die"
+            },
+            {
+                "word": "Pulsschlag",
+                "article": "der"
+            },
+            {
+                "word": "Pulver",
+                "article": "das"
+            },
+            {
+                "word": "Pumpe",
+                "article": "die"
+            },
+            {
+                "word": "Putzkolonne",
                 "article": "die"
             }
         ]
@@ -16712,6 +17768,356 @@
             {
                 "word": "Ortung",
                 "article": "die"
+            }
+        ],
+        "P": [
+            {
+                "word": "P\u00e4dagogik",
+                "article": "die"
+            },
+            {
+                "word": "Pakt",
+                "article": "der"
+            },
+            {
+                "word": "Palette",
+                "article": "die"
+            },
+            {
+                "word": "Papiergeld",
+                "article": "das"
+            },
+            {
+                "word": "Papierschnipsel",
+                "article": "der"
+            },
+            {
+                "word": "Paradies",
+                "article": "das"
+            },
+            {
+                "word": "Paradoxon",
+                "article": "das"
+            },
+            {
+                "word": "Parcours",
+                "article": "der"
+            },
+            {
+                "word": "Parkanlage",
+                "article": "die"
+            },
+            {
+                "word": "Parodie",
+                "article": "die"
+            },
+            {
+                "word": "Patentamt",
+                "article": "das"
+            },
+            {
+                "word": "Patentante",
+                "article": "die"
+            },
+            {
+                "word": "Patentrezept",
+                "article": "das"
+            },
+            {
+                "word": "Pauschalurteil",
+                "article": "das"
+            },
+            {
+                "word": "Pazifist",
+                "article": "der"
+            },
+            {
+                "word": "Peeling",
+                "article": "das"
+            },
+            {
+                "word": "Pegel",
+                "article": "der"
+            },
+            {
+                "word": "Penicillin",
+                "article": "das"
+            },
+            {
+                "word": "Pension\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Pensionist",
+                "article": "der"
+            },
+            {
+                "word": "Perestroika",
+                "article": "die"
+            },
+            {
+                "word": "Perfektionismus",
+                "article": "der"
+            },
+            {
+                "word": "Performance",
+                "article": "die"
+            },
+            {
+                "word": "Periode",
+                "article": "die"
+            },
+            {
+                "word": "Personalleiter",
+                "article": "der"
+            },
+            {
+                "word": "Personalpronomen",
+                "article": "das"
+            },
+            {
+                "word": "Personenschaden",
+                "article": "der"
+            },
+            {
+                "word": "Pessimist",
+                "article": "der"
+            },
+            {
+                "word": "Pestizid",
+                "article": "das"
+            },
+            {
+                "word": "Pfad",
+                "article": "der"
+            },
+            {
+                "word": "Pferder\u00fccken",
+                "article": "der"
+            },
+            {
+                "word": "Pflegekind",
+                "article": "das"
+            },
+            {
+                "word": "Pfosten",
+                "article": "der"
+            },
+            {
+                "word": "Pfusch",
+                "article": "der"
+            },
+            {
+                "word": "Pheromon",
+                "article": "das"
+            },
+            {
+                "word": "Philharmoniker",
+                "article": "der"
+            },
+            {
+                "word": "Phrase",
+                "article": "die"
+            },
+            {
+                "word": "Pionier",
+                "article": "der"
+            },
+            {
+                "word": "Placebo",
+                "article": "das"
+            },
+            {
+                "word": "Plagiat",
+                "article": "das"
+            },
+            {
+                "word": "Planetoid",
+                "article": "der"
+            },
+            {
+                "word": "Planspiel",
+                "article": "das"
+            },
+            {
+                "word": "Planstelle",
+                "article": "die"
+            },
+            {
+                "word": "Platzhalter",
+                "article": "der"
+            },
+            {
+                "word": "Platzierung",
+                "article": "die"
+            },
+            {
+                "word": "Podiumsdiskussion",
+                "article": "die"
+            },
+            {
+                "word": "Poesie",
+                "article": "die"
+            },
+            {
+                "word": "Popo",
+                "article": "der"
+            },
+            {
+                "word": "Porzellan",
+                "article": "das"
+            },
+            {
+                "word": "Pose",
+                "article": "die"
+            },
+            {
+                "word": "Possessivpronomen",
+                "article": "das"
+            },
+            {
+                "word": "Postbank",
+                "article": "die"
+            },
+            {
+                "word": "Potential",
+                "article": "das"
+            },
+            {
+                "word": "Potenzial",
+                "article": "das"
+            },
+            {
+                "word": "Pr\u00e4rie",
+                "article": "die"
+            },
+            {
+                "word": "Pr\u00e4vention",
+                "article": "die"
+            },
+            {
+                "word": "Pragmatismus",
+                "article": "der"
+            },
+            {
+                "word": "Preistr\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Preistr\u00e4gerin",
+                "article": "die"
+            },
+            {
+                "word": "Pressemitteilung",
+                "article": "die"
+            },
+            {
+                "word": "Pressestelle",
+                "article": "die"
+            },
+            {
+                "word": "Preu\u00dfe",
+                "article": "der"
+            },
+            {
+                "word": "Privileg",
+                "article": "das"
+            },
+            {
+                "word": "Problemstellung",
+                "article": "die"
+            },
+            {
+                "word": "Produktionsland",
+                "article": "das"
+            },
+            {
+                "word": "Produktpiraterie",
+                "article": "die"
+            },
+            {
+                "word": "Profimusiker",
+                "article": "der"
+            },
+            {
+                "word": "Promotion",
+                "article": "die"
+            },
+            {
+                "word": "Propaganda",
+                "article": "die"
+            },
+            {
+                "word": "Prophezeiung",
+                "article": "die"
+            },
+            {
+                "word": "Protagonist",
+                "article": "der"
+            },
+            {
+                "word": "Protestant",
+                "article": "der"
+            },
+            {
+                "word": "Protokoll",
+                "article": "das"
+            },
+            {
+                "word": "Prototyp",
+                "article": "der"
+            },
+            {
+                "word": "Prozentpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Prozentsatz",
+                "article": "der"
+            },
+            {
+                "word": "Psychiater",
+                "article": "der"
+            },
+            {
+                "word": "Psychiatrie",
+                "article": "die"
+            },
+            {
+                "word": "Psychopath",
+                "article": "der"
+            },
+            {
+                "word": "Psychose",
+                "article": "die"
+            },
+            {
+                "word": "Psychotherapeut",
+                "article": "der"
+            },
+            {
+                "word": "Psychotherapie",
+                "article": "die"
+            },
+            {
+                "word": "Pubert\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Publikation",
+                "article": "die"
+            },
+            {
+                "word": "Publikumsmagnet",
+                "article": "der"
+            },
+            {
+                "word": "Publizist",
+                "article": "der"
+            },
+            {
+                "word": "Puzzlespiel",
+                "article": "das"
             }
         ]
     }

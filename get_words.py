@@ -97,10 +97,11 @@ Note: already scraped data include
 "M" for "A1" "A2" "B1" "B2" "C1"
 "N" for "A1" "A2" "B1" "B2" "C1"
 "O" for "A1" "A2" "B1" "B2" "C1"
+"P" for "A1" "A2" "B1" "B2" "C1"
 [Do not scrape too often as the website might block this IP]
 '''
 
-scrape_and_save(URL, "O", "C1", dictionary)
+scrape_and_save(URL, "P", "C1", dictionary)
 
 data = json.dumps(dictionary, indent=4)
 
