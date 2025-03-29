@@ -3143,6 +3143,16 @@
                 "word": "Punkt",
                 "article": "der"
             }
+        ],
+        "Q": [
+            {
+                "word": "Quadratmeter",
+                "article": "der"
+            },
+            {
+                "word": "Quiz",
+                "article": "das"
+            }
         ]
     },
     "A2": {
@@ -5479,6 +5489,24 @@
             },
             {
                 "word": "Pyramide",
+                "article": "die"
+            }
+        ],
+        "Q": [
+            {
+                "word": "Qualit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Quark",
+                "article": "der"
+            },
+            {
+                "word": "Quatsch",
+                "article": "der"
+            },
+            {
+                "word": "Quittung",
                 "article": "die"
             }
         ]
@@ -8518,6 +8546,24 @@
             {
                 "word": "Putzfrau",
                 "article": "die"
+            }
+        ],
+        "Q": [
+            {
+                "word": "Qualifikation",
+                "article": "die"
+            },
+            {
+                "word": "Quartal",
+                "article": "das"
+            },
+            {
+                "word": "Querstra\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Quilt",
+                "article": "der"
             }
         ]
     },
@@ -13120,6 +13166,32 @@
             {
                 "word": "Putzkolonne",
                 "article": "die"
+            }
+        ],
+        "Q": [
+            {
+                "word": "Qualle",
+                "article": "die"
+            },
+            {
+                "word": "Quarterback",
+                "article": "der"
+            },
+            {
+                "word": "Quasselstrippe",
+                "article": "die"
+            },
+            {
+                "word": "Quelle",
+                "article": "die"
+            },
+            {
+                "word": "Querschnittsl\u00e4hmung",
+                "article": "die"
+            },
+            {
+                "word": "Quotient",
+                "article": "der"
             }
         ]
     },
@@ -18118,6 +18190,32 @@
             {
                 "word": "Puzzlespiel",
                 "article": "das"
+            }
+        ],
+        "Q": [
+            {
+                "word": "Quadrat",
+                "article": "das"
+            },
+            {
+                "word": "Quadratkilometer",
+                "article": "der"
+            },
+            {
+                "word": "Qualit\u00e4tskontrolle",
+                "article": "die"
+            },
+            {
+                "word": "Quantit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Quatschkopf",
+                "article": "der"
+            },
+            {
+                "word": "Querverbindung",
+                "article": "die"
             }
         ]
     }
