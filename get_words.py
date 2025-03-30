@@ -103,7 +103,7 @@ Note: already scraped data include
 [Do not scrape too often as the website might block this IP]
 '''
 
-scrape_and_save(URL, "R", "B2", dictionary)
+scrape_and_save(URL, "R", "C1", dictionary)
 
 data = json.dumps(dictionary, indent=4)
 

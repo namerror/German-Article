@@ -19253,6 +19253,332 @@
                 "word": "Querverbindung",
                 "article": "die"
             }
+        ],
+        "R": [
+            {
+                "word": "Rache",
+                "article": "die"
+            },
+            {
+                "word": "Rachefeldzug",
+                "article": "der"
+            },
+            {
+                "word": "Rachenraum",
+                "article": "der"
+            },
+            {
+                "word": "Raffinesse",
+                "article": "die"
+            },
+            {
+                "word": "Rangliste",
+                "article": "die"
+            },
+            {
+                "word": "Rasenm\u00e4her",
+                "article": "der"
+            },
+            {
+                "word": "Ratgeber",
+                "article": "der"
+            },
+            {
+                "word": "Rationalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Raubkatze",
+                "article": "die"
+            },
+            {
+                "word": "Raub\u00fcberfall",
+                "article": "der"
+            },
+            {
+                "word": "Rauchfang",
+                "article": "der"
+            },
+            {
+                "word": "Rauchverbot",
+                "article": "das"
+            },
+            {
+                "word": "Raumfahrer",
+                "article": "der"
+            },
+            {
+                "word": "Raupe",
+                "article": "die"
+            },
+            {
+                "word": "Rauschmittel",
+                "article": "das"
+            },
+            {
+                "word": "Realisierung",
+                "article": "die"
+            },
+            {
+                "word": "Rechthaber",
+                "article": "der"
+            },
+            {
+                "word": "Rechtsanw\u00e4ltin",
+                "article": "die"
+            },
+            {
+                "word": "Rechtschreibung",
+                "article": "die"
+            },
+            {
+                "word": "Rechtsprechung",
+                "article": "die"
+            },
+            {
+                "word": "Rechtsverkehr",
+                "article": "der"
+            },
+            {
+                "word": "Reduktion",
+                "article": "die"
+            },
+            {
+                "word": "Reflexion",
+                "article": "die"
+            },
+            {
+                "word": "Regenbogen",
+                "article": "der"
+            },
+            {
+                "word": "Regenwald",
+                "article": "der"
+            },
+            {
+                "word": "Regime",
+                "article": "das"
+            },
+            {
+                "word": "Regiolekt",
+                "article": "der"
+            },
+            {
+                "word": "Register",
+                "article": "das"
+            },
+            {
+                "word": "Rehabilitation",
+                "article": "die"
+            },
+            {
+                "word": "Rehabilitierung",
+                "article": "die"
+            },
+            {
+                "word": "Reich",
+                "article": "das"
+            },
+            {
+                "word": "Reichtum",
+                "article": "der"
+            },
+            {
+                "word": "Reintegration",
+                "article": "die"
+            },
+            {
+                "word": "Reiseweg",
+                "article": "der"
+            },
+            {
+                "word": "Reiskorn",
+                "article": "das"
+            },
+            {
+                "word": "Rei\u00dfverschluss",
+                "article": "der"
+            },
+            {
+                "word": "Reiz\u00fcberflutung",
+                "article": "die"
+            },
+            {
+                "word": "Rekonstruktion",
+                "article": "die"
+            },
+            {
+                "word": "Rekrut",
+                "article": "der"
+            },
+            {
+                "word": "Relativsatz",
+                "article": "der"
+            },
+            {
+                "word": "Relikt",
+                "article": "das"
+            },
+            {
+                "word": "Renaissance",
+                "article": "die"
+            },
+            {
+                "word": "Rendite",
+                "article": "die"
+            },
+            {
+                "word": "Renommee",
+                "article": "das"
+            },
+            {
+                "word": "Repertoire",
+                "article": "das"
+            },
+            {
+                "word": "Repr\u00e4sentanz",
+                "article": "die"
+            },
+            {
+                "word": "Reproduktion",
+                "article": "die"
+            },
+            {
+                "word": "Reserve",
+                "article": "die"
+            },
+            {
+                "word": "Residenz",
+                "article": "die"
+            },
+            {
+                "word": "Resonanz",
+                "article": "die"
+            },
+            {
+                "word": "Resozialisierung",
+                "article": "die"
+            },
+            {
+                "word": "Respektlosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Ressort",
+                "article": "das"
+            },
+            {
+                "word": "Restaurierung",
+                "article": "die"
+            },
+            {
+                "word": "Retorte",
+                "article": "die"
+            },
+            {
+                "word": "Rezeptor",
+                "article": "der"
+            },
+            {
+                "word": "Rhetorik",
+                "article": "die"
+            },
+            {
+                "word": "Rheuma",
+                "article": "das"
+            },
+            {
+                "word": "Richtlinie",
+                "article": "die"
+            },
+            {
+                "word": "Richtschnur",
+                "article": "die"
+            },
+            {
+                "word": "Richtungswechsel",
+                "article": "der"
+            },
+            {
+                "word": "Riegel",
+                "article": "der"
+            },
+            {
+                "word": "R\u00f6ntgenbild",
+                "article": "das"
+            },
+            {
+                "word": "R\u00f6ntgenstrahlung",
+                "article": "die"
+            },
+            {
+                "word": "Rohstoff",
+                "article": "der"
+            },
+            {
+                "word": "Rollenfach",
+                "article": "das"
+            },
+            {
+                "word": "Rollenspiel",
+                "article": "das"
+            },
+            {
+                "word": "Routinearbeit",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckgriff",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckmeldung",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckschau",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckseite",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fccksichtslosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckzugsgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Ruhepause",
+                "article": "die"
+            },
+            {
+                "word": "Ruhest\u00e4ndler",
+                "article": "der"
+            },
+            {
+                "word": "Ruhestand",
+                "article": "der"
+            },
+            {
+                "word": "Ruhm",
+                "article": "der"
+            },
+            {
+                "word": "Ruine",
+                "article": "die"
+            },
+            {
+                "word": "Rumpf",
+                "article": "der"
+            },
+            {
+                "word": "Rundschau",
+                "article": "die"
+            }
         ]
     }
 }
