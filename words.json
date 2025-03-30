@@ -3937,6 +3937,292 @@
                 "word": "Symphoniker",
                 "article": "der"
             }
+        ],
+        "T": [
+            {
+                "word": "Tabelle",
+                "article": "die"
+            },
+            {
+                "word": "Tablette",
+                "article": "die"
+            },
+            {
+                "word": "T\u00e4tigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Tafel",
+                "article": "die"
+            },
+            {
+                "word": "Tag",
+                "article": "der"
+            },
+            {
+                "word": "Tagebuch",
+                "article": "das"
+            },
+            {
+                "word": "Tageszeit",
+                "article": "die"
+            },
+            {
+                "word": "Talent",
+                "article": "das"
+            },
+            {
+                "word": "Tandem",
+                "article": "das"
+            },
+            {
+                "word": "Tante",
+                "article": "die"
+            },
+            {
+                "word": "Tanz",
+                "article": "der"
+            },
+            {
+                "word": "Tasche",
+                "article": "die"
+            },
+            {
+                "word": "Taschengeld",
+                "article": "das"
+            },
+            {
+                "word": "Tasse",
+                "article": "die"
+            },
+            {
+                "word": "Taste",
+                "article": "die"
+            },
+            {
+                "word": "Tatze",
+                "article": "die"
+            },
+            {
+                "word": "Taxi",
+                "article": "das"
+            },
+            {
+                "word": "Taxifahrer",
+                "article": "der"
+            },
+            {
+                "word": "Team",
+                "article": "das"
+            },
+            {
+                "word": "Technik",
+                "article": "die"
+            },
+            {
+                "word": "Techniker",
+                "article": "der"
+            },
+            {
+                "word": "Tee",
+                "article": "der"
+            },
+            {
+                "word": "Teil",
+                "article": "der"
+            },
+            {
+                "word": "Telefon",
+                "article": "das"
+            },
+            {
+                "word": "Telefonanlage",
+                "article": "die"
+            },
+            {
+                "word": "Telefonnummer",
+                "article": "die"
+            },
+            {
+                "word": "Teller",
+                "article": "der"
+            },
+            {
+                "word": "Tennis",
+                "article": "das"
+            },
+            {
+                "word": "Tennisball",
+                "article": "der"
+            },
+            {
+                "word": "Tennisschuh",
+                "article": "der"
+            },
+            {
+                "word": "Teppich",
+                "article": "der"
+            },
+            {
+                "word": "Termin",
+                "article": "der"
+            },
+            {
+                "word": "Terminal",
+                "article": "das"
+            },
+            {
+                "word": "Terrasse",
+                "article": "die"
+            },
+            {
+                "word": "Test",
+                "article": "der"
+            },
+            {
+                "word": "Text",
+                "article": "der"
+            },
+            {
+                "word": "Textbaustein",
+                "article": "der"
+            },
+            {
+                "word": "Theater",
+                "article": "das"
+            },
+            {
+                "word": "Theaterbesuch",
+                "article": "der"
+            },
+            {
+                "word": "Thema",
+                "article": "das"
+            },
+            {
+                "word": "Ticket",
+                "article": "das"
+            },
+            {
+                "word": "Tier",
+                "article": "das"
+            },
+            {
+                "word": "Tipp",
+                "article": "der"
+            },
+            {
+                "word": "Tisch",
+                "article": "der"
+            },
+            {
+                "word": "Tischtennis",
+                "article": "das"
+            },
+            {
+                "word": "Titel",
+                "article": "der"
+            },
+            {
+                "word": "Tochter",
+                "article": "die"
+            },
+            {
+                "word": "Toilette",
+                "article": "die"
+            },
+            {
+                "word": "Tomate",
+                "article": "die"
+            },
+            {
+                "word": "Tomatensaft",
+                "article": "der"
+            },
+            {
+                "word": "Tomatensuppe",
+                "article": "die"
+            },
+            {
+                "word": "Ton",
+                "article": "der"
+            },
+            {
+                "word": "Torte",
+                "article": "die"
+            },
+            {
+                "word": "Tour",
+                "article": "die"
+            },
+            {
+                "word": "Trainer",
+                "article": "der"
+            },
+            {
+                "word": "Training",
+                "article": "das"
+            },
+            {
+                "word": "Tram",
+                "article": "die"
+            },
+            {
+                "word": "Treffen",
+                "article": "das"
+            },
+            {
+                "word": "Treffpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Treppe",
+                "article": "die"
+            },
+            {
+                "word": "Trinkgeld",
+                "article": "das"
+            },
+            {
+                "word": "Trompete",
+                "article": "die"
+            },
+            {
+                "word": "Tropfen",
+                "article": "der"
+            },
+            {
+                "word": "Tuch",
+                "article": "das"
+            },
+            {
+                "word": "T\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "T\u00fcrkei",
+                "article": "die"
+            },
+            {
+                "word": "T\u00fcrkisch",
+                "article": "das"
+            },
+            {
+                "word": "T\u00fcte",
+                "article": "die"
+            },
+            {
+                "word": "Turm",
+                "article": "der"
+            },
+            {
+                "word": "Turnhalle",
+                "article": "die"
+            },
+            {
+                "word": "Typ",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -6880,6 +7166,192 @@
             {
                 "word": "Szene",
                 "article": "die"
+            }
+        ],
+        "T": [
+            {
+                "word": "Tablett",
+                "article": "das"
+            },
+            {
+                "word": "T\u00e4nzerin",
+                "article": "die"
+            },
+            {
+                "word": "T\u00e4ter",
+                "article": "der"
+            },
+            {
+                "word": "T\u00e4terin",
+                "article": "die"
+            },
+            {
+                "word": "Tagesablauf",
+                "article": "der"
+            },
+            {
+                "word": "Tango",
+                "article": "der"
+            },
+            {
+                "word": "Tankstelle",
+                "article": "die"
+            },
+            {
+                "word": "Taschenrechner",
+                "article": "der"
+            },
+            {
+                "word": "Taschentuch",
+                "article": "das"
+            },
+            {
+                "word": "Tastatur",
+                "article": "die"
+            },
+            {
+                "word": "Taucherbrille",
+                "article": "die"
+            },
+            {
+                "word": "Teamarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Technikerin",
+                "article": "die"
+            },
+            {
+                "word": "Teilnehmer",
+                "article": "der"
+            },
+            {
+                "word": "Teilnehmerin",
+                "article": "die"
+            },
+            {
+                "word": "Telefongespr\u00e4ch",
+                "article": "das"
+            },
+            {
+                "word": "Telefonkonferenz",
+                "article": "die"
+            },
+            {
+                "word": "Telefonzentrale",
+                "article": "die"
+            },
+            {
+                "word": "Temperatur",
+                "article": "die"
+            },
+            {
+                "word": "Tennisschl\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Terrassent\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "Thriller",
+                "article": "der"
+            },
+            {
+                "word": "Tier\u00e4rztin",
+                "article": "die"
+            },
+            {
+                "word": "Tierarzt",
+                "article": "der"
+            },
+            {
+                "word": "Tiergeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Tierheim",
+                "article": "das"
+            },
+            {
+                "word": "Tierklinik",
+                "article": "die"
+            },
+            {
+                "word": "Tiermedizin",
+                "article": "die"
+            },
+            {
+                "word": "Tiger",
+                "article": "der"
+            },
+            {
+                "word": "Tischler",
+                "article": "der"
+            },
+            {
+                "word": "Tischlerei",
+                "article": "die"
+            },
+            {
+                "word": "T\u00f6nung",
+                "article": "die"
+            },
+            {
+                "word": "Top",
+                "article": "das"
+            },
+            {
+                "word": "Topf",
+                "article": "der"
+            },
+            {
+                "word": "Tor",
+                "article": "das"
+            },
+            {
+                "word": "Tourist",
+                "article": "der"
+            },
+            {
+                "word": "Touristin",
+                "article": "die"
+            },
+            {
+                "word": "Trainerin",
+                "article": "die"
+            },
+            {
+                "word": "Transport",
+                "article": "der"
+            },
+            {
+                "word": "Traum",
+                "article": "der"
+            },
+            {
+                "word": "Traumberuf",
+                "article": "der"
+            },
+            {
+                "word": "Treppenhaus",
+                "article": "das"
+            },
+            {
+                "word": "Tresor",
+                "article": "der"
+            },
+            {
+                "word": "Trick",
+                "article": "der"
+            },
+            {
+                "word": "Trikot",
+                "article": "das"
+            },
+            {
+                "word": "Turnschuh",
+                "article": "der"
             }
         ]
     },
@@ -10723,6 +11195,216 @@
             },
             {
                 "word": "System",
+                "article": "das"
+            }
+        ],
+        "T": [
+            {
+                "word": "Taekwondo",
+                "article": "das"
+            },
+            {
+                "word": "T\u00e4nzer",
+                "article": "der"
+            },
+            {
+                "word": "Tagesmutter",
+                "article": "die"
+            },
+            {
+                "word": "Tal",
+                "article": "das"
+            },
+            {
+                "word": "Tarif",
+                "article": "der"
+            },
+            {
+                "word": "Taschenbuch",
+                "article": "das"
+            },
+            {
+                "word": "Tat",
+                "article": "die"
+            },
+            {
+                "word": "Tatsache",
+                "article": "die"
+            },
+            {
+                "word": "Taube",
+                "article": "die"
+            },
+            {
+                "word": "Tauchkurs",
+                "article": "der"
+            },
+            {
+                "word": "Techno",
+                "article": "das"
+            },
+            {
+                "word": "Teich",
+                "article": "der"
+            },
+            {
+                "word": "Teilnahme",
+                "article": "die"
+            },
+            {
+                "word": "Teilnehmerliste",
+                "article": "die"
+            },
+            {
+                "word": "Teilzeit",
+                "article": "die"
+            },
+            {
+                "word": "Telefonat",
+                "article": "das"
+            },
+            {
+                "word": "Tempo",
+                "article": "das"
+            },
+            {
+                "word": "Terminkalender",
+                "article": "der"
+            },
+            {
+                "word": "Theaterb\u00fchne",
+                "article": "die"
+            },
+            {
+                "word": "Theaterst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Themenbereich",
+                "article": "der"
+            },
+            {
+                "word": "Theorie",
+                "article": "die"
+            },
+            {
+                "word": "Therapeut",
+                "article": "der"
+            },
+            {
+                "word": "Therapie",
+                "article": "die"
+            },
+            {
+                "word": "Tierart",
+                "article": "die"
+            },
+            {
+                "word": "Tiergarten",
+                "article": "der"
+            },
+            {
+                "word": "Tierpark",
+                "article": "der"
+            },
+            {
+                "word": "Tierqu\u00e4lerei",
+                "article": "die"
+            },
+            {
+                "word": "Tod",
+                "article": "der"
+            },
+            {
+                "word": "Todesfall",
+                "article": "der"
+            },
+            {
+                "word": "Toleranz",
+                "article": "die"
+            },
+            {
+                "word": "Tomatenso\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Tonne",
+                "article": "die"
+            },
+            {
+                "word": "Tonstudio",
+                "article": "das"
+            },
+            {
+                "word": "Tontafel",
+                "article": "die"
+            },
+            {
+                "word": "Tontechniker",
+                "article": "der"
+            },
+            {
+                "word": "Topmanager",
+                "article": "der"
+            },
+            {
+                "word": "Tourismus",
+                "article": "der"
+            },
+            {
+                "word": "Tournee",
+                "article": "die"
+            },
+            {
+                "word": "Tradition",
+                "article": "die"
+            },
+            {
+                "word": "Trag\u00f6die",
+                "article": "die"
+            },
+            {
+                "word": "Trainingsanzug",
+                "article": "der"
+            },
+            {
+                "word": "Trambahn",
+                "article": "die"
+            },
+            {
+                "word": "Trampolin",
+                "article": "das"
+            },
+            {
+                "word": "Transportweg",
+                "article": "der"
+            },
+            {
+                "word": "Trauung",
+                "article": "die"
+            },
+            {
+                "word": "Trend",
+                "article": "der"
+            },
+            {
+                "word": "Trennung",
+                "article": "die"
+            },
+            {
+                "word": "Trinkwasser",
+                "article": "das"
+            },
+            {
+                "word": "T\u00fcr\u00f6ffner",
+                "article": "der"
+            },
+            {
+                "word": "Tunnel",
+                "article": "der"
+            },
+            {
+                "word": "Turnier",
                 "article": "das"
             }
         ]
@@ -16572,6 +17254,224 @@
             {
                 "word": "Synonym",
                 "article": "das"
+            }
+        ],
+        "T": [
+            {
+                "word": "Tabu",
+                "article": "das"
+            },
+            {
+                "word": "Tabuthema",
+                "article": "das"
+            },
+            {
+                "word": "T\u00e4uschung",
+                "article": "die"
+            },
+            {
+                "word": "Tagesausflug",
+                "article": "der"
+            },
+            {
+                "word": "Tagung",
+                "article": "die"
+            },
+            {
+                "word": "Takt",
+                "article": "der"
+            },
+            {
+                "word": "Taktgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Talisman",
+                "article": "der"
+            },
+            {
+                "word": "Talkshow",
+                "article": "die"
+            },
+            {
+                "word": "Tapferkeit",
+                "article": "die"
+            },
+            {
+                "word": "Teamf\u00e4higkeit",
+                "article": "die"
+            },
+            {
+                "word": "Teamgeist",
+                "article": "der"
+            },
+            {
+                "word": "Teamleiter",
+                "article": "der"
+            },
+            {
+                "word": "Teamleiterin",
+                "article": "die"
+            },
+            {
+                "word": "Technologie",
+                "article": "die"
+            },
+            {
+                "word": "Teilbereich",
+                "article": "der"
+            },
+            {
+                "word": "Teilung",
+                "article": "die"
+            },
+            {
+                "word": "Telefonist",
+                "article": "der"
+            },
+            {
+                "word": "Telefonistin",
+                "article": "die"
+            },
+            {
+                "word": "Telemedizin",
+                "article": "die"
+            },
+            {
+                "word": "Tendenz",
+                "article": "die"
+            },
+            {
+                "word": "Tennisplatz",
+                "article": "der"
+            },
+            {
+                "word": "Teufel",
+                "article": "der"
+            },
+            {
+                "word": "Textilie",
+                "article": "die"
+            },
+            {
+                "word": "Theologie",
+                "article": "die"
+            },
+            {
+                "word": "Therapeutin",
+                "article": "die"
+            },
+            {
+                "word": "These",
+                "article": "die"
+            },
+            {
+                "word": "Thron",
+                "article": "der"
+            },
+            {
+                "word": "Tick",
+                "article": "der"
+            },
+            {
+                "word": "Tiefpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Tinte",
+                "article": "die"
+            },
+            {
+                "word": "Tochterfirma",
+                "article": "die"
+            },
+            {
+                "word": "Todesurteil",
+                "article": "das"
+            },
+            {
+                "word": "Toilettensp\u00fclung",
+                "article": "die"
+            },
+            {
+                "word": "Tr\u00e4ne",
+                "article": "die"
+            },
+            {
+                "word": "Tr\u00e4nenfl\u00fcssigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Tr\u00e4nensack",
+                "article": "der"
+            },
+            {
+                "word": "Transfer",
+                "article": "der"
+            },
+            {
+                "word": "Transfusion",
+                "article": "die"
+            },
+            {
+                "word": "Transkription",
+                "article": "die"
+            },
+            {
+                "word": "Transparenz",
+                "article": "die"
+            },
+            {
+                "word": "Traubenzucker",
+                "article": "der"
+            },
+            {
+                "word": "Trauer",
+                "article": "die"
+            },
+            {
+                "word": "Trauschein",
+                "article": "der"
+            },
+            {
+                "word": "Trendsetter",
+                "article": "der"
+            },
+            {
+                "word": "Treue",
+                "article": "die"
+            },
+            {
+                "word": "Triebfeder",
+                "article": "die"
+            },
+            {
+                "word": "Troph\u00e4e",
+                "article": "die"
+            },
+            {
+                "word": "Trotz",
+                "article": "der"
+            },
+            {
+                "word": "T\u00fcrfl\u00fcgel",
+                "article": "der"
+            },
+            {
+                "word": "T\u00fcrklinke",
+                "article": "die"
+            },
+            {
+                "word": "Tugend",
+                "article": "die"
+            },
+            {
+                "word": "Tumor",
+                "article": "der"
+            },
+            {
+                "word": "Tumult",
+                "article": "der"
             }
         ]
     },
@@ -22904,6 +23804,252 @@
             {
                 "word": "Szenarium",
                 "article": "das"
+            }
+        ],
+        "T": [
+            {
+                "word": "T\u00e4tigkeitsbereich",
+                "article": "der"
+            },
+            {
+                "word": "Tagebucheintrag",
+                "article": "der"
+            },
+            {
+                "word": "Tagel\u00f6hner",
+                "article": "der"
+            },
+            {
+                "word": "Tagesordnung",
+                "article": "die"
+            },
+            {
+                "word": "Tageszeitung",
+                "article": "die"
+            },
+            {
+                "word": "Taktik",
+                "article": "die"
+            },
+            {
+                "word": "Taler",
+                "article": "der"
+            },
+            {
+                "word": "Talgdr\u00fcse",
+                "article": "die"
+            },
+            {
+                "word": "Tank",
+                "article": "der"
+            },
+            {
+                "word": "Tantieme",
+                "article": "die"
+            },
+            {
+                "word": "Tarnung",
+                "article": "die"
+            },
+            {
+                "word": "Tastsinn",
+                "article": "der"
+            },
+            {
+                "word": "Tatendrang",
+                "article": "der"
+            },
+            {
+                "word": "Tattoo",
+                "article": "das"
+            },
+            {
+                "word": "Taumel",
+                "article": "der"
+            },
+            {
+                "word": "Tauschb\u00f6rse",
+                "article": "die"
+            },
+            {
+                "word": "Tauschgesch\u00e4ft",
+                "article": "das"
+            },
+            {
+                "word": "Tauschhandel",
+                "article": "der"
+            },
+            {
+                "word": "Teenager",
+                "article": "der"
+            },
+            {
+                "word": "Teilgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Telegraph",
+                "article": "der"
+            },
+            {
+                "word": "Telepathie",
+                "article": "die"
+            },
+            {
+                "word": "Tellerrand",
+                "article": "der"
+            },
+            {
+                "word": "Testament",
+                "article": "das"
+            },
+            {
+                "word": "Testperson",
+                "article": "die"
+            },
+            {
+                "word": "Teufelskreis",
+                "article": "der"
+            },
+            {
+                "word": "Textil",
+                "article": "das"
+            },
+            {
+                "word": "Tiersch\u00fctzer",
+                "article": "der"
+            },
+            {
+                "word": "Todesursache",
+                "article": "die"
+            },
+            {
+                "word": "Tomografie",
+                "article": "die"
+            },
+            {
+                "word": "Tonh\u00f6he",
+                "article": "die"
+            },
+            {
+                "word": "Tonkunst",
+                "article": "die"
+            },
+            {
+                "word": "Tool",
+                "article": "das"
+            },
+            {
+                "word": "Totenkopf",
+                "article": "der"
+            },
+            {
+                "word": "Totschlag",
+                "article": "der"
+            },
+            {
+                "word": "Touristik",
+                "article": "die"
+            },
+            {
+                "word": "Tracht",
+                "article": "die"
+            },
+            {
+                "word": "Tr\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Tr\u00e4umer",
+                "article": "der"
+            },
+            {
+                "word": "Trainee",
+                "article": "der"
+            },
+            {
+                "word": "Traktat",
+                "article": "das"
+            },
+            {
+                "word": "Transaktion",
+                "article": "die"
+            },
+            {
+                "word": "Trasse",
+                "article": "die"
+            },
+            {
+                "word": "Traube",
+                "article": "die"
+            },
+            {
+                "word": "Traumbild",
+                "article": "das"
+            },
+            {
+                "word": "Treffer",
+                "article": "der"
+            },
+            {
+                "word": "Treibhauseffekt",
+                "article": "der"
+            },
+            {
+                "word": "Treibstoff",
+                "article": "der"
+            },
+            {
+                "word": "Trickbetr\u00fcger",
+                "article": "der"
+            },
+            {
+                "word": "Trillerpfeife",
+                "article": "die"
+            },
+            {
+                "word": "Trio",
+                "article": "das"
+            },
+            {
+                "word": "Triumph",
+                "article": "der"
+            },
+            {
+                "word": "Trivialliteratur",
+                "article": "die"
+            },
+            {
+                "word": "Trolley",
+                "article": "der"
+            },
+            {
+                "word": "Trommel",
+                "article": "die"
+            },
+            {
+                "word": "Trompeter",
+                "article": "der"
+            },
+            {
+                "word": "Trugschluss",
+                "article": "der"
+            },
+            {
+                "word": "Tube",
+                "article": "die"
+            },
+            {
+                "word": "T\u00fcftler",
+                "article": "der"
+            },
+            {
+                "word": "Turn",
+                "article": "der"
+            },
+            {
+                "word": "Tutor",
+                "article": "der"
             }
         ]
     }
