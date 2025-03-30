@@ -102,10 +102,11 @@ Note: already scraped data include
 "R" for "A1" "A2" "B1" "B2" "C1"
 "S" for "A1" "A2" "B1" "B2" "C1"
 "T" for "A1" "A2" "B1" "B2" "C1"
+"U" for "A1" "A2" "B1" "B2" "C1"
 [Do not scrape too often as the website might block this IP]
 '''
 
-scrape_and_save(URL, "T", "C1", dictionary)
+scrape_and_save(URL, "U", "C1", dictionary)
 
 data = json.dumps(dictionary, indent=4)
 

@@ -4223,6 +4223,68 @@
                 "word": "Typ",
                 "article": "der"
             }
+        ],
+        "U": [
+            {
+                "word": "Uhr",
+                "article": "die"
+            },
+            {
+                "word": "Uhrzeit",
+                "article": "die"
+            },
+            {
+                "word": "Ukraine",
+                "article": "die"
+            },
+            {
+                "word": "Umfrage",
+                "article": "die"
+            },
+            {
+                "word": "Umkleidekabine",
+                "article": "die"
+            },
+            {
+                "word": "Umtausch",
+                "article": "der"
+            },
+            {
+                "word": "Unfall",
+                "article": "der"
+            },
+            {
+                "word": "Uni",
+                "article": "die"
+            },
+            {
+                "word": "Universit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Untergeschoss",
+                "article": "das"
+            },
+            {
+                "word": "Unterricht",
+                "article": "der"
+            },
+            {
+                "word": "Unterschied",
+                "article": "der"
+            },
+            {
+                "word": "Unterschrift",
+                "article": "die"
+            },
+            {
+                "word": "Urlaub",
+                "article": "der"
+            },
+            {
+                "word": "Urlaubsort",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -7352,6 +7414,64 @@
             {
                 "word": "Turnschuh",
                 "article": "der"
+            }
+        ],
+        "U": [
+            {
+                "word": "Ufer",
+                "article": "das"
+            },
+            {
+                "word": "Umbau",
+                "article": "der"
+            },
+            {
+                "word": "Umwelt",
+                "article": "die"
+            },
+            {
+                "word": "Umzug",
+                "article": "der"
+            },
+            {
+                "word": "Ungl\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Unordnung",
+                "article": "die"
+            },
+            {
+                "word": "Unsicherheit",
+                "article": "die"
+            },
+            {
+                "word": "Unsinn",
+                "article": "der"
+            },
+            {
+                "word": "Unterhaltung",
+                "article": "die"
+            },
+            {
+                "word": "Unterkunft",
+                "article": "die"
+            },
+            {
+                "word": "Unterscheidung",
+                "article": "die"
+            },
+            {
+                "word": "Untersuchung",
+                "article": "die"
+            },
+            {
+                "word": "Unterw\u00e4sche",
+                "article": "die"
+            },
+            {
+                "word": "Uroma",
+                "article": "die"
             }
         ]
     },
@@ -11405,6 +11525,68 @@
             },
             {
                 "word": "Turnier",
+                "article": "das"
+            }
+        ],
+        "U": [
+            {
+                "word": "Umgang",
+                "article": "der"
+            },
+            {
+                "word": "Umgangssprache",
+                "article": "die"
+            },
+            {
+                "word": "Umgebung",
+                "article": "die"
+            },
+            {
+                "word": "Umleitung",
+                "article": "die"
+            },
+            {
+                "word": "Umweltschutz",
+                "article": "der"
+            },
+            {
+                "word": "Umweltzerst\u00f6rung",
+                "article": "die"
+            },
+            {
+                "word": "Unikat",
+                "article": "das"
+            },
+            {
+                "word": "Union",
+                "article": "die"
+            },
+            {
+                "word": "Universit\u00e4tsstadt",
+                "article": "die"
+            },
+            {
+                "word": "Unterlage",
+                "article": "die"
+            },
+            {
+                "word": "Unternehmen",
+                "article": "das"
+            },
+            {
+                "word": "Unterst\u00fctzung",
+                "article": "die"
+            },
+            {
+                "word": "Urgro\u00dfvater",
+                "article": "der"
+            },
+            {
+                "word": "Ursache",
+                "article": "die"
+            },
+            {
+                "word": "Urteil",
                 "article": "das"
             }
         ]
@@ -17472,6 +17654,44 @@
             {
                 "word": "Tumult",
                 "article": "der"
+            }
+        ],
+        "U": [
+            {
+                "word": "Umfang",
+                "article": "der"
+            },
+            {
+                "word": "Umfeld",
+                "article": "das"
+            },
+            {
+                "word": "Umgangston",
+                "article": "der"
+            },
+            {
+                "word": "Umh\u00e4ngetasche",
+                "article": "die"
+            },
+            {
+                "word": "Umkreis",
+                "article": "der"
+            },
+            {
+                "word": "Umsatz",
+                "article": "der"
+            },
+            {
+                "word": "Umschreibung",
+                "article": "die"
+            },
+            {
+                "word": "Umschulung",
+                "article": "die"
+            },
+            {
+                "word": "Umsetzung",
+                "article": "die"
             }
         ]
     },
@@ -24050,6 +24270,40 @@
             {
                 "word": "Tutor",
                 "article": "der"
+            }
+        ],
+        "U": [
+            {
+                "word": "Ultraschall",
+                "article": "der"
+            },
+            {
+                "word": "Umbruch",
+                "article": "der"
+            },
+            {
+                "word": "Umgangsform",
+                "article": "die"
+            },
+            {
+                "word": "Umgestaltung",
+                "article": "die"
+            },
+            {
+                "word": "Umland",
+                "article": "das"
+            },
+            {
+                "word": "Umschlag",
+                "article": "der"
+            },
+            {
+                "word": "Umschwung",
+                "article": "der"
+            },
+            {
+                "word": "Umstellung",
+                "article": "die"
             }
         ]
     }
