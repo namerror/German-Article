@@ -3295,6 +3295,648 @@
                 "word": "Russisch",
                 "article": "das"
             }
+        ],
+        "S": [
+            {
+                "word": "Sache",
+                "article": "die"
+            },
+            {
+                "word": "Sachertorte",
+                "article": "die"
+            },
+            {
+                "word": "S\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Saft",
+                "article": "der"
+            },
+            {
+                "word": "Sahne",
+                "article": "die"
+            },
+            {
+                "word": "Saison",
+                "article": "die"
+            },
+            {
+                "word": "Salat",
+                "article": "der"
+            },
+            {
+                "word": "Salbe",
+                "article": "die"
+            },
+            {
+                "word": "Salz",
+                "article": "das"
+            },
+            {
+                "word": "Samstag",
+                "article": "der"
+            },
+            {
+                "word": "Samstagabend",
+                "article": "der"
+            },
+            {
+                "word": "Sand",
+                "article": "der"
+            },
+            {
+                "word": "Sandale",
+                "article": "die"
+            },
+            {
+                "word": "Satz",
+                "article": "der"
+            },
+            {
+                "word": "Saxophon",
+                "article": "das"
+            },
+            {
+                "word": "Schaffner",
+                "article": "der"
+            },
+            {
+                "word": "Schal",
+                "article": "der"
+            },
+            {
+                "word": "Schalter",
+                "article": "der"
+            },
+            {
+                "word": "Schatz",
+                "article": "der"
+            },
+            {
+                "word": "Schere",
+                "article": "die"
+            },
+            {
+                "word": "Scherz",
+                "article": "der"
+            },
+            {
+                "word": "Schiff",
+                "article": "das"
+            },
+            {
+                "word": "Schild",
+                "article": "der"
+            },
+            {
+                "word": "Schinken",
+                "article": "der"
+            },
+            {
+                "word": "Schlafsack",
+                "article": "der"
+            },
+            {
+                "word": "Schlaftablette",
+                "article": "die"
+            },
+            {
+                "word": "Schlafzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Schlitten",
+                "article": "der"
+            },
+            {
+                "word": "Schl\u00fcssel",
+                "article": "der"
+            },
+            {
+                "word": "Schluss",
+                "article": "der"
+            },
+            {
+                "word": "Schmerz",
+                "article": "der"
+            },
+            {
+                "word": "Schmerztablette",
+                "article": "die"
+            },
+            {
+                "word": "Schmuck",
+                "article": "der"
+            },
+            {
+                "word": "Schnee",
+                "article": "der"
+            },
+            {
+                "word": "Schnitzel",
+                "article": "das"
+            },
+            {
+                "word": "Schnupfen",
+                "article": "der"
+            },
+            {
+                "word": "Schokolade",
+                "article": "die"
+            },
+            {
+                "word": "Schokoladeneis",
+                "article": "das"
+            },
+            {
+                "word": "Schokoladenkuchen",
+                "article": "der"
+            },
+            {
+                "word": "Schrank",
+                "article": "der"
+            },
+            {
+                "word": "Schrei",
+                "article": "der"
+            },
+            {
+                "word": "Schreibtisch",
+                "article": "der"
+            },
+            {
+                "word": "Schreibwaren",
+                "article": "die"
+            },
+            {
+                "word": "Sch\u00fcler",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00fclerin",
+                "article": "die"
+            },
+            {
+                "word": "Schuh",
+                "article": "der"
+            },
+            {
+                "word": "Schuhladen",
+                "article": "der"
+            },
+            {
+                "word": "Schuldirektorin",
+                "article": "die"
+            },
+            {
+                "word": "Schule",
+                "article": "die"
+            },
+            {
+                "word": "Schulfach",
+                "article": "das"
+            },
+            {
+                "word": "Schulfest",
+                "article": "das"
+            },
+            {
+                "word": "Schulfreund",
+                "article": "der"
+            },
+            {
+                "word": "Schulhof",
+                "article": "der"
+            },
+            {
+                "word": "Schulklasse",
+                "article": "die"
+            },
+            {
+                "word": "Schultasche",
+                "article": "die"
+            },
+            {
+                "word": "Schulweg",
+                "article": "der"
+            },
+            {
+                "word": "Schweiz",
+                "article": "die"
+            },
+            {
+                "word": "Schwester",
+                "article": "die"
+            },
+            {
+                "word": "Schwimmbad",
+                "article": "das"
+            },
+            {
+                "word": "See",
+                "article": "die"
+            },
+            {
+                "word": "Segen",
+                "article": "der"
+            },
+            {
+                "word": "Sehensw\u00fcrdigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Seife",
+                "article": "die"
+            },
+            {
+                "word": "Seite",
+                "article": "die"
+            },
+            {
+                "word": "Sekret\u00e4r",
+                "article": "der"
+            },
+            {
+                "word": "Sekret\u00e4rin",
+                "article": "die"
+            },
+            {
+                "word": "Sekunde",
+                "article": "die"
+            },
+            {
+                "word": "Selbstbedienung",
+                "article": "die"
+            },
+            {
+                "word": "Seminar",
+                "article": "das"
+            },
+            {
+                "word": "September",
+                "article": "der"
+            },
+            {
+                "word": "Serie",
+                "article": "die"
+            },
+            {
+                "word": "Service",
+                "article": "der"
+            },
+            {
+                "word": "Serviette",
+                "article": "die"
+            },
+            {
+                "word": "Sessel",
+                "article": "der"
+            },
+            {
+                "word": "Shampoo",
+                "article": "das"
+            },
+            {
+                "word": "Shop",
+                "article": "der"
+            },
+            {
+                "word": "Shopping",
+                "article": "das"
+            },
+            {
+                "word": "Silbe",
+                "article": "die"
+            },
+            {
+                "word": "Silvester",
+                "article": "das"
+            },
+            {
+                "word": "Sinfonie",
+                "article": "die"
+            },
+            {
+                "word": "Situation",
+                "article": "die"
+            },
+            {
+                "word": "Skateboard",
+                "article": "das"
+            },
+            {
+                "word": "Ski",
+                "article": "der"
+            },
+            {
+                "word": "Skibrille",
+                "article": "die"
+            },
+            {
+                "word": "Skilehrer",
+                "article": "der"
+            },
+            {
+                "word": "Snowboard",
+                "article": "das"
+            },
+            {
+                "word": "Sofa",
+                "article": "das"
+            },
+            {
+                "word": "Sohn",
+                "article": "der"
+            },
+            {
+                "word": "Sommer",
+                "article": "der"
+            },
+            {
+                "word": "Sommerfest",
+                "article": "das"
+            },
+            {
+                "word": "Sommerurlaub",
+                "article": "der"
+            },
+            {
+                "word": "Song",
+                "article": "der"
+            },
+            {
+                "word": "Sonne",
+                "article": "die"
+            },
+            {
+                "word": "Sonnenbrille",
+                "article": "die"
+            },
+            {
+                "word": "Sonnencreme",
+                "article": "die"
+            },
+            {
+                "word": "Sonnenschein",
+                "article": "der"
+            },
+            {
+                "word": "Sonntag",
+                "article": "der"
+            },
+            {
+                "word": "Sonntagnachmittag",
+                "article": "der"
+            },
+            {
+                "word": "Souvenir",
+                "article": "das"
+            },
+            {
+                "word": "Spanisch",
+                "article": "das"
+            },
+            {
+                "word": "Spa\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Spaziergang",
+                "article": "der"
+            },
+            {
+                "word": "Speise",
+                "article": "die"
+            },
+            {
+                "word": "Speisekarte",
+                "article": "die"
+            },
+            {
+                "word": "Spezialist",
+                "article": "der"
+            },
+            {
+                "word": "Spezialit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Spiel",
+                "article": "das"
+            },
+            {
+                "word": "Spielfigur",
+                "article": "die"
+            },
+            {
+                "word": "Spielplatz",
+                "article": "der"
+            },
+            {
+                "word": "Spielwaren",
+                "article": "die"
+            },
+            {
+                "word": "Sport",
+                "article": "der"
+            },
+            {
+                "word": "Sportartikel",
+                "article": "der"
+            },
+            {
+                "word": "Sportclub",
+                "article": "der"
+            },
+            {
+                "word": "Sporthalle",
+                "article": "die"
+            },
+            {
+                "word": "Sportkleidung",
+                "article": "die"
+            },
+            {
+                "word": "Sportlehrer",
+                "article": "der"
+            },
+            {
+                "word": "Sportler",
+                "article": "der"
+            },
+            {
+                "word": "Sportlerin",
+                "article": "die"
+            },
+            {
+                "word": "Sportplatz",
+                "article": "der"
+            },
+            {
+                "word": "Sportschuh",
+                "article": "der"
+            },
+            {
+                "word": "Sportverein",
+                "article": "der"
+            },
+            {
+                "word": "Sprache",
+                "article": "die"
+            },
+            {
+                "word": "Sprachkurs",
+                "article": "der"
+            },
+            {
+                "word": "Sprachschule",
+                "article": "die"
+            },
+            {
+                "word": "Sp\u00fclmaschine",
+                "article": "die"
+            },
+            {
+                "word": "Stadt",
+                "article": "die"
+            },
+            {
+                "word": "Stadtpark",
+                "article": "der"
+            },
+            {
+                "word": "Stadtplan",
+                "article": "der"
+            },
+            {
+                "word": "Star",
+                "article": "der"
+            },
+            {
+                "word": "Start",
+                "article": "der"
+            },
+            {
+                "word": "Statistik",
+                "article": "die"
+            },
+            {
+                "word": "Steckbrief",
+                "article": "der"
+            },
+            {
+                "word": "Stelle",
+                "article": "die"
+            },
+            {
+                "word": "Stiefel",
+                "article": "der"
+            },
+            {
+                "word": "Stift",
+                "article": "das"
+            },
+            {
+                "word": "Stock",
+                "article": "der"
+            },
+            {
+                "word": "Stollen",
+                "article": "der"
+            },
+            {
+                "word": "Stra\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Stra\u00dfenbahn",
+                "article": "die"
+            },
+            {
+                "word": "Strau\u00dfwirtschaft",
+                "article": "die"
+            },
+            {
+                "word": "Stress",
+                "article": "der"
+            },
+            {
+                "word": "Strumpf",
+                "article": "der"
+            },
+            {
+                "word": "Student",
+                "article": "der"
+            },
+            {
+                "word": "Studentin",
+                "article": "die"
+            },
+            {
+                "word": "Studio",
+                "article": "das"
+            },
+            {
+                "word": "Studium",
+                "article": "das"
+            },
+            {
+                "word": "St\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Stufe",
+                "article": "die"
+            },
+            {
+                "word": "Stuhl",
+                "article": "der"
+            },
+            {
+                "word": "Stunde",
+                "article": "die"
+            },
+            {
+                "word": "Suaheli",
+                "article": "der"
+            },
+            {
+                "word": "S\u00fcden",
+                "article": "der"
+            },
+            {
+                "word": "S\u00fc\u00dfigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Supermarkt",
+                "article": "der"
+            },
+            {
+                "word": "Suppe",
+                "article": "die"
+            },
+            {
+                "word": "Suppenhuhn",
+                "article": "das"
+            },
+            {
+                "word": "Sushi",
+                "article": "das"
+            },
+            {
+                "word": "Sweatshirt",
+                "article": "das"
+            },
+            {
+                "word": "Symbol",
+                "article": "das"
+            },
+            {
+                "word": "Symphoniker",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -5828,6 +6470,416 @@
             {
                 "word": "Rundgang",
                 "article": "der"
+            }
+        ],
+        "S": [
+            {
+                "word": "S\u00e4ngerin",
+                "article": "die"
+            },
+            {
+                "word": "Sattel",
+                "article": "der"
+            },
+            {
+                "word": "Schauspieler",
+                "article": "der"
+            },
+            {
+                "word": "Schauspielerin",
+                "article": "die"
+            },
+            {
+                "word": "Schildkr\u00f6te",
+                "article": "die"
+            },
+            {
+                "word": "Schirm",
+                "article": "der"
+            },
+            {
+                "word": "Schlaf",
+                "article": "der"
+            },
+            {
+                "word": "Schlange",
+                "article": "die"
+            },
+            {
+                "word": "Schloss",
+                "article": "das"
+            },
+            {
+                "word": "Schl\u00fcsselkind",
+                "article": "das"
+            },
+            {
+                "word": "Schl\u00fcsselwort",
+                "article": "das"
+            },
+            {
+                "word": "Schmuckst\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Schneeschuh",
+                "article": "der"
+            },
+            {
+                "word": "Schreck",
+                "article": "der"
+            },
+            {
+                "word": "Schriftsteller",
+                "article": "der"
+            },
+            {
+                "word": "Schriftstellerin",
+                "article": "die"
+            },
+            {
+                "word": "Schritt",
+                "article": "der"
+            },
+            {
+                "word": "Schulabschluss",
+                "article": "der"
+            },
+            {
+                "word": "Schuljahr",
+                "article": "das"
+            },
+            {
+                "word": "Schulkind",
+                "article": "das"
+            },
+            {
+                "word": "Schulsystem",
+                "article": "das"
+            },
+            {
+                "word": "Schultag",
+                "article": "der"
+            },
+            {
+                "word": "Schult\u00fcte",
+                "article": "die"
+            },
+            {
+                "word": "Schuluniform",
+                "article": "die"
+            },
+            {
+                "word": "Schulzeit",
+                "article": "die"
+            },
+            {
+                "word": "Schwan",
+                "article": "der"
+            },
+            {
+                "word": "Schwarzbrot",
+                "article": "das"
+            },
+            {
+                "word": "Schwein",
+                "article": "das"
+            },
+            {
+                "word": "Schweinchen",
+                "article": "das"
+            },
+            {
+                "word": "Schweizer",
+                "article": "der"
+            },
+            {
+                "word": "Schweizerdeutsch",
+                "article": "das"
+            },
+            {
+                "word": "Schweizerin",
+                "article": "die"
+            },
+            {
+                "word": "Segelregatta",
+                "article": "die"
+            },
+            {
+                "word": "Segelschiff",
+                "article": "das"
+            },
+            {
+                "word": "Sehnsucht",
+                "article": "die"
+            },
+            {
+                "word": "Sekretariat",
+                "article": "das"
+            },
+            {
+                "word": "Selbstausl\u00f6ser",
+                "article": "der"
+            },
+            {
+                "word": "Semester",
+                "article": "das"
+            },
+            {
+                "word": "Sendung",
+                "article": "die"
+            },
+            {
+                "word": "Senior",
+                "article": "der"
+            },
+            {
+                "word": "Seniorin",
+                "article": "die"
+            },
+            {
+                "word": "Servicekraft",
+                "article": "die"
+            },
+            {
+                "word": "Show",
+                "article": "die"
+            },
+            {
+                "word": "Sicherheit",
+                "article": "die"
+            },
+            {
+                "word": "Sieb",
+                "article": "das"
+            },
+            {
+                "word": "Sieg",
+                "article": "der"
+            },
+            {
+                "word": "Sinn",
+                "article": "der"
+            },
+            {
+                "word": "Sitzplatz",
+                "article": "der"
+            },
+            {
+                "word": "Skifahren",
+                "article": "das"
+            },
+            {
+                "word": "Slowakei",
+                "article": "die"
+            },
+            {
+                "word": "Snack",
+                "article": "der"
+            },
+            {
+                "word": "Socke",
+                "article": "die"
+            },
+            {
+                "word": "Solist",
+                "article": "der"
+            },
+            {
+                "word": "Sorge",
+                "article": "die"
+            },
+            {
+                "word": "Sorte",
+                "article": "die"
+            },
+            {
+                "word": "So\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Sparer",
+                "article": "der"
+            },
+            {
+                "word": "Sparerin",
+                "article": "die"
+            },
+            {
+                "word": "Sparkonto",
+                "article": "das"
+            },
+            {
+                "word": "Speicher",
+                "article": "der"
+            },
+            {
+                "word": "Spiegel",
+                "article": "der"
+            },
+            {
+                "word": "Spiegelbild",
+                "article": "das"
+            },
+            {
+                "word": "Spielbeginn",
+                "article": "der"
+            },
+            {
+                "word": "Spieler",
+                "article": "der"
+            },
+            {
+                "word": "Sportart",
+                "article": "die"
+            },
+            {
+                "word": "Sportlehrerin",
+                "article": "die"
+            },
+            {
+                "word": "Sportstunde",
+                "article": "die"
+            },
+            {
+                "word": "Sprachenschule",
+                "article": "die"
+            },
+            {
+                "word": "Sprecher",
+                "article": "der"
+            },
+            {
+                "word": "Sprechstunde",
+                "article": "die"
+            },
+            {
+                "word": "Sprichwort",
+                "article": "das"
+            },
+            {
+                "word": "Spritze",
+                "article": "die"
+            },
+            {
+                "word": "Spruch",
+                "article": "der"
+            },
+            {
+                "word": "Sprung",
+                "article": "der"
+            },
+            {
+                "word": "Stadion",
+                "article": "das"
+            },
+            {
+                "word": "Stadtrand",
+                "article": "der"
+            },
+            {
+                "word": "Stall",
+                "article": "der"
+            },
+            {
+                "word": "Standesamt",
+                "article": "das"
+            },
+            {
+                "word": "Stapel",
+                "article": "der"
+            },
+            {
+                "word": "Station",
+                "article": "die"
+            },
+            {
+                "word": "Stau",
+                "article": "der"
+            },
+            {
+                "word": "Stehplatz",
+                "article": "der"
+            },
+            {
+                "word": "Stein",
+                "article": "der"
+            },
+            {
+                "word": "Stern",
+                "article": "der"
+            },
+            {
+                "word": "Stichpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Stichwort",
+                "article": "das"
+            },
+            {
+                "word": "Stil",
+                "article": "der"
+            },
+            {
+                "word": "Stille",
+                "article": "die"
+            },
+            {
+                "word": "Stimme",
+                "article": "die"
+            },
+            {
+                "word": "Stimmung",
+                "article": "die"
+            },
+            {
+                "word": "Stipendium",
+                "article": "das"
+            },
+            {
+                "word": "Stockwerk",
+                "article": "das"
+            },
+            {
+                "word": "Stoff",
+                "article": "der"
+            },
+            {
+                "word": "Storch",
+                "article": "der"
+            },
+            {
+                "word": "Strand",
+                "article": "der"
+            },
+            {
+                "word": "Stra\u00dfenfest",
+                "article": "das"
+            },
+            {
+                "word": "Strecke",
+                "article": "die"
+            },
+            {
+                "word": "Streit",
+                "article": "der"
+            },
+            {
+                "word": "Strom",
+                "article": "der"
+            },
+            {
+                "word": "Strumpfhose",
+                "article": "die"
+            },
+            {
+                "word": "Stundenplan",
+                "article": "der"
+            },
+            {
+                "word": "Szene",
+                "article": "die"
             }
         ]
     },
@@ -9078,6 +10130,600 @@
             {
                 "word": "Rundfunk",
                 "article": "der"
+            }
+        ],
+        "S": [
+            {
+                "word": "Saal",
+                "article": "der"
+            },
+            {
+                "word": "Sack",
+                "article": "der"
+            },
+            {
+                "word": "Salon",
+                "article": "der"
+            },
+            {
+                "word": "Salsa",
+                "article": "der"
+            },
+            {
+                "word": "Sammlung",
+                "article": "die"
+            },
+            {
+                "word": "Sandstrand",
+                "article": "der"
+            },
+            {
+                "word": "Sandwich",
+                "article": "das"
+            },
+            {
+                "word": "Schachtel",
+                "article": "die"
+            },
+            {
+                "word": "Schaden",
+                "article": "der"
+            },
+            {
+                "word": "Schaf",
+                "article": "das"
+            },
+            {
+                "word": "Schale",
+                "article": "die"
+            },
+            {
+                "word": "Schallplatte",
+                "article": "die"
+            },
+            {
+                "word": "Schatten",
+                "article": "der"
+            },
+            {
+                "word": "Schaufenster",
+                "article": "das"
+            },
+            {
+                "word": "Schauspielschule",
+                "article": "die"
+            },
+            {
+                "word": "Scheibe",
+                "article": "die"
+            },
+            {
+                "word": "Scheidung",
+                "article": "die"
+            },
+            {
+                "word": "Schein",
+                "article": "der"
+            },
+            {
+                "word": "Scheinwerfer",
+                "article": "der"
+            },
+            {
+                "word": "Schicht",
+                "article": "die"
+            },
+            {
+                "word": "Schicksal",
+                "article": "das"
+            },
+            {
+                "word": "Schiedsrichter",
+                "article": "der"
+            },
+            {
+                "word": "Schimpanse",
+                "article": "der"
+            },
+            {
+                "word": "Schlachthof",
+                "article": "der"
+            },
+            {
+                "word": "Schlafanzug",
+                "article": "der"
+            },
+            {
+                "word": "Schlager",
+                "article": "der"
+            },
+            {
+                "word": "Schlagzeug",
+                "article": "das"
+            },
+            {
+                "word": "Schlie\u00dffach",
+                "article": "das"
+            },
+            {
+                "word": "Schl\u00fcsselanh\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Schmerzmittel",
+                "article": "das"
+            },
+            {
+                "word": "Schmetterling",
+                "article": "der"
+            },
+            {
+                "word": "Schminke",
+                "article": "die"
+            },
+            {
+                "word": "Schmutz",
+                "article": "der"
+            },
+            {
+                "word": "Schnabel",
+                "article": "der"
+            },
+            {
+                "word": "Schn\u00e4ppchen",
+                "article": "das"
+            },
+            {
+                "word": "Schneider",
+                "article": "der"
+            },
+            {
+                "word": "Schock",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00f6nheit",
+                "article": "die"
+            },
+            {
+                "word": "Schranke",
+                "article": "die"
+            },
+            {
+                "word": "Schrecken",
+                "article": "der"
+            },
+            {
+                "word": "Schreiben",
+                "article": "das"
+            },
+            {
+                "word": "Schreibfeder",
+                "article": "die"
+            },
+            {
+                "word": "Schreibmaterial",
+                "article": "das"
+            },
+            {
+                "word": "Schrift",
+                "article": "die"
+            },
+            {
+                "word": "Schublade",
+                "article": "die"
+            },
+            {
+                "word": "Sch\u00fclerzeitung",
+                "article": "die"
+            },
+            {
+                "word": "Sch\u00fctze",
+                "article": "der"
+            },
+            {
+                "word": "Schulbesuch",
+                "article": "der"
+            },
+            {
+                "word": "Schulbildung",
+                "article": "die"
+            },
+            {
+                "word": "Schuld",
+                "article": "die"
+            },
+            {
+                "word": "Schulform",
+                "article": "die"
+            },
+            {
+                "word": "Schulter",
+                "article": "die"
+            },
+            {
+                "word": "Schulwechsel",
+                "article": "der"
+            },
+            {
+                "word": "Schutz",
+                "article": "der"
+            },
+            {
+                "word": "Schw\u00e4che",
+                "article": "die"
+            },
+            {
+                "word": "Schwangerschaft",
+                "article": "die"
+            },
+            {
+                "word": "Schweinebraten",
+                "article": "der"
+            },
+            {
+                "word": "Schwerpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Schwierigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Seemann",
+                "article": "der"
+            },
+            {
+                "word": "Sektflasche",
+                "article": "die"
+            },
+            {
+                "word": "Selbsthilfe",
+                "article": "die"
+            },
+            {
+                "word": "Sender",
+                "article": "der"
+            },
+            {
+                "word": "Sensation",
+                "article": "die"
+            },
+            {
+                "word": "Sicherheitsgurt",
+                "article": "der"
+            },
+            {
+                "word": "Sicherheitskontrolle",
+                "article": "die"
+            },
+            {
+                "word": "Siedlung",
+                "article": "die"
+            },
+            {
+                "word": "Sieger",
+                "article": "der"
+            },
+            {
+                "word": "Siesta",
+                "article": "die"
+            },
+            {
+                "word": "Sims",
+                "article": "der"
+            },
+            {
+                "word": "Single",
+                "article": "das"
+            },
+            {
+                "word": "Sitz",
+                "article": "der"
+            },
+            {
+                "word": "Sitzreihe",
+                "article": "die"
+            },
+            {
+                "word": "Skater",
+                "article": "der"
+            },
+            {
+                "word": "Skikurs",
+                "article": "der"
+            },
+            {
+                "word": "Skipass",
+                "article": "der"
+            },
+            {
+                "word": "Skiurlaub",
+                "article": "der"
+            },
+            {
+                "word": "Skorpion",
+                "article": "der"
+            },
+            {
+                "word": "Slogan",
+                "article": "der"
+            },
+            {
+                "word": "Software",
+                "article": "die"
+            },
+            {
+                "word": "Soldat",
+                "article": "der"
+            },
+            {
+                "word": "Sonderangebot",
+                "article": "das"
+            },
+            {
+                "word": "Sonnenaufgang",
+                "article": "der"
+            },
+            {
+                "word": "Sozialamt",
+                "article": "das"
+            },
+            {
+                "word": "Sozialarbeiter",
+                "article": "der"
+            },
+            {
+                "word": "Sozialhilfe",
+                "article": "die"
+            },
+            {
+                "word": "Spalte",
+                "article": "die"
+            },
+            {
+                "word": "Speisewagen",
+                "article": "der"
+            },
+            {
+                "word": "Spendenaktion",
+                "article": "die"
+            },
+            {
+                "word": "Sperrm\u00fcll",
+                "article": "der"
+            },
+            {
+                "word": "Spielgeld",
+                "article": "das"
+            },
+            {
+                "word": "Spielzeug",
+                "article": "das"
+            },
+            {
+                "word": "Spinner",
+                "article": "der"
+            },
+            {
+                "word": "Sponsor",
+                "article": "der"
+            },
+            {
+                "word": "Sprachgrenze",
+                "article": "die"
+            },
+            {
+                "word": "Sprachkenntnisse",
+                "article": "die"
+            },
+            {
+                "word": "Sprachtest",
+                "article": "der"
+            },
+            {
+                "word": "Spraydose",
+                "article": "die"
+            },
+            {
+                "word": "Spur",
+                "article": "die"
+            },
+            {
+                "word": "Staat",
+                "article": "der"
+            },
+            {
+                "word": "Staatsangeh\u00f6rigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Stadtf\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "Stadtmauer",
+                "article": "die"
+            },
+            {
+                "word": "Stadtmensch",
+                "article": "der"
+            },
+            {
+                "word": "Stadtrundfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Stadtteil",
+                "article": "der"
+            },
+            {
+                "word": "Stadtzentrum",
+                "article": "das"
+            },
+            {
+                "word": "St\u00e4rkemehl",
+                "article": "das"
+            },
+            {
+                "word": "Stand",
+                "article": "der"
+            },
+            {
+                "word": "Standpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Statue",
+                "article": "die"
+            },
+            {
+                "word": "Staub",
+                "article": "der"
+            },
+            {
+                "word": "Steak",
+                "article": "das"
+            },
+            {
+                "word": "Steckdose",
+                "article": "die"
+            },
+            {
+                "word": "Stecker",
+                "article": "der"
+            },
+            {
+                "word": "Steinbock",
+                "article": "der"
+            },
+            {
+                "word": "Stellung",
+                "article": "die"
+            },
+            {
+                "word": "Stempel",
+                "article": "der"
+            },
+            {
+                "word": "Sternzeichen",
+                "article": "das"
+            },
+            {
+                "word": "Steuer",
+                "article": "das"
+            },
+            {
+                "word": "Stiege",
+                "article": "die"
+            },
+            {
+                "word": "Stier",
+                "article": "der"
+            },
+            {
+                "word": "Stirn",
+                "article": "die"
+            },
+            {
+                "word": "St\u00f6rung",
+                "article": "die"
+            },
+            {
+                "word": "Stofftasche",
+                "article": "die"
+            },
+            {
+                "word": "Stopp",
+                "article": "der"
+            },
+            {
+                "word": "Strafe",
+                "article": "die"
+            },
+            {
+                "word": "Stra\u00dfenlaterne",
+                "article": "die"
+            },
+            {
+                "word": "Stra\u00dfenseite",
+                "article": "die"
+            },
+            {
+                "word": "Strategie",
+                "article": "die"
+            },
+            {
+                "word": "Strategiespiel",
+                "article": "das"
+            },
+            {
+                "word": "Strauch",
+                "article": "der"
+            },
+            {
+                "word": "Streichholz",
+                "article": "das"
+            },
+            {
+                "word": "Streifen",
+                "article": "der"
+            },
+            {
+                "word": "Streik",
+                "article": "der"
+            },
+            {
+                "word": "Streiterei",
+                "article": "die"
+            },
+            {
+                "word": "Streitgespr\u00e4ch",
+                "article": "das"
+            },
+            {
+                "word": "Struktur",
+                "article": "die"
+            },
+            {
+                "word": "Studie",
+                "article": "die"
+            },
+            {
+                "word": "Studienplatz",
+                "article": "der"
+            },
+            {
+                "word": "Studienzeit",
+                "article": "die"
+            },
+            {
+                "word": "Stundenlohn",
+                "article": "der"
+            },
+            {
+                "word": "Sturm",
+                "article": "der"
+            },
+            {
+                "word": "Substantiv",
+                "article": "das"
+            },
+            {
+                "word": "S\u00fcd",
+                "article": "der"
+            },
+            {
+                "word": "S\u00fc\u00dfstoff",
+                "article": "der"
+            },
+            {
+                "word": "Synchronsprecher",
+                "article": "der"
+            },
+            {
+                "word": "System",
+                "article": "das"
             }
         ]
     },
@@ -14228,6 +15874,704 @@
             {
                 "word": "Rundung",
                 "article": "die"
+            }
+        ],
+        "S": [
+            {
+                "word": "Sachbearbeiter",
+                "article": "der"
+            },
+            {
+                "word": "Sachbearbeiterin",
+                "article": "die"
+            },
+            {
+                "word": "Sachbesch\u00e4digung",
+                "article": "die"
+            },
+            {
+                "word": "Sachverhalt",
+                "article": "der"
+            },
+            {
+                "word": "S\u00e4ge",
+                "article": "die"
+            },
+            {
+                "word": "S\u00e4uglingssterblichkeit",
+                "article": "die"
+            },
+            {
+                "word": "S\u00e4ulendiagramm",
+                "article": "das"
+            },
+            {
+                "word": "Sammelsurium",
+                "article": "das"
+            },
+            {
+                "word": "Satiriker",
+                "article": "der"
+            },
+            {
+                "word": "Satirikerin",
+                "article": "die"
+            },
+            {
+                "word": "Sauerstoff",
+                "article": "der"
+            },
+            {
+                "word": "Sauna",
+                "article": "die"
+            },
+            {
+                "word": "Sch\u00e4tzung",
+                "article": "die"
+            },
+            {
+                "word": "Schaffnerin",
+                "article": "die"
+            },
+            {
+                "word": "Scham",
+                "article": "die"
+            },
+            {
+                "word": "Scharlatan",
+                "article": "der"
+            },
+            {
+                "word": "Schaubild",
+                "article": "das"
+            },
+            {
+                "word": "Schauplatz",
+                "article": "der"
+            },
+            {
+                "word": "Scheinehe",
+                "article": "die"
+            },
+            {
+                "word": "Schema",
+                "article": "das"
+            },
+            {
+                "word": "Scheu",
+                "article": "die"
+            },
+            {
+                "word": "Schicksalsschlag",
+                "article": "der"
+            },
+            {
+                "word": "Schl\u00e4fchen",
+                "article": "das"
+            },
+            {
+                "word": "Schl\u00e4fe",
+                "article": "die"
+            },
+            {
+                "word": "Schlaflosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Schlafraum",
+                "article": "der"
+            },
+            {
+                "word": "Schlag",
+                "article": "der"
+            },
+            {
+                "word": "Schlaganfall",
+                "article": "der"
+            },
+            {
+                "word": "Schlagfertigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Schlagwort",
+                "article": "das"
+            },
+            {
+                "word": "Schlagzeuger",
+                "article": "der"
+            },
+            {
+                "word": "Schlagzeugerin",
+                "article": "die"
+            },
+            {
+                "word": "Schlauheit",
+                "article": "die"
+            },
+            {
+                "word": "Schlichtheit",
+                "article": "die"
+            },
+            {
+                "word": "Schlie\u00dfung",
+                "article": "die"
+            },
+            {
+                "word": "Schlie\u00dfzylinder",
+                "article": "der"
+            },
+            {
+                "word": "Schlossgarten",
+                "article": "der"
+            },
+            {
+                "word": "Schlussformel",
+                "article": "die"
+            },
+            {
+                "word": "Schmied",
+                "article": "der"
+            },
+            {
+                "word": "Schmiedin",
+                "article": "die"
+            },
+            {
+                "word": "Schneeball",
+                "article": "der"
+            },
+            {
+                "word": "Schneefall",
+                "article": "der"
+            },
+            {
+                "word": "Schneiderin",
+                "article": "die"
+            },
+            {
+                "word": "Schnelligkeit",
+                "article": "die"
+            },
+            {
+                "word": "Schnickschnack",
+                "article": "der"
+            },
+            {
+                "word": "Schnitt",
+                "article": "der"
+            },
+            {
+                "word": "Schnulze",
+                "article": "die"
+            },
+            {
+                "word": "Sch\u00f6nheitsideal",
+                "article": "das"
+            },
+            {
+                "word": "Sch\u00f6nheitswahn",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00f6nheitswettbewerb",
+                "article": "der"
+            },
+            {
+                "word": "Schonkost",
+                "article": "die"
+            },
+            {
+                "word": "Schreinerei",
+                "article": "die"
+            },
+            {
+                "word": "Schriftzeichen",
+                "article": "das"
+            },
+            {
+                "word": "Schrott",
+                "article": "der"
+            },
+            {
+                "word": "Schuhabdruck",
+                "article": "der"
+            },
+            {
+                "word": "Schulpflicht",
+                "article": "die"
+            },
+            {
+                "word": "Schutzma\u00dfnahme",
+                "article": "die"
+            },
+            {
+                "word": "Schw\u00e4gerin",
+                "article": "die"
+            },
+            {
+                "word": "Schwager",
+                "article": "der"
+            },
+            {
+                "word": "Schwankung",
+                "article": "die"
+            },
+            {
+                "word": "Schwanz",
+                "article": "der"
+            },
+            {
+                "word": "Schwarm",
+                "article": "der"
+            },
+            {
+                "word": "Schweinehund",
+                "article": "der"
+            },
+            {
+                "word": "Schwiegermutter",
+                "article": "die"
+            },
+            {
+                "word": "Schwimmer",
+                "article": "der"
+            },
+            {
+                "word": "Schwimmerin",
+                "article": "die"
+            },
+            {
+                "word": "Seele",
+                "article": "die"
+            },
+            {
+                "word": "Seestern",
+                "article": "der"
+            },
+            {
+                "word": "Segeltuch",
+                "article": "das"
+            },
+            {
+                "word": "Selbstbedienungsrestaurant",
+                "article": "das"
+            },
+            {
+                "word": "Selbstbeherrschung",
+                "article": "die"
+            },
+            {
+                "word": "Selbstbewusstsein",
+                "article": "das"
+            },
+            {
+                "word": "Selbstdarstellung",
+                "article": "die"
+            },
+            {
+                "word": "Selbsthilfegruppe",
+                "article": "die"
+            },
+            {
+                "word": "Selbstmord",
+                "article": "der"
+            },
+            {
+                "word": "Selbstreflexion",
+                "article": "die"
+            },
+            {
+                "word": "Selbstst\u00e4ndigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Selbstverst\u00e4ndnis",
+                "article": "das"
+            },
+            {
+                "word": "Selbstzweifel",
+                "article": "der"
+            },
+            {
+                "word": "Sicherheitsleistung",
+                "article": "die"
+            },
+            {
+                "word": "Sicht",
+                "article": "die"
+            },
+            {
+                "word": "Sichtweise",
+                "article": "die"
+            },
+            {
+                "word": "Signal",
+                "article": "das"
+            },
+            {
+                "word": "Silber",
+                "article": "das"
+            },
+            {
+                "word": "Sitzung",
+                "article": "die"
+            },
+            {
+                "word": "Skepsis",
+                "article": "die"
+            },
+            {
+                "word": "Skulptur",
+                "article": "die"
+            },
+            {
+                "word": "Songwriter",
+                "article": "der"
+            },
+            {
+                "word": "Sonnenfinsternis",
+                "article": "die"
+            },
+            {
+                "word": "Sonnenlicht",
+                "article": "das"
+            },
+            {
+                "word": "Sound",
+                "article": "der"
+            },
+            {
+                "word": "Sozialwissenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Soziologe",
+                "article": "der"
+            },
+            {
+                "word": "Spannung",
+                "article": "die"
+            },
+            {
+                "word": "Speck",
+                "article": "der"
+            },
+            {
+                "word": "Spektrum",
+                "article": "das"
+            },
+            {
+                "word": "Spende",
+                "article": "die"
+            },
+            {
+                "word": "Spezies",
+                "article": "die"
+            },
+            {
+                "word": "Spielfilm",
+                "article": "der"
+            },
+            {
+                "word": "Spielraum",
+                "article": "der"
+            },
+            {
+                "word": "Spielregel",
+                "article": "die"
+            },
+            {
+                "word": "Spitzenmanager",
+                "article": "der"
+            },
+            {
+                "word": "Spitzenreiter",
+                "article": "der"
+            },
+            {
+                "word": "Sponsorin",
+                "article": "die"
+            },
+            {
+                "word": "Sportereignis",
+                "article": "das"
+            },
+            {
+                "word": "Spott",
+                "article": "der"
+            },
+            {
+                "word": "Sprachenpolitik",
+                "article": "die"
+            },
+            {
+                "word": "Sprachentwicklung",
+                "article": "die"
+            },
+            {
+                "word": "Sprachenvielfalt",
+                "article": "die"
+            },
+            {
+                "word": "Sprachforscher",
+                "article": "der"
+            },
+            {
+                "word": "Sprachforscherin",
+                "article": "die"
+            },
+            {
+                "word": "Sprachgebiet",
+                "article": "das"
+            },
+            {
+                "word": "Sprachkompetenz",
+                "article": "die"
+            },
+            {
+                "word": "Sprachregion",
+                "article": "die"
+            },
+            {
+                "word": "Sprachschatz",
+                "article": "der"
+            },
+            {
+                "word": "Sprachst\u00f6rung",
+                "article": "die"
+            },
+            {
+                "word": "Sprachwissenschaftler",
+                "article": "der"
+            },
+            {
+                "word": "Sprachwissenschaftlerin",
+                "article": "die"
+            },
+            {
+                "word": "Sprechgeschwindigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Staatsbesuch",
+                "article": "der"
+            },
+            {
+                "word": "Staatschef",
+                "article": "der"
+            },
+            {
+                "word": "Staatschefin",
+                "article": "die"
+            },
+            {
+                "word": "Staatsfeiertag",
+                "article": "der"
+            },
+            {
+                "word": "Stabilisierung",
+                "article": "die"
+            },
+            {
+                "word": "Stadtbibliothek",
+                "article": "die"
+            },
+            {
+                "word": "Stadtverwaltung",
+                "article": "die"
+            },
+            {
+                "word": "Stamm",
+                "article": "der"
+            },
+            {
+                "word": "Stammgast",
+                "article": "der"
+            },
+            {
+                "word": "Stammtisch",
+                "article": "der"
+            },
+            {
+                "word": "Standort",
+                "article": "der"
+            },
+            {
+                "word": "Stange",
+                "article": "die"
+            },
+            {
+                "word": "Statut",
+                "article": "das"
+            },
+            {
+                "word": "Staubf\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Staubschicht",
+                "article": "die"
+            },
+            {
+                "word": "Stellenausschreibung",
+                "article": "die"
+            },
+            {
+                "word": "Stellengesuch",
+                "article": "das"
+            },
+            {
+                "word": "Stellenwechsel",
+                "article": "der"
+            },
+            {
+                "word": "Stellenwert",
+                "article": "der"
+            },
+            {
+                "word": "Stellungnahme",
+                "article": "die"
+            },
+            {
+                "word": "Stellvertreter",
+                "article": "der"
+            },
+            {
+                "word": "Stellvertreterin",
+                "article": "die"
+            },
+            {
+                "word": "Stellwand",
+                "article": "die"
+            },
+            {
+                "word": "Steuerung",
+                "article": "die"
+            },
+            {
+                "word": "Stewardess",
+                "article": "die"
+            },
+            {
+                "word": "Stich",
+                "article": "der"
+            },
+            {
+                "word": "Stiefvater",
+                "article": "der"
+            },
+            {
+                "word": "Stilebene",
+                "article": "die"
+            },
+            {
+                "word": "Stimmlage",
+                "article": "die"
+            },
+            {
+                "word": "Stoffwechsel",
+                "article": "der"
+            },
+            {
+                "word": "Stolz",
+                "article": "der"
+            },
+            {
+                "word": "Straftat",
+                "article": "die"
+            },
+            {
+                "word": "Strahl",
+                "article": "der"
+            },
+            {
+                "word": "Strandkorb",
+                "article": "der"
+            },
+            {
+                "word": "Strandurlaub",
+                "article": "der"
+            },
+            {
+                "word": "Strau\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Streber",
+                "article": "der"
+            },
+            {
+                "word": "Streitigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Strenge",
+                "article": "die"
+            },
+            {
+                "word": "Str\u00f6mung",
+                "article": "die"
+            },
+            {
+                "word": "Stromleitung",
+                "article": "die"
+            },
+            {
+                "word": "Strophe",
+                "article": "die"
+            },
+            {
+                "word": "Stubenarrest",
+                "article": "der"
+            },
+            {
+                "word": "Studentenwohnheim",
+                "article": "das"
+            },
+            {
+                "word": "Studienabschluss",
+                "article": "der"
+            },
+            {
+                "word": "Studienfach",
+                "article": "das"
+            },
+            {
+                "word": "Stummfilm",
+                "article": "der"
+            },
+            {
+                "word": "Stuntfrau",
+                "article": "die"
+            },
+            {
+                "word": "Stuntman",
+                "article": "der"
+            },
+            {
+                "word": "Sucht",
+                "article": "die"
+            },
+            {
+                "word": "Suite",
+                "article": "die"
+            },
+            {
+                "word": "Summe",
+                "article": "die"
+            },
+            {
+                "word": "Sympathie",
+                "article": "die"
+            },
+            {
+                "word": "Symptom",
+                "article": "das"
+            },
+            {
+                "word": "Synonym",
+                "article": "das"
             }
         ]
     },
@@ -19578,6 +21922,988 @@
             {
                 "word": "Rundschau",
                 "article": "die"
+            }
+        ],
+        "S": [
+            {
+                "word": "Sabbatical",
+                "article": "das"
+            },
+            {
+                "word": "Sachleistung",
+                "article": "die"
+            },
+            {
+                "word": "S\u00e4ttigung",
+                "article": "die"
+            },
+            {
+                "word": "S\u00e4ule",
+                "article": "die"
+            },
+            {
+                "word": "Safe",
+                "article": "das"
+            },
+            {
+                "word": "Sakrileg",
+                "article": "das"
+            },
+            {
+                "word": "Salmonelle",
+                "article": "die"
+            },
+            {
+                "word": "Salzl\u00f6sung",
+                "article": "die"
+            },
+            {
+                "word": "Samt",
+                "article": "der"
+            },
+            {
+                "word": "Sandpapier",
+                "article": "das"
+            },
+            {
+                "word": "Satellit",
+                "article": "der"
+            },
+            {
+                "word": "Satin",
+                "article": "der"
+            },
+            {
+                "word": "Satire",
+                "article": "die"
+            },
+            {
+                "word": "Satzung",
+                "article": "die"
+            },
+            {
+                "word": "Sauger",
+                "article": "der"
+            },
+            {
+                "word": "Scanner",
+                "article": "der"
+            },
+            {
+                "word": "Schachspiel",
+                "article": "das"
+            },
+            {
+                "word": "Schachspieler",
+                "article": "der"
+            },
+            {
+                "word": "Schacht",
+                "article": "der"
+            },
+            {
+                "word": "Schadenfreude",
+                "article": "die"
+            },
+            {
+                "word": "Schadensersatz",
+                "article": "der"
+            },
+            {
+                "word": "Schadstoff",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00e4del",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00e4ferhund",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00e4lchen",
+                "article": "das"
+            },
+            {
+                "word": "Schaffung",
+                "article": "die"
+            },
+            {
+                "word": "Schall",
+                "article": "der"
+            },
+            {
+                "word": "Schamgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Schande",
+                "article": "die"
+            },
+            {
+                "word": "Schattenseite",
+                "article": "die"
+            },
+            {
+                "word": "Schattierung",
+                "article": "die"
+            },
+            {
+                "word": "Schaumgummi",
+                "article": "der"
+            },
+            {
+                "word": "Schaumstoff",
+                "article": "der"
+            },
+            {
+                "word": "Schauspielerei",
+                "article": "die"
+            },
+            {
+                "word": "Schauspielkunst",
+                "article": "die"
+            },
+            {
+                "word": "Scheckheft",
+                "article": "das"
+            },
+            {
+                "word": "Scheidungsgrund",
+                "article": "der"
+            },
+            {
+                "word": "Scheinwelt",
+                "article": "die"
+            },
+            {
+                "word": "Schienbein",
+                "article": "das"
+            },
+            {
+                "word": "Schilderung",
+                "article": "die"
+            },
+            {
+                "word": "Schilling",
+                "article": "der"
+            },
+            {
+                "word": "Schimmel",
+                "article": "der"
+            },
+            {
+                "word": "Schimmelpilz",
+                "article": "der"
+            },
+            {
+                "word": "Schlacht",
+                "article": "die"
+            },
+            {
+                "word": "Schl\u00e4gerei",
+                "article": "die"
+            },
+            {
+                "word": "Schlamm",
+                "article": "der"
+            },
+            {
+                "word": "Schlawiner",
+                "article": "der"
+            },
+            {
+                "word": "Schleuse",
+                "article": "die"
+            },
+            {
+                "word": "Schluck",
+                "article": "der"
+            },
+            {
+                "word": "Schl\u00fcsselqualifikation",
+                "article": "die"
+            },
+            {
+                "word": "Schlupfloch",
+                "article": "das"
+            },
+            {
+                "word": "Schlussfolgerung",
+                "article": "die"
+            },
+            {
+                "word": "Schlusslicht",
+                "article": "das"
+            },
+            {
+                "word": "Schlussverkauf",
+                "article": "der"
+            },
+            {
+                "word": "Schmiede",
+                "article": "die"
+            },
+            {
+                "word": "Schmuddelkind",
+                "article": "das"
+            },
+            {
+                "word": "Schnapsidee",
+                "article": "die"
+            },
+            {
+                "word": "Schnuller",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00f6pfer",
+                "article": "der"
+            },
+            {
+                "word": "Schokoladenseite",
+                "article": "die"
+            },
+            {
+                "word": "Scholle",
+                "article": "die"
+            },
+            {
+                "word": "Schornstein",
+                "article": "der"
+            },
+            {
+                "word": "Schreckensvision",
+                "article": "die"
+            },
+            {
+                "word": "Schreibblock",
+                "article": "der"
+            },
+            {
+                "word": "Schriftform",
+                "article": "die"
+            },
+            {
+                "word": "Schrubber",
+                "article": "der"
+            },
+            {
+                "word": "Sch\u00fcleraustausch",
+                "article": "der"
+            },
+            {
+                "word": "Schulabg\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Schulheft",
+                "article": "das"
+            },
+            {
+                "word": "Schulranzen",
+                "article": "der"
+            },
+            {
+                "word": "Schutt",
+                "article": "der"
+            },
+            {
+                "word": "Schwachstelle",
+                "article": "die"
+            },
+            {
+                "word": "Schweinepest",
+                "article": "die"
+            },
+            {
+                "word": "Schweinez\u00fcchter",
+                "article": "der"
+            },
+            {
+                "word": "Schwei\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Schwei\u00dfdr\u00fcse",
+                "article": "die"
+            },
+            {
+                "word": "Schwellenland",
+                "article": "das"
+            },
+            {
+                "word": "Schwerkraft",
+                "article": "die"
+            },
+            {
+                "word": "Schwung",
+                "article": "der"
+            },
+            {
+                "word": "Seebeben",
+                "article": "das"
+            },
+            {
+                "word": "Seefracht",
+                "article": "die"
+            },
+            {
+                "word": "Seelenzustand",
+                "article": "der"
+            },
+            {
+                "word": "Seerose",
+                "article": "die"
+            },
+            {
+                "word": "Sehnerv",
+                "article": "der"
+            },
+            {
+                "word": "Seismograf",
+                "article": "der"
+            },
+            {
+                "word": "Sektor",
+                "article": "der"
+            },
+            {
+                "word": "Sekund\u00e4rtugend",
+                "article": "die"
+            },
+            {
+                "word": "Selbstbestimmung",
+                "article": "die"
+            },
+            {
+                "word": "Selbstbild",
+                "article": "das"
+            },
+            {
+                "word": "Selbstdisziplin",
+                "article": "die"
+            },
+            {
+                "word": "Selbstgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Selbstironie",
+                "article": "die"
+            },
+            {
+                "word": "Selbstoffenbarung",
+                "article": "die"
+            },
+            {
+                "word": "Selbstvertrauen",
+                "article": "das"
+            },
+            {
+                "word": "Selbstverwirklichung",
+                "article": "die"
+            },
+            {
+                "word": "Semmel",
+                "article": "die"
+            },
+            {
+                "word": "Senf",
+                "article": "der"
+            },
+            {
+                "word": "Senke",
+                "article": "die"
+            },
+            {
+                "word": "Sense",
+                "article": "die"
+            },
+            {
+                "word": "Sensibilit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Sensor",
+                "article": "der"
+            },
+            {
+                "word": "Server",
+                "article": "der"
+            },
+            {
+                "word": "Sexualit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Sicherheitsschleuse",
+                "article": "die"
+            },
+            {
+                "word": "Sicherung",
+                "article": "die"
+            },
+            {
+                "word": "Siebdruck",
+                "article": "der"
+            },
+            {
+                "word": "Siebensachen",
+                "article": "die"
+            },
+            {
+                "word": "Siedler",
+                "article": "der"
+            },
+            {
+                "word": "Siegel",
+                "article": "das"
+            },
+            {
+                "word": "Silberfolie",
+                "article": "die"
+            },
+            {
+                "word": "Silikon",
+                "article": "das"
+            },
+            {
+                "word": "Silvesterfeier",
+                "article": "die"
+            },
+            {
+                "word": "Silvesternacht",
+                "article": "die"
+            },
+            {
+                "word": "Simulation",
+                "article": "die"
+            },
+            {
+                "word": "Sinnbild",
+                "article": "das"
+            },
+            {
+                "word": "Sinnengenuss",
+                "article": "der"
+            },
+            {
+                "word": "Sinneseindruck",
+                "article": "der"
+            },
+            {
+                "word": "Sinnesorgan",
+                "article": "das"
+            },
+            {
+                "word": "Sinneswahrnehmung",
+                "article": "die"
+            },
+            {
+                "word": "Sinnspruch",
+                "article": "der"
+            },
+            {
+                "word": "Sitte",
+                "article": "die"
+            },
+            {
+                "word": "Situationskomik",
+                "article": "die"
+            },
+            {
+                "word": "Skala",
+                "article": "die"
+            },
+            {
+                "word": "Skizze",
+                "article": "die"
+            },
+            {
+                "word": "Sklave",
+                "article": "der"
+            },
+            {
+                "word": "Solarzelle",
+                "article": "die"
+            },
+            {
+                "word": "Solidarit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Solo",
+                "article": "das"
+            },
+            {
+                "word": "Sommerpause",
+                "article": "die"
+            },
+            {
+                "word": "Sonar",
+                "article": "das"
+            },
+            {
+                "word": "Sonderregelung",
+                "article": "die"
+            },
+            {
+                "word": "Sorgenkind",
+                "article": "das"
+            },
+            {
+                "word": "Sorgerecht",
+                "article": "das"
+            },
+            {
+                "word": "Souver\u00e4nit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Sozialisation",
+                "article": "die"
+            },
+            {
+                "word": "Sozialkritik",
+                "article": "die"
+            },
+            {
+                "word": "Sozialp\u00e4dagoge",
+                "article": "der"
+            },
+            {
+                "word": "Sp\u00e4tz\u00fcnder",
+                "article": "der"
+            },
+            {
+                "word": "Speicherung",
+                "article": "die"
+            },
+            {
+                "word": "Spektakel",
+                "article": "das"
+            },
+            {
+                "word": "Spekulant",
+                "article": "der"
+            },
+            {
+                "word": "Spender",
+                "article": "der"
+            },
+            {
+                "word": "Spielkamerad",
+                "article": "der"
+            },
+            {
+                "word": "Spielsucht",
+                "article": "die"
+            },
+            {
+                "word": "Spielzug",
+                "article": "der"
+            },
+            {
+                "word": "Spie\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Spie\u00dfer",
+                "article": "der"
+            },
+            {
+                "word": "Spinat",
+                "article": "der"
+            },
+            {
+                "word": "Spind",
+                "article": "das"
+            },
+            {
+                "word": "Spindel",
+                "article": "die"
+            },
+            {
+                "word": "Spinnerei",
+                "article": "die"
+            },
+            {
+                "word": "Spinnmaschine",
+                "article": "die"
+            },
+            {
+                "word": "Spitze",
+                "article": "die"
+            },
+            {
+                "word": "Spitzenkraft",
+                "article": "die"
+            },
+            {
+                "word": "Spracherkennung",
+                "article": "die"
+            },
+            {
+                "word": "Spracherwerb",
+                "article": "der"
+            },
+            {
+                "word": "Sprachgebrauch",
+                "article": "der"
+            },
+            {
+                "word": "Sprachgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Sprachlosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Sprachregel",
+                "article": "die"
+            },
+            {
+                "word": "Sprachunterricht",
+                "article": "der"
+            },
+            {
+                "word": "Sprachverm\u00f6gen",
+                "article": "das"
+            },
+            {
+                "word": "Sprayer",
+                "article": "der"
+            },
+            {
+                "word": "Sprechblase",
+                "article": "die"
+            },
+            {
+                "word": "Sprechgesang",
+                "article": "der"
+            },
+            {
+                "word": "Sprinter",
+                "article": "der"
+            },
+            {
+                "word": "Spr\u00f6ssling",
+                "article": "der"
+            },
+            {
+                "word": "Spross",
+                "article": "der"
+            },
+            {
+                "word": "Sp\u00fcrsinn",
+                "article": "der"
+            },
+            {
+                "word": "Staatsanwaltschaft",
+                "article": "die"
+            },
+            {
+                "word": "Staatsexamen",
+                "article": "das"
+            },
+            {
+                "word": "Staatsoberhaupt",
+                "article": "das"
+            },
+            {
+                "word": "Stabilit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Stadtviertel",
+                "article": "das"
+            },
+            {
+                "word": "St\u00e4nder",
+                "article": "der"
+            },
+            {
+                "word": "St\u00e4rke",
+                "article": "die"
+            },
+            {
+                "word": "Stahl",
+                "article": "der"
+            },
+            {
+                "word": "Stammvokal",
+                "article": "der"
+            },
+            {
+                "word": "Standard",
+                "article": "der"
+            },
+            {
+                "word": "Standardsprache",
+                "article": "die"
+            },
+            {
+                "word": "Standbein",
+                "article": "das"
+            },
+            {
+                "word": "Standesunterschied",
+                "article": "der"
+            },
+            {
+                "word": "Startloch",
+                "article": "das"
+            },
+            {
+                "word": "Statement",
+                "article": "das"
+            },
+            {
+                "word": "Statistiker",
+                "article": "der"
+            },
+            {
+                "word": "Status",
+                "article": "der"
+            },
+            {
+                "word": "Staudamm",
+                "article": "der"
+            },
+            {
+                "word": "Stechuhr",
+                "article": "die"
+            },
+            {
+                "word": "Stegreif",
+                "article": "der"
+            },
+            {
+                "word": "Steigerung",
+                "article": "die"
+            },
+            {
+                "word": "Steinkohle",
+                "article": "die"
+            },
+            {
+                "word": "Steinplatte",
+                "article": "die"
+            },
+            {
+                "word": "Stellenangebot",
+                "article": "das"
+            },
+            {
+                "word": "Stellensuche",
+                "article": "die"
+            },
+            {
+                "word": "Sterbensw\u00f6rtchen",
+                "article": "das"
+            },
+            {
+                "word": "Sterblichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Stereoanlage",
+                "article": "die"
+            },
+            {
+                "word": "Stereotyp",
+                "article": "das"
+            },
+            {
+                "word": "Sternstunde",
+                "article": "die"
+            },
+            {
+                "word": "Steuererkl\u00e4rung",
+                "article": "die"
+            },
+            {
+                "word": "Steuerungstechnik",
+                "article": "die"
+            },
+            {
+                "word": "Steuervorteil",
+                "article": "der"
+            },
+            {
+                "word": "Stichtag",
+                "article": "der"
+            },
+            {
+                "word": "Stigma",
+                "article": "das"
+            },
+            {
+                "word": "Stilbruch",
+                "article": "der"
+            },
+            {
+                "word": "Stofftier",
+                "article": "das"
+            },
+            {
+                "word": "Stolperstein",
+                "article": "der"
+            },
+            {
+                "word": "Stoppuhr",
+                "article": "die"
+            },
+            {
+                "word": "Sto\u00dfstange",
+                "article": "die"
+            },
+            {
+                "word": "Strafgesetzbuch",
+                "article": "das"
+            },
+            {
+                "word": "Strafrichter",
+                "article": "der"
+            },
+            {
+                "word": "Strafverteidiger",
+                "article": "der"
+            },
+            {
+                "word": "Strafvollzug",
+                "article": "der"
+            },
+            {
+                "word": "Strahlentherapie",
+                "article": "die"
+            },
+            {
+                "word": "Stra\u00dfenbelag",
+                "article": "der"
+            },
+            {
+                "word": "Stra\u00dfengraben",
+                "article": "der"
+            },
+            {
+                "word": "Streetworker",
+                "article": "der"
+            },
+            {
+                "word": "Streicher",
+                "article": "der"
+            },
+            {
+                "word": "Streitfall",
+                "article": "der"
+            },
+            {
+                "word": "Streitschlichter",
+                "article": "der"
+            },
+            {
+                "word": "Streitsucht",
+                "article": "die"
+            },
+            {
+                "word": "Streusalz",
+                "article": "das"
+            },
+            {
+                "word": "Strukturwandel",
+                "article": "der"
+            },
+            {
+                "word": "Stube",
+                "article": "die"
+            },
+            {
+                "word": "Stubenhocker",
+                "article": "der"
+            },
+            {
+                "word": "Studienaufenthalt",
+                "article": "der"
+            },
+            {
+                "word": "Studienberatung",
+                "article": "die"
+            },
+            {
+                "word": "Studiengang",
+                "article": "der"
+            },
+            {
+                "word": "Studienreise",
+                "article": "die"
+            },
+            {
+                "word": "St\u00fcckzahl",
+                "article": "die"
+            },
+            {
+                "word": "Sturz",
+                "article": "der"
+            },
+            {
+                "word": "Subjunktion",
+                "article": "die"
+            },
+            {
+                "word": "Subkultur",
+                "article": "die"
+            },
+            {
+                "word": "Substanz",
+                "article": "die"
+            },
+            {
+                "word": "Suche",
+                "article": "die"
+            },
+            {
+                "word": "Suchtgefahr",
+                "article": "die"
+            },
+            {
+                "word": "Sud",
+                "article": "der"
+            },
+            {
+                "word": "S\u00fc\u00dfe",
+                "article": "die"
+            },
+            {
+                "word": "Suizid",
+                "article": "der"
+            },
+            {
+                "word": "Surfer",
+                "article": "der"
+            },
+            {
+                "word": "Surrealismus",
+                "article": "der"
+            },
+            {
+                "word": "Syn\u00e4sthesie",
+                "article": "die"
+            },
+            {
+                "word": "Synthese",
+                "article": "die"
+            },
+            {
+                "word": "Szenario",
+                "article": "das"
+            },
+            {
+                "word": "Szenarium",
+                "article": "das"
             }
         ]
     }
