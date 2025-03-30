@@ -3153,6 +3153,148 @@
                 "word": "Quiz",
                 "article": "das"
             }
+        ],
+        "R": [
+            {
+                "word": "Radfahren",
+                "article": "das"
+            },
+            {
+                "word": "Radiergummi",
+                "article": "der"
+            },
+            {
+                "word": "Radio",
+                "article": "das"
+            },
+            {
+                "word": "Radtour",
+                "article": "die"
+            },
+            {
+                "word": "Rat",
+                "article": "der"
+            },
+            {
+                "word": "Rathaus",
+                "article": "das"
+            },
+            {
+                "word": "Raum",
+                "article": "der"
+            },
+            {
+                "word": "Rechnung",
+                "article": "die"
+            },
+            {
+                "word": "Regal",
+                "article": "das"
+            },
+            {
+                "word": "Regel",
+                "article": "die"
+            },
+            {
+                "word": "Regen",
+                "article": "der"
+            },
+            {
+                "word": "Regenjacke",
+                "article": "die"
+            },
+            {
+                "word": "Regenschirm",
+                "article": "der"
+            },
+            {
+                "word": "Reihe",
+                "article": "die"
+            },
+            {
+                "word": "Reihenfolge",
+                "article": "die"
+            },
+            {
+                "word": "Reihenhaus",
+                "article": "das"
+            },
+            {
+                "word": "Reis",
+                "article": "das"
+            },
+            {
+                "word": "Reise",
+                "article": "die"
+            },
+            {
+                "word": "Reiseb\u00fcro",
+                "article": "das"
+            },
+            {
+                "word": "Reisef\u00fchrer",
+                "article": "der"
+            },
+            {
+                "word": "Reisepass",
+                "article": "der"
+            },
+            {
+                "word": "Reisetasche",
+                "article": "die"
+            },
+            {
+                "word": "Reiseziel",
+                "article": "das"
+            },
+            {
+                "word": "Religion",
+                "article": "die"
+            },
+            {
+                "word": "Reparatur",
+                "article": "die"
+            },
+            {
+                "word": "Restaurant",
+                "article": "das"
+            },
+            {
+                "word": "Rezept",
+                "article": "das"
+            },
+            {
+                "word": "Rezeption",
+                "article": "die"
+            },
+            {
+                "word": "Richtung",
+                "article": "die"
+            },
+            {
+                "word": "Rock",
+                "article": "der"
+            },
+            {
+                "word": "Rom",
+                "article": "der"
+            },
+            {
+                "word": "Rucksack",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fccken",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckweg",
+                "article": "der"
+            },
+            {
+                "word": "Russisch",
+                "article": "das"
+            }
         ]
     },
     "A2": {
@@ -5508,6 +5650,184 @@
             {
                 "word": "Quittung",
                 "article": "die"
+            }
+        ],
+        "R": [
+            {
+                "word": "Rabatt",
+                "article": "der"
+            },
+            {
+                "word": "Rad",
+                "article": "das"
+            },
+            {
+                "word": "Radiosender",
+                "article": "der"
+            },
+            {
+                "word": "Radiosendung",
+                "article": "die"
+            },
+            {
+                "word": "R\u00e4tsel",
+                "article": "das"
+            },
+            {
+                "word": "R\u00e4tselecke",
+                "article": "die"
+            },
+            {
+                "word": "Rappen",
+                "article": "der"
+            },
+            {
+                "word": "Rapper",
+                "article": "der"
+            },
+            {
+                "word": "Rasen",
+                "article": "der"
+            },
+            {
+                "word": "Ratschlag",
+                "article": "der"
+            },
+            {
+                "word": "Ratte",
+                "article": "die"
+            },
+            {
+                "word": "Rauch",
+                "article": "der"
+            },
+            {
+                "word": "Reaktion",
+                "article": "die"
+            },
+            {
+                "word": "Realit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Realschule",
+                "article": "die"
+            },
+            {
+                "word": "Receiver",
+                "article": "der"
+            },
+            {
+                "word": "Redaktion",
+                "article": "die"
+            },
+            {
+                "word": "Reggae",
+                "article": "der"
+            },
+            {
+                "word": "Regisseur",
+                "article": "der"
+            },
+            {
+                "word": "Reifen",
+                "article": "der"
+            },
+            {
+                "word": "Reinigung",
+                "article": "die"
+            },
+            {
+                "word": "Reiseleiter",
+                "article": "der"
+            },
+            {
+                "word": "Rekord",
+                "article": "der"
+            },
+            {
+                "word": "Rennen",
+                "article": "das"
+            },
+            {
+                "word": "Rentner",
+                "article": "der"
+            },
+            {
+                "word": "Rentnerin",
+                "article": "die"
+            },
+            {
+                "word": "Reportage",
+                "article": "die"
+            },
+            {
+                "word": "Reservierung",
+                "article": "die"
+            },
+            {
+                "word": "Rest",
+                "article": "der"
+            },
+            {
+                "word": "Rind",
+                "article": "das"
+            },
+            {
+                "word": "Rindfleisch",
+                "article": "das"
+            },
+            {
+                "word": "Ring",
+                "article": "der"
+            },
+            {
+                "word": "Roboter",
+                "article": "der"
+            },
+            {
+                "word": "Rockmusik",
+                "article": "die"
+            },
+            {
+                "word": "Roggenbr\u00f6tchen",
+                "article": "das"
+            },
+            {
+                "word": "Rolle",
+                "article": "die"
+            },
+            {
+                "word": "Romanze",
+                "article": "die"
+            },
+            {
+                "word": "Rose",
+                "article": "die"
+            },
+            {
+                "word": "Router",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Ruhe",
+                "article": "die"
+            },
+            {
+                "word": "Runde",
+                "article": "die"
+            },
+            {
+                "word": "Rundfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Rundgang",
+                "article": "der"
             }
         ]
     },
@@ -8563,6 +8883,200 @@
             },
             {
                 "word": "Quilt",
+                "article": "der"
+            }
+        ],
+        "R": [
+            {
+                "word": "Rabe",
+                "article": "der"
+            },
+            {
+                "word": "Radfahrer",
+                "article": "der"
+            },
+            {
+                "word": "Rakete",
+                "article": "die"
+            },
+            {
+                "word": "Rand",
+                "article": "der"
+            },
+            {
+                "word": "Rang",
+                "article": "der"
+            },
+            {
+                "word": "Ranking",
+                "article": "das"
+            },
+            {
+                "word": "Rap",
+                "article": "der"
+            },
+            {
+                "word": "Raucher",
+                "article": "der"
+            },
+            {
+                "word": "Recherche",
+                "article": "die"
+            },
+            {
+                "word": "Rechner",
+                "article": "der"
+            },
+            {
+                "word": "Recht",
+                "article": "das"
+            },
+            {
+                "word": "Rechtsanwalt",
+                "article": "der"
+            },
+            {
+                "word": "Recycling",
+                "article": "das"
+            },
+            {
+                "word": "Redakteur",
+                "article": "der"
+            },
+            {
+                "word": "Rede",
+                "article": "die"
+            },
+            {
+                "word": "Referat",
+                "article": "das"
+            },
+            {
+                "word": "Reform",
+                "article": "die"
+            },
+            {
+                "word": "Refrain",
+                "article": "der"
+            },
+            {
+                "word": "Regenzeit",
+                "article": "die"
+            },
+            {
+                "word": "Regie",
+                "article": "die"
+            },
+            {
+                "word": "Regierung",
+                "article": "die"
+            },
+            {
+                "word": "Region",
+                "article": "die"
+            },
+            {
+                "word": "Reim",
+                "article": "der"
+            },
+            {
+                "word": "Reklamation",
+                "article": "die"
+            },
+            {
+                "word": "Reklame",
+                "article": "die"
+            },
+            {
+                "word": "Renovierung",
+                "article": "die"
+            },
+            {
+                "word": "Rente",
+                "article": "die"
+            },
+            {
+                "word": "Reporter",
+                "article": "der"
+            },
+            {
+                "word": "Republik",
+                "article": "die"
+            },
+            {
+                "word": "Respekt",
+                "article": "der"
+            },
+            {
+                "word": "Ressource",
+                "article": "die"
+            },
+            {
+                "word": "Rettungsdienst",
+                "article": "der"
+            },
+            {
+                "word": "Rhythmus",
+                "article": "der"
+            },
+            {
+                "word": "Richter",
+                "article": "der"
+            },
+            {
+                "word": "Risiko",
+                "article": "das"
+            },
+            {
+                "word": "Ritter",
+                "article": "der"
+            },
+            {
+                "word": "Ritterturnier",
+                "article": "das"
+            },
+            {
+                "word": "R\u00f6sti",
+                "article": "die"
+            },
+            {
+                "word": "Rollschuh",
+                "article": "der"
+            },
+            {
+                "word": "Rollstuhl",
+                "article": "der"
+            },
+            {
+                "word": "Roman",
+                "article": "der"
+            },
+            {
+                "word": "Route",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckblick",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckhalt",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckkehr",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fccksicht",
+                "article": "die"
+            },
+            {
+                "word": "Rufnummer",
+                "article": "die"
+            },
+            {
+                "word": "Rundfunk",
                 "article": "der"
             }
         ]
@@ -13192,6 +13706,528 @@
             {
                 "word": "Quotient",
                 "article": "der"
+            }
+        ],
+        "R": [
+            {
+                "word": "R\u00e4uber",
+                "article": "der"
+            },
+            {
+                "word": "Rahmen",
+                "article": "der"
+            },
+            {
+                "word": "Rasierpinsel",
+                "article": "der"
+            },
+            {
+                "word": "Ratlosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Raumtemperatur",
+                "article": "die"
+            },
+            {
+                "word": "Rausch",
+                "article": "der"
+            },
+            {
+                "word": "Reaktionszeit",
+                "article": "die"
+            },
+            {
+                "word": "Rechenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Rechnungsbetrag",
+                "article": "der"
+            },
+            {
+                "word": "Rechtschreibfehler",
+                "article": "der"
+            },
+            {
+                "word": "Rechtswissenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Redensart",
+                "article": "die"
+            },
+            {
+                "word": "Redner",
+                "article": "der"
+            },
+            {
+                "word": "Referent",
+                "article": "der"
+            },
+            {
+                "word": "Referentin",
+                "article": "die"
+            },
+            {
+                "word": "Referenz",
+                "article": "die"
+            },
+            {
+                "word": "Regelstudienzeit",
+                "article": "die"
+            },
+            {
+                "word": "Regelung",
+                "article": "die"
+            },
+            {
+                "word": "Regenwurm",
+                "article": "der"
+            },
+            {
+                "word": "Regierungssprecher",
+                "article": "der"
+            },
+            {
+                "word": "Regierungssprecherin",
+                "article": "die"
+            },
+            {
+                "word": "Regierungszeit",
+                "article": "die"
+            },
+            {
+                "word": "Regisseurin",
+                "article": "die"
+            },
+            {
+                "word": "Reife",
+                "article": "die"
+            },
+            {
+                "word": "Reinheit",
+                "article": "die"
+            },
+            {
+                "word": "Reinigungskraft",
+                "article": "die"
+            },
+            {
+                "word": "Reiseplanung",
+                "article": "die"
+            },
+            {
+                "word": "Reiz",
+                "article": "der"
+            },
+            {
+                "word": "Relevanz",
+                "article": "die"
+            },
+            {
+                "word": "Renner",
+                "article": "der"
+            },
+            {
+                "word": "Rennpferd",
+                "article": "das"
+            },
+            {
+                "word": "Reporterin",
+                "article": "die"
+            },
+            {
+                "word": "Resignation",
+                "article": "die"
+            },
+            {
+                "word": "Res\u00fcmee",
+                "article": "das"
+            },
+            {
+                "word": "Resultat",
+                "article": "das"
+            },
+            {
+                "word": "Retter",
+                "article": "der"
+            },
+            {
+                "word": "Reue",
+                "article": "die"
+            },
+            {
+                "word": "Revolution",
+                "article": "die"
+            },
+            {
+                "word": "Rezensent",
+                "article": "der"
+            },
+            {
+                "word": "Rezensentin",
+                "article": "die"
+            },
+            {
+                "word": "Rezension",
+                "article": "die"
+            },
+            {
+                "word": "Rezeptur",
+                "article": "die"
+            },
+            {
+                "word": "Richtigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Ringfinger",
+                "article": "der"
+            },
+            {
+                "word": "R\u00f6hrchen",
+                "article": "das"
+            },
+            {
+                "word": "R\u00f6ntgenaufnahme",
+                "article": "die"
+            },
+            {
+                "word": "Rohkost",
+                "article": "die"
+            },
+            {
+                "word": "Rollentausch",
+                "article": "der"
+            },
+            {
+                "word": "Rollladen",
+                "article": "der"
+            },
+            {
+                "word": "Romantik",
+                "article": "die"
+            },
+            {
+                "word": "Romantiker",
+                "article": "der"
+            },
+            {
+                "word": "Routine",
+                "article": "die"
+            },
+            {
+                "word": "Rubrik",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckerstattung",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckgang",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckkehrer",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckruf",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fccktritt",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckversicherung",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckzug",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcstung",
+                "article": "die"
+            },
+            {
+                "word": "Ruf",
+                "article": "der"
+            },
+            {
+                "word": "Ruhezeit",
+                "article": "die"
+            },
+            {
+                "word": "Rundfunkanstalt",
+                "article": "die"
+            },
+            {
+                "word": "Rundung",
+                "article": "die"
+            },
+            {
+                "word": "R\u00e4uber",
+                "article": "der"
+            },
+            {
+                "word": "Rahmen",
+                "article": "der"
+            },
+            {
+                "word": "Rasierpinsel",
+                "article": "der"
+            },
+            {
+                "word": "Ratlosigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Raumtemperatur",
+                "article": "die"
+            },
+            {
+                "word": "Rausch",
+                "article": "der"
+            },
+            {
+                "word": "Reaktionszeit",
+                "article": "die"
+            },
+            {
+                "word": "Rechenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Rechnungsbetrag",
+                "article": "der"
+            },
+            {
+                "word": "Rechtschreibfehler",
+                "article": "der"
+            },
+            {
+                "word": "Rechtswissenschaft",
+                "article": "die"
+            },
+            {
+                "word": "Redensart",
+                "article": "die"
+            },
+            {
+                "word": "Redner",
+                "article": "der"
+            },
+            {
+                "word": "Referent",
+                "article": "der"
+            },
+            {
+                "word": "Referentin",
+                "article": "die"
+            },
+            {
+                "word": "Referenz",
+                "article": "die"
+            },
+            {
+                "word": "Regelstudienzeit",
+                "article": "die"
+            },
+            {
+                "word": "Regelung",
+                "article": "die"
+            },
+            {
+                "word": "Regenwurm",
+                "article": "der"
+            },
+            {
+                "word": "Regierungssprecher",
+                "article": "der"
+            },
+            {
+                "word": "Regierungssprecherin",
+                "article": "die"
+            },
+            {
+                "word": "Regierungszeit",
+                "article": "die"
+            },
+            {
+                "word": "Regisseurin",
+                "article": "die"
+            },
+            {
+                "word": "Reife",
+                "article": "die"
+            },
+            {
+                "word": "Reinheit",
+                "article": "die"
+            },
+            {
+                "word": "Reinigungskraft",
+                "article": "die"
+            },
+            {
+                "word": "Reiseplanung",
+                "article": "die"
+            },
+            {
+                "word": "Reiz",
+                "article": "der"
+            },
+            {
+                "word": "Relevanz",
+                "article": "die"
+            },
+            {
+                "word": "Renner",
+                "article": "der"
+            },
+            {
+                "word": "Rennpferd",
+                "article": "das"
+            },
+            {
+                "word": "Reporterin",
+                "article": "die"
+            },
+            {
+                "word": "Resignation",
+                "article": "die"
+            },
+            {
+                "word": "Res\u00fcmee",
+                "article": "das"
+            },
+            {
+                "word": "Resultat",
+                "article": "das"
+            },
+            {
+                "word": "Retter",
+                "article": "der"
+            },
+            {
+                "word": "Reue",
+                "article": "die"
+            },
+            {
+                "word": "Revolution",
+                "article": "die"
+            },
+            {
+                "word": "Rezensent",
+                "article": "der"
+            },
+            {
+                "word": "Rezensentin",
+                "article": "die"
+            },
+            {
+                "word": "Rezension",
+                "article": "die"
+            },
+            {
+                "word": "Rezeptur",
+                "article": "die"
+            },
+            {
+                "word": "Richtigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Ringfinger",
+                "article": "der"
+            },
+            {
+                "word": "R\u00f6hrchen",
+                "article": "das"
+            },
+            {
+                "word": "R\u00f6ntgenaufnahme",
+                "article": "die"
+            },
+            {
+                "word": "Rohkost",
+                "article": "die"
+            },
+            {
+                "word": "Rollentausch",
+                "article": "der"
+            },
+            {
+                "word": "Rollladen",
+                "article": "der"
+            },
+            {
+                "word": "Romantik",
+                "article": "die"
+            },
+            {
+                "word": "Romantiker",
+                "article": "der"
+            },
+            {
+                "word": "Routine",
+                "article": "die"
+            },
+            {
+                "word": "Rubrik",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckerstattung",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckgang",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckkehrer",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckruf",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fccktritt",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcckversicherung",
+                "article": "die"
+            },
+            {
+                "word": "R\u00fcckzug",
+                "article": "der"
+            },
+            {
+                "word": "R\u00fcstung",
+                "article": "die"
+            },
+            {
+                "word": "Ruf",
+                "article": "der"
+            },
+            {
+                "word": "Ruhezeit",
+                "article": "die"
+            },
+            {
+                "word": "Rundfunkanstalt",
+                "article": "die"
+            },
+            {
+                "word": "Rundung",
+                "article": "die"
             }
         ]
     },
