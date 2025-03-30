@@ -3,6 +3,15 @@ let currentWord = {
     "word": "Nahrungsmittelunversträglichkeit",
     "article": "die"
 }
+let score = 0;
+let highestScore = localStorage.getItem("highestScore") || 0; // Retrieve highest score from localStorage
+
+window.onload = function () {
+    loadHighestScore();
+    function loadHighestScore() {
+        document.getElementById("highest-score").innerHTML = highestScore;
+    }
+}
 
 function setLevel(newLevel) {
     level = newLevel;
@@ -32,9 +41,17 @@ function newWord(level) {
 function checkAnswer(article) {
     if (currentWord["article"] == article) {
         showNotification("Richtig!")
+        score++;
+        if (score > highestScore) {
+            highestScore = score;
+            document.getElementById("highest-score").innerHTML = highestScore;
+            localStorage.setItem("highestScore", highestScore); // Save the new highest score to localStorage
+        }
     } else {
         showNotification("Falsch!")
+        score = 0;
     }
+    document.getElementById("score").innerHTML = score;
     newWord(level)
 }
 

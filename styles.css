@@ -5,6 +5,15 @@
     justify-content: center;
 }
 
+.score {
+    position: absolute;
+    bottom: 0;
+    margin: 10px;
+    font-size: 1.5em;
+    color: black;
+    font-family: "Patrick Hand", cursive;
+}
+
 .level-buttons {
     display: flex;
     flex-direction: row;
