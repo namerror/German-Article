@@ -4285,6 +4285,112 @@
                 "word": "Urlaubsort",
                 "article": "der"
             }
+        ],
+        "V": [
+            {
+                "word": "Variation",
+                "article": "die"
+            },
+            {
+                "word": "Vater",
+                "article": "der"
+            },
+            {
+                "word": "Verabredung",
+                "article": "die"
+            },
+            {
+                "word": "Verb",
+                "article": "das"
+            },
+            {
+                "word": "Verband",
+                "article": "der"
+            },
+            {
+                "word": "Verein",
+                "article": "der"
+            },
+            {
+                "word": "Verk\u00e4ufer",
+                "article": "der"
+            },
+            {
+                "word": "Verk\u00e4uferin",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrsmittel",
+                "article": "das"
+            },
+            {
+                "word": "Vermieter",
+                "article": "der"
+            },
+            {
+                "word": "Vermittlung",
+                "article": "die"
+            },
+            {
+                "word": "Vermutung",
+                "article": "die"
+            },
+            {
+                "word": "Version",
+                "article": "die"
+            },
+            {
+                "word": "Versp\u00e4tung",
+                "article": "die"
+            },
+            {
+                "word": "Versuch",
+                "article": "der"
+            },
+            {
+                "word": "Vertrag",
+                "article": "der"
+            },
+            {
+                "word": "Video",
+                "article": "das"
+            },
+            {
+                "word": "Videoclip",
+                "article": "der"
+            },
+            {
+                "word": "Vitamin",
+                "article": "das"
+            },
+            {
+                "word": "Vogel",
+                "article": "der"
+            },
+            {
+                "word": "Volleyball",
+                "article": "der"
+            },
+            {
+                "word": "Vormittag",
+                "article": "der"
+            },
+            {
+                "word": "Vorname",
+                "article": "der"
+            },
+            {
+                "word": "Vorsicht",
+                "article": "die"
+            },
+            {
+                "word": "Vorteil",
+                "article": "der"
+            },
+            {
+                "word": "Vorwahl",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -7472,6 +7578,108 @@
             {
                 "word": "Uroma",
                 "article": "die"
+            }
+        ],
+        "V": [
+            {
+                "word": "Variante",
+                "article": "die"
+            },
+            {
+                "word": "Ver\u00e4nderung",
+                "article": "die"
+            },
+            {
+                "word": "Veranstaltung",
+                "article": "die"
+            },
+            {
+                "word": "Verbindung",
+                "article": "die"
+            },
+            {
+                "word": "Verfilmung",
+                "article": "die"
+            },
+            {
+                "word": "Vergleich",
+                "article": "der"
+            },
+            {
+                "word": "Verkehr",
+                "article": "der"
+            },
+            {
+                "word": "Verlag",
+                "article": "der"
+            },
+            {
+                "word": "Verletzung",
+                "article": "die"
+            },
+            {
+                "word": "Vermieterin",
+                "article": "die"
+            },
+            {
+                "word": "Versicherung",
+                "article": "die"
+            },
+            {
+                "word": "Vers\u00f6hnung",
+                "article": "die"
+            },
+            {
+                "word": "Versteck",
+                "article": "das"
+            },
+            {
+                "word": "Videokonferenz",
+                "article": "die"
+            },
+            {
+                "word": "Viertelstunde",
+                "article": "die"
+            },
+            {
+                "word": "Vokabel",
+                "article": "die"
+            },
+            {
+                "word": "Vorbereitung",
+                "article": "die"
+            },
+            {
+                "word": "Vorbild",
+                "article": "das"
+            },
+            {
+                "word": "Vordergrund",
+                "article": "der"
+            },
+            {
+                "word": "Vorleser",
+                "article": "der"
+            },
+            {
+                "word": "Vorlesung",
+                "article": "die"
+            },
+            {
+                "word": "Vorliebe",
+                "article": "die"
+            },
+            {
+                "word": "Vorraum",
+                "article": "der"
+            },
+            {
+                "word": "Vorschlag",
+                "article": "der"
+            },
+            {
+                "word": "Vorurteil",
+                "article": "das"
             }
         ]
     },
@@ -11588,6 +11796,236 @@
             {
                 "word": "Urteil",
                 "article": "das"
+            }
+        ],
+        "V": [
+            {
+                "word": "Vanillezucker",
+                "article": "der"
+            },
+            {
+                "word": "Vase",
+                "article": "die"
+            },
+            {
+                "word": "Veganer",
+                "article": "der"
+            },
+            {
+                "word": "Verantwortung",
+                "article": "die"
+            },
+            {
+                "word": "Verbot",
+                "article": "das"
+            },
+            {
+                "word": "Verbrauch",
+                "article": "der"
+            },
+            {
+                "word": "Verbraucher",
+                "article": "der"
+            },
+            {
+                "word": "Verbrecher",
+                "article": "der"
+            },
+            {
+                "word": "Verdacht",
+                "article": "der"
+            },
+            {
+                "word": "Vereinsmitglied",
+                "article": "das"
+            },
+            {
+                "word": "Verfallsdatum",
+                "article": "das"
+            },
+            {
+                "word": "Verf\u00fcgung",
+                "article": "die"
+            },
+            {
+                "word": "Vergangenheit",
+                "article": "die"
+            },
+            {
+                "word": "Vergn\u00fcgen",
+                "article": "das"
+            },
+            {
+                "word": "Verh\u00e4ltnis",
+                "article": "das"
+            },
+            {
+                "word": "Verhalten",
+                "article": "das"
+            },
+            {
+                "word": "Verkauf",
+                "article": "der"
+            },
+            {
+                "word": "Verkaufsstand",
+                "article": "der"
+            },
+            {
+                "word": "Verkehrssituation",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrszeichen",
+                "article": "das"
+            },
+            {
+                "word": "Verlegenheit",
+                "article": "die"
+            },
+            {
+                "word": "Verleger",
+                "article": "der"
+            },
+            {
+                "word": "Verlust",
+                "article": "der"
+            },
+            {
+                "word": "Verpackung",
+                "article": "die"
+            },
+            {
+                "word": "Verpackungsmaterial",
+                "article": "das"
+            },
+            {
+                "word": "Versehen",
+                "article": "das"
+            },
+            {
+                "word": "Versprechen",
+                "article": "das"
+            },
+            {
+                "word": "Verst\u00e4ndnis",
+                "article": "das"
+            },
+            {
+                "word": "Vertrauen",
+                "article": "das"
+            },
+            {
+                "word": "Vertreter",
+                "article": "der"
+            },
+            {
+                "word": "Vertretung",
+                "article": "die"
+            },
+            {
+                "word": "Verwaltung",
+                "article": "die"
+            },
+            {
+                "word": "Verzeihung",
+                "article": "die"
+            },
+            {
+                "word": "Verzicht",
+                "article": "der"
+            },
+            {
+                "word": "Viertel",
+                "article": "das"
+            },
+            {
+                "word": "Villa",
+                "article": "die"
+            },
+            {
+                "word": "Violine",
+                "article": "die"
+            },
+            {
+                "word": "Visum",
+                "article": "das"
+            },
+            {
+                "word": "Volkslied",
+                "article": "das"
+            },
+            {
+                "word": "Volksmusik",
+                "article": "die"
+            },
+            {
+                "word": "Vollmilch",
+                "article": "die"
+            },
+            {
+                "word": "Vollpension",
+                "article": "die"
+            },
+            {
+                "word": "Vollzeit",
+                "article": "die"
+            },
+            {
+                "word": "Voraussetzung",
+                "article": "die"
+            },
+            {
+                "word": "Vorauswahl",
+                "article": "die"
+            },
+            {
+                "word": "Vorfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Vorhang",
+                "article": "der"
+            },
+            {
+                "word": "Vorhersage",
+                "article": "die"
+            },
+            {
+                "word": "Vorort",
+                "article": "der"
+            },
+            {
+                "word": "Vorsatz",
+                "article": "der"
+            },
+            {
+                "word": "Vorschrift",
+                "article": "die"
+            },
+            {
+                "word": "Vorspeise",
+                "article": "die"
+            },
+            {
+                "word": "Vorstellung",
+                "article": "die"
+            },
+            {
+                "word": "Vorstellungsgespr\u00e4ch",
+                "article": "das"
+            },
+            {
+                "word": "Vortrag",
+                "article": "der"
+            },
+            {
+                "word": "Vorverkauf",
+                "article": "der"
+            },
+            {
+                "word": "Vorwurf",
+                "article": "der"
             }
         ]
     },
@@ -17692,6 +18130,380 @@
             {
                 "word": "Umsetzung",
                 "article": "die"
+            }
+        ],
+        "V": [
+            {
+                "word": "Vegetarismus",
+                "article": "der"
+            },
+            {
+                "word": "Verabschiedung",
+                "article": "die"
+            },
+            {
+                "word": "Ver\u00e4rgerung",
+                "article": "die"
+            },
+            {
+                "word": "Verallgemeinerung",
+                "article": "die"
+            },
+            {
+                "word": "Veranstalter",
+                "article": "der"
+            },
+            {
+                "word": "Veranstalterin",
+                "article": "die"
+            },
+            {
+                "word": "Verarbeitung",
+                "article": "die"
+            },
+            {
+                "word": "Verbesserung",
+                "article": "die"
+            },
+            {
+                "word": "Verbrechen",
+                "article": "das"
+            },
+            {
+                "word": "Verbreitung",
+                "article": "die"
+            },
+            {
+                "word": "Vereinbarkeit",
+                "article": "die"
+            },
+            {
+                "word": "Vereinheitlichung",
+                "article": "die"
+            },
+            {
+                "word": "Vereinigung",
+                "article": "die"
+            },
+            {
+                "word": "Vereinsmeier",
+                "article": "der"
+            },
+            {
+                "word": "Vereinswesen",
+                "article": "das"
+            },
+            {
+                "word": "Vererbung",
+                "article": "die"
+            },
+            {
+                "word": "Verfahren",
+                "article": "das"
+            },
+            {
+                "word": "Verfassung",
+                "article": "die"
+            },
+            {
+                "word": "Verfeinerung",
+                "article": "die"
+            },
+            {
+                "word": "Vergessenheit",
+                "article": "die"
+            },
+            {
+                "word": "Verhaltensregel",
+                "article": "die"
+            },
+            {
+                "word": "Verhaltensweise",
+                "article": "die"
+            },
+            {
+                "word": "Verhandlung",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrsfunk",
+                "article": "der"
+            },
+            {
+                "word": "Verkehrsschild",
+                "article": "das"
+            },
+            {
+                "word": "Verkn\u00fcpfung",
+                "article": "die"
+            },
+            {
+                "word": "Verl\u00e4ngerung",
+                "article": "die"
+            },
+            {
+                "word": "Verlauf",
+                "article": "der"
+            },
+            {
+                "word": "Verleih",
+                "article": "der"
+            },
+            {
+                "word": "Verlierer",
+                "article": "der"
+            },
+            {
+                "word": "Verliererin",
+                "article": "die"
+            },
+            {
+                "word": "Vermittler",
+                "article": "der"
+            },
+            {
+                "word": "Verm\u00f6gen",
+                "article": "das"
+            },
+            {
+                "word": "Verneinung",
+                "article": "die"
+            },
+            {
+                "word": "Vernissage",
+                "article": "die"
+            },
+            {
+                "word": "Vernunft",
+                "article": "die"
+            },
+            {
+                "word": "Verpflichtung",
+                "article": "die"
+            },
+            {
+                "word": "Verringerung",
+                "article": "die"
+            },
+            {
+                "word": "Versager",
+                "article": "der"
+            },
+            {
+                "word": "Verschl\u00fcsselung",
+                "article": "die"
+            },
+            {
+                "word": "Verschreibung",
+                "article": "die"
+            },
+            {
+                "word": "Verschwendung",
+                "article": "die"
+            },
+            {
+                "word": "Versicherungsschutz",
+                "article": "der"
+            },
+            {
+                "word": "Versicherungsvertreter",
+                "article": "der"
+            },
+            {
+                "word": "Versorgung",
+                "article": "die"
+            },
+            {
+                "word": "Versprechung",
+                "article": "die"
+            },
+            {
+                "word": "Verst\u00e4dterung",
+                "article": "die"
+            },
+            {
+                "word": "Verst\u00e4ndlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Verstand",
+                "article": "der"
+            },
+            {
+                "word": "Versteigerung",
+                "article": "die"
+            },
+            {
+                "word": "Versto\u00df",
+                "article": "der"
+            },
+            {
+                "word": "Versuchsperson",
+                "article": "die"
+            },
+            {
+                "word": "Versuchsreihe",
+                "article": "die"
+            },
+            {
+                "word": "Versuchsschule",
+                "article": "die"
+            },
+            {
+                "word": "Versuchstier",
+                "article": "das"
+            },
+            {
+                "word": "Verteilung",
+                "article": "die"
+            },
+            {
+                "word": "Vertrautheit",
+                "article": "die"
+            },
+            {
+                "word": "Vertreterin",
+                "article": "die"
+            },
+            {
+                "word": "Vertrieb",
+                "article": "der"
+            },
+            {
+                "word": "Verwaltungssprache",
+                "article": "die"
+            },
+            {
+                "word": "Verwandtschaft",
+                "article": "die"
+            },
+            {
+                "word": "Verwirklichung",
+                "article": "die"
+            },
+            {
+                "word": "Verzehr",
+                "article": "der"
+            },
+            {
+                "word": "Verzweiflung",
+                "article": "die"
+            },
+            {
+                "word": "Vielfalt",
+                "article": "die"
+            },
+            {
+                "word": "Vielzahl",
+                "article": "die"
+            },
+            {
+                "word": "Virus",
+                "article": "das"
+            },
+            {
+                "word": "Vision",
+                "article": "die"
+            },
+            {
+                "word": "Visite",
+                "article": "die"
+            },
+            {
+                "word": "Vitalit\u00e4t",
+                "article": "die"
+            },
+            {
+                "word": "Volk",
+                "article": "das"
+            },
+            {
+                "word": "Volkskrankheit",
+                "article": "die"
+            },
+            {
+                "word": "Volksmund",
+                "article": "der"
+            },
+            {
+                "word": "Vollmond",
+                "article": "der"
+            },
+            {
+                "word": "Volontariat",
+                "article": "das"
+            },
+            {
+                "word": "Volumen",
+                "article": "das"
+            },
+            {
+                "word": "Vorbedingung",
+                "article": "die"
+            },
+            {
+                "word": "Vorbeugung",
+                "article": "die"
+            },
+            {
+                "word": "Vorfall",
+                "article": "der"
+            },
+            {
+                "word": "Vorgang",
+                "article": "der"
+            },
+            {
+                "word": "Vorhandensein",
+                "article": "das"
+            },
+            {
+                "word": "Vorleben",
+                "article": "das"
+            },
+            {
+                "word": "Vormarsch",
+                "article": "der"
+            },
+            {
+                "word": "Vormund",
+                "article": "der"
+            },
+            {
+                "word": "Vorsorgeuntersuchung",
+                "article": "die"
+            },
+            {
+                "word": "Vorspann",
+                "article": "der"
+            },
+            {
+                "word": "Vorsprung",
+                "article": "der"
+            },
+            {
+                "word": "Vorstandssitzung",
+                "article": "die"
+            },
+            {
+                "word": "Vortragsreihe",
+                "article": "die"
+            },
+            {
+                "word": "Vorwarnung",
+                "article": "die"
+            },
+            {
+                "word": "Vorwissen",
+                "article": "das"
+            },
+            {
+                "word": "Vorzug",
+                "article": "der"
+            },
+            {
+                "word": "Vulkanausbruch",
+                "article": "der"
             }
         ]
     },
@@ -24304,6 +25116,412 @@
             {
                 "word": "Umstellung",
                 "article": "die"
+            }
+        ],
+        "V": [
+            {
+                "word": "Vagheit",
+                "article": "die"
+            },
+            {
+                "word": "Vandalismus",
+                "article": "der"
+            },
+            {
+                "word": "Vanille",
+                "article": "die"
+            },
+            {
+                "word": "Vaseline",
+                "article": "die"
+            },
+            {
+                "word": "Ventil",
+                "article": "das"
+            },
+            {
+                "word": "Verachtung",
+                "article": "die"
+            },
+            {
+                "word": "Veranlagung",
+                "article": "die"
+            },
+            {
+                "word": "Verbl\u00fcffung",
+                "article": "die"
+            },
+            {
+                "word": "Verbrecherjagd",
+                "article": "die"
+            },
+            {
+                "word": "Verd\u00e4chtigung",
+                "article": "die"
+            },
+            {
+                "word": "Verdummung",
+                "article": "die"
+            },
+            {
+                "word": "Verdunstung",
+                "article": "die"
+            },
+            {
+                "word": "Vereinbarung",
+                "article": "die"
+            },
+            {
+                "word": "Vereinsamung",
+                "article": "die"
+            },
+            {
+                "word": "Vereinsmeierei",
+                "article": "die"
+            },
+            {
+                "word": "Vereinsregister",
+                "article": "das"
+            },
+            {
+                "word": "Verfahrensfrage",
+                "article": "die"
+            },
+            {
+                "word": "Verfall",
+                "article": "der"
+            },
+            {
+                "word": "Verflechtung",
+                "article": "die"
+            },
+            {
+                "word": "Verflochtenheit",
+                "article": "die"
+            },
+            {
+                "word": "Verfolgung",
+                "article": "die"
+            },
+            {
+                "word": "Vergaser",
+                "article": "der"
+            },
+            {
+                "word": "Vergehen",
+                "article": "das"
+            },
+            {
+                "word": "Verg\u00fctung",
+                "article": "die"
+            },
+            {
+                "word": "Verh\u00e4rtung",
+                "article": "die"
+            },
+            {
+                "word": "Verhaftung",
+                "article": "die"
+            },
+            {
+                "word": "Verhei\u00dfung",
+                "article": "die"
+            },
+            {
+                "word": "Verh\u00f6r",
+                "article": "das"
+            },
+            {
+                "word": "Verj\u00e4hrung",
+                "article": "die"
+            },
+            {
+                "word": "Verkabelung",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrsberuhigung",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrsnetz",
+                "article": "das"
+            },
+            {
+                "word": "Verkehrsplanung",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrspolitik",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrssprache",
+                "article": "die"
+            },
+            {
+                "word": "Verkehrsteilnehmer",
+                "article": "der"
+            },
+            {
+                "word": "Verkehrsunfall",
+                "article": "der"
+            },
+            {
+                "word": "Verkehrswesen",
+                "article": "das"
+            },
+            {
+                "word": "Verlagerung",
+                "article": "die"
+            },
+            {
+                "word": "Verlangen",
+                "article": "das"
+            },
+            {
+                "word": "Verlegung",
+                "article": "die"
+            },
+            {
+                "word": "Verlockung",
+                "article": "die"
+            },
+            {
+                "word": "Vermeidung",
+                "article": "die"
+            },
+            {
+                "word": "Vermessung",
+                "article": "die"
+            },
+            {
+                "word": "Verordnung",
+                "article": "die"
+            },
+            {
+                "word": "Verrohung",
+                "article": "die"
+            },
+            {
+                "word": "Verschluss",
+                "article": "der"
+            },
+            {
+                "word": "Verschuldung",
+                "article": "die"
+            },
+            {
+                "word": "Verst\u00e4ndnisfrage",
+                "article": "die"
+            },
+            {
+                "word": "Verst\u00e4rker",
+                "article": "der"
+            },
+            {
+                "word": "Verst\u00e4rkung",
+                "article": "die"
+            },
+            {
+                "word": "Versteppung",
+                "article": "die"
+            },
+            {
+                "word": "Vertrauensw\u00fcrdigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Verurteilung",
+                "article": "die"
+            },
+            {
+                "word": "Vervielf\u00e4ltigung",
+                "article": "die"
+            },
+            {
+                "word": "Vervollkommnung",
+                "article": "die"
+            },
+            {
+                "word": "Verwechslung",
+                "article": "die"
+            },
+            {
+                "word": "Verwendbarkeit",
+                "article": "die"
+            },
+            {
+                "word": "Verwendung",
+                "article": "die"
+            },
+            {
+                "word": "Verwirrung",
+                "article": "die"
+            },
+            {
+                "word": "Verwissenschaftlichung",
+                "article": "die"
+            },
+            {
+                "word": "Verw\u00fcstung",
+                "article": "die"
+            },
+            {
+                "word": "Verwunderung",
+                "article": "die"
+            },
+            {
+                "word": "Videospiel",
+                "article": "das"
+            },
+            {
+                "word": "Viehzucht",
+                "article": "die"
+            },
+            {
+                "word": "Virenscanner",
+                "article": "der"
+            },
+            {
+                "word": "Vita",
+                "article": "die"
+            },
+            {
+                "word": "Vitamintablette",
+                "article": "die"
+            },
+            {
+                "word": "Vokabular",
+                "article": "das"
+            },
+            {
+                "word": "Volksgemeinschaft",
+                "article": "die"
+            },
+            {
+                "word": "Volkshochschule",
+                "article": "die"
+            },
+            {
+                "word": "Volkskultur",
+                "article": "die"
+            },
+            {
+                "word": "Volksschule",
+                "article": "die"
+            },
+            {
+                "word": "Vollbart",
+                "article": "der"
+            },
+            {
+                "word": "Vollbesitz",
+                "article": "der"
+            },
+            {
+                "word": "Vollbremsung",
+                "article": "die"
+            },
+            {
+                "word": "Vollendung",
+                "article": "die"
+            },
+            {
+                "word": "Vollzeitstelle",
+                "article": "die"
+            },
+            {
+                "word": "Vorahnung",
+                "article": "die"
+            },
+            {
+                "word": "Vorauszahlung",
+                "article": "die"
+            },
+            {
+                "word": "Vordermann",
+                "article": "der"
+            },
+            {
+                "word": "Vorfreude",
+                "article": "die"
+            },
+            {
+                "word": "Vorgabe",
+                "article": "die"
+            },
+            {
+                "word": "Vorg\u00e4nger",
+                "article": "der"
+            },
+            {
+                "word": "Vorgehen",
+                "article": "das"
+            },
+            {
+                "word": "Vorgehensweise",
+                "article": "die"
+            },
+            {
+                "word": "Vorhaben",
+                "article": "das"
+            },
+            {
+                "word": "Vorh\u00e4ngeschloss",
+                "article": "das"
+            },
+            {
+                "word": "Vorlage",
+                "article": "die"
+            },
+            {
+                "word": "Vorlesewettbewerb",
+                "article": "der"
+            },
+            {
+                "word": "Vormacht",
+                "article": "die"
+            },
+            {
+                "word": "Vorrang",
+                "article": "der"
+            },
+            {
+                "word": "Vorrat",
+                "article": "der"
+            },
+            {
+                "word": "Vorredner",
+                "article": "der"
+            },
+            {
+                "word": "Vorrednerin",
+                "article": "die"
+            },
+            {
+                "word": "Vorreiter",
+                "article": "der"
+            },
+            {
+                "word": "Vorstand",
+                "article": "der"
+            },
+            {
+                "word": "Vorstufe",
+                "article": "die"
+            },
+            {
+                "word": "Vorwand",
+                "article": "der"
+            },
+            {
+                "word": "Vorwort",
+                "article": "das"
+            },
+            {
+                "word": "Vulkanismus",
+                "article": "der"
             }
         ]
     }
