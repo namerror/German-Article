@@ -4391,6 +4391,168 @@
                 "word": "Vorwahl",
                 "article": "die"
             }
+        ],
+        "W": [
+            {
+                "word": "Wald",
+                "article": "der"
+            },
+            {
+                "word": "Walking",
+                "article": "das"
+            },
+            {
+                "word": "Walzer",
+                "article": "der"
+            },
+            {
+                "word": "Waschmaschine",
+                "article": "die"
+            },
+            {
+                "word": "Wasser",
+                "article": "das"
+            },
+            {
+                "word": "Wattenmeer",
+                "article": "das"
+            },
+            {
+                "word": "Webseite",
+                "article": "die"
+            },
+            {
+                "word": "Wecker",
+                "article": "der"
+            },
+            {
+                "word": "Weg",
+                "article": "der"
+            },
+            {
+                "word": "Weide",
+                "article": "die"
+            },
+            {
+                "word": "Weihnachten",
+                "article": "das"
+            },
+            {
+                "word": "Weihnachtsmarkt",
+                "article": "der"
+            },
+            {
+                "word": "Wein",
+                "article": "der"
+            },
+            {
+                "word": "Welt",
+                "article": "die"
+            },
+            {
+                "word": "Werkstatt",
+                "article": "die"
+            },
+            {
+                "word": "Westen",
+                "article": "der"
+            },
+            {
+                "word": "Wetter",
+                "article": "das"
+            },
+            {
+                "word": "Wiedersehen",
+                "article": "das"
+            },
+            {
+                "word": "Wind",
+                "article": "der"
+            },
+            {
+                "word": "Winter",
+                "article": "der"
+            },
+            {
+                "word": "Winterjacke",
+                "article": "die"
+            },
+            {
+                "word": "Wirtschaftsrecht",
+                "article": "das"
+            },
+            {
+                "word": "Witz",
+                "article": "der"
+            },
+            {
+                "word": "Woche",
+                "article": "die"
+            },
+            {
+                "word": "Wochenende",
+                "article": "das"
+            },
+            {
+                "word": "Wochentag",
+                "article": "der"
+            },
+            {
+                "word": "W\u00f6rterbuch",
+                "article": "das"
+            },
+            {
+                "word": "Wohl",
+                "article": "das"
+            },
+            {
+                "word": "Wohnfl\u00e4che",
+                "article": "die"
+            },
+            {
+                "word": "Wohnhaus",
+                "article": "das"
+            },
+            {
+                "word": "Wohnort",
+                "article": "der"
+            },
+            {
+                "word": "Wohnraum",
+                "article": "der"
+            },
+            {
+                "word": "Wohnung",
+                "article": "die"
+            },
+            {
+                "word": "Wohnungssuche",
+                "article": "die"
+            },
+            {
+                "word": "Wohnzimmer",
+                "article": "das"
+            },
+            {
+                "word": "Wort",
+                "article": "das"
+            },
+            {
+                "word": "W\u00fcrfel",
+                "article": "der"
+            },
+            {
+                "word": "W\u00fcrstchen",
+                "article": "das"
+            },
+            {
+                "word": "Wunsch",
+                "article": "der"
+            },
+            {
+                "word": "Wurst",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -7679,6 +7841,144 @@
             },
             {
                 "word": "Vorurteil",
+                "article": "das"
+            }
+        ],
+        "W": [
+            {
+                "word": "W\u00e4sche",
+                "article": "die"
+            },
+            {
+                "word": "Wagen",
+                "article": "der"
+            },
+            {
+                "word": "Waggon",
+                "article": "der"
+            },
+            {
+                "word": "Wahnsinn",
+                "article": "der"
+            },
+            {
+                "word": "Wahrzeichen",
+                "article": "das"
+            },
+            {
+                "word": "Wand",
+                "article": "die"
+            },
+            {
+                "word": "Wanderschaft",
+                "article": "die"
+            },
+            {
+                "word": "Wanderung",
+                "article": "die"
+            },
+            {
+                "word": "Wartezimmer",
+                "article": "das"
+            },
+            {
+                "word": "Weihnachtszeit",
+                "article": "die"
+            },
+            {
+                "word": "Wei\u00dfbrot",
+                "article": "das"
+            },
+            {
+                "word": "Weltraum",
+                "article": "der"
+            },
+            {
+                "word": "Werbung",
+                "article": "die"
+            },
+            {
+                "word": "Werktag",
+                "article": "der"
+            },
+            {
+                "word": "Werkzeug",
+                "article": "das"
+            },
+            {
+                "word": "Wert",
+                "article": "der"
+            },
+            {
+                "word": "Wettbewerb",
+                "article": "der"
+            },
+            {
+                "word": "Wettkampf",
+                "article": "der"
+            },
+            {
+                "word": "Widerspruch",
+                "article": "der"
+            },
+            {
+                "word": "Wiese",
+                "article": "die"
+            },
+            {
+                "word": "Wildpark",
+                "article": "der"
+            },
+            {
+                "word": "Wildschwein",
+                "article": "das"
+            },
+            {
+                "word": "Wirklichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Wirtschaft",
+                "article": "die"
+            },
+            {
+                "word": "Wissen",
+                "article": "das"
+            },
+            {
+                "word": "Wohnheim",
+                "article": "das"
+            },
+            {
+                "word": "Wohnungsschl\u00fcssel",
+                "article": "der"
+            },
+            {
+                "word": "Wolf",
+                "article": "der"
+            },
+            {
+                "word": "Wolke",
+                "article": "die"
+            },
+            {
+                "word": "Wollm\u00fctze",
+                "article": "die"
+            },
+            {
+                "word": "Workshop",
+                "article": "der"
+            },
+            {
+                "word": "Wortschatz",
+                "article": "der"
+            },
+            {
+                "word": "Wunde",
+                "article": "die"
+            },
+            {
+                "word": "Wurstbrot",
                 "article": "das"
             }
         ]
@@ -12025,6 +12325,204 @@
             },
             {
                 "word": "Vorwurf",
+                "article": "der"
+            }
+        ],
+        "W": [
+            {
+                "word": "Waage",
+                "article": "die"
+            },
+            {
+                "word": "W\u00e4rme",
+                "article": "die"
+            },
+            {
+                "word": "Wahl",
+                "article": "die"
+            },
+            {
+                "word": "Wahrheit",
+                "article": "die"
+            },
+            {
+                "word": "Waisenjunge",
+                "article": "der"
+            },
+            {
+                "word": "Wanderer",
+                "article": "der"
+            },
+            {
+                "word": "Wanne",
+                "article": "die"
+            },
+            {
+                "word": "Wappentier",
+                "article": "das"
+            },
+            {
+                "word": "Ware",
+                "article": "die"
+            },
+            {
+                "word": "Waschmittel",
+                "article": "das"
+            },
+            {
+                "word": "Wassermann",
+                "article": "der"
+            },
+            {
+                "word": "Wasserverbrauch",
+                "article": "der"
+            },
+            {
+                "word": "Weiterbildung",
+                "article": "die"
+            },
+            {
+                "word": "Weltkrieg",
+                "article": "der"
+            },
+            {
+                "word": "Weltmarkt",
+                "article": "der"
+            },
+            {
+                "word": "Weltmeister",
+                "article": "der"
+            },
+            {
+                "word": "Weltmeisterschaft",
+                "article": "die"
+            },
+            {
+                "word": "Weltreise",
+                "article": "die"
+            },
+            {
+                "word": "Wende",
+                "article": "die"
+            },
+            {
+                "word": "Wendepunkt",
+                "article": "der"
+            },
+            {
+                "word": "Werbeagentur",
+                "article": "die"
+            },
+            {
+                "word": "Werbesprache",
+                "article": "die"
+            },
+            {
+                "word": "Werbetext",
+                "article": "der"
+            },
+            {
+                "word": "Werk",
+                "article": "das"
+            },
+            {
+                "word": "Wespe",
+                "article": "die"
+            },
+            {
+                "word": "Western",
+                "article": "der"
+            },
+            {
+                "word": "Wetterbericht",
+                "article": "der"
+            },
+            {
+                "word": "Wettervorhersage",
+                "article": "die"
+            },
+            {
+                "word": "Widder",
+                "article": "der"
+            },
+            {
+                "word": "Wiedervereinigung",
+                "article": "die"
+            },
+            {
+                "word": "Wildnis",
+                "article": "die"
+            },
+            {
+                "word": "Wille",
+                "article": "der"
+            },
+            {
+                "word": "Wirbels\u00e4ule",
+                "article": "die"
+            },
+            {
+                "word": "Wirkung",
+                "article": "die"
+            },
+            {
+                "word": "Wirt",
+                "article": "der"
+            },
+            {
+                "word": "Wissenschaftlerin",
+                "article": "die"
+            },
+            {
+                "word": "Wochenmarkt",
+                "article": "der"
+            },
+            {
+                "word": "Wohlstand",
+                "article": "der"
+            },
+            {
+                "word": "Wohnblock",
+                "article": "der"
+            },
+            {
+                "word": "Wohngeld",
+                "article": "das"
+            },
+            {
+                "word": "Wohngemeinschaft",
+                "article": "die"
+            },
+            {
+                "word": "Wohnungsamt",
+                "article": "das"
+            },
+            {
+                "word": "Wohnungsbau",
+                "article": "der"
+            },
+            {
+                "word": "Wolle",
+                "article": "die"
+            },
+            {
+                "word": "Wortfamilie",
+                "article": "die"
+            },
+            {
+                "word": "Wortliste",
+                "article": "die"
+            },
+            {
+                "word": "Wortspiel",
+                "article": "das"
+            },
+            {
+                "word": "Wunder",
+                "article": "das"
+            },
+            {
+                "word": "Wurf",
                 "article": "der"
             }
         ]
@@ -18504,6 +19002,228 @@
             {
                 "word": "Vulkanausbruch",
                 "article": "der"
+            }
+        ],
+        "W": [
+            {
+                "word": "Wachdienst",
+                "article": "der"
+            },
+            {
+                "word": "Wachturm",
+                "article": "der"
+            },
+            {
+                "word": "Waffe",
+                "article": "die"
+            },
+            {
+                "word": "Wahrnehmung",
+                "article": "die"
+            },
+            {
+                "word": "Waise",
+                "article": "die"
+            },
+            {
+                "word": "Wandel",
+                "article": "der"
+            },
+            {
+                "word": "Wanderarbeiter",
+                "article": "der"
+            },
+            {
+                "word": "Wanderarbeiterin",
+                "article": "die"
+            },
+            {
+                "word": "Wange",
+                "article": "die"
+            },
+            {
+                "word": "Warnsignal",
+                "article": "das"
+            },
+            {
+                "word": "Warteschlange",
+                "article": "die"
+            },
+            {
+                "word": "Wartezeit",
+                "article": "die"
+            },
+            {
+                "word": "Wechsel",
+                "article": "der"
+            },
+            {
+                "word": "Weibchen",
+                "article": "das"
+            },
+            {
+                "word": "Weiche",
+                "article": "die"
+            },
+            {
+                "word": "Weile",
+                "article": "die"
+            },
+            {
+                "word": "Weise",
+                "article": "die"
+            },
+            {
+                "word": "Weitergabe",
+                "article": "die"
+            },
+            {
+                "word": "Wellenl\u00e4nge",
+                "article": "die"
+            },
+            {
+                "word": "Wellenlinie",
+                "article": "die"
+            },
+            {
+                "word": "Weltanschauung",
+                "article": "die"
+            },
+            {
+                "word": "Weltbank",
+                "article": "die"
+            },
+            {
+                "word": "Weltbild",
+                "article": "das"
+            },
+            {
+                "word": "Weltgeschichte",
+                "article": "die"
+            },
+            {
+                "word": "Weltkulturerbe",
+                "article": "das"
+            },
+            {
+                "word": "Weltsprache",
+                "article": "die"
+            },
+            {
+                "word": "Weltumsegelung",
+                "article": "die"
+            },
+            {
+                "word": "Weltwunder",
+                "article": "das"
+            },
+            {
+                "word": "Werbegrafik",
+                "article": "die"
+            },
+            {
+                "word": "Werbetr\u00e4ger",
+                "article": "der"
+            },
+            {
+                "word": "Wertung",
+                "article": "die"
+            },
+            {
+                "word": "Weste",
+                "article": "die"
+            },
+            {
+                "word": "Wette",
+                "article": "die"
+            },
+            {
+                "word": "Wichtigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Widerstandskraft",
+                "article": "die"
+            },
+            {
+                "word": "Windel",
+                "article": "die"
+            },
+            {
+                "word": "Windeseile",
+                "article": "die"
+            },
+            {
+                "word": "Wirkstoff",
+                "article": "der"
+            },
+            {
+                "word": "Wirrwarr",
+                "article": "der"
+            },
+            {
+                "word": "Wirtschaftssektor",
+                "article": "der"
+            },
+            {
+                "word": "Wirtschaftsverband",
+                "article": "der"
+            },
+            {
+                "word": "Wirtschaftszweig",
+                "article": "der"
+            },
+            {
+                "word": "Wissenschaftler",
+                "article": "der"
+            },
+            {
+                "word": "Wissenschaftssprache",
+                "article": "die"
+            },
+            {
+                "word": "Witwe",
+                "article": "die"
+            },
+            {
+                "word": "Witwer",
+                "article": "der"
+            },
+            {
+                "word": "Wohlbefinden",
+                "article": "das"
+            },
+            {
+                "word": "Wohlfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Wohlfahrtsorganisation",
+                "article": "die"
+            },
+            {
+                "word": "Wohnsitz",
+                "article": "der"
+            },
+            {
+                "word": "Wortgepl\u00e4nkel",
+                "article": "das"
+            },
+            {
+                "word": "Wortwechsel",
+                "article": "der"
+            },
+            {
+                "word": "W\u00fcrde",
+                "article": "die"
+            },
+            {
+                "word": "W\u00fcste",
+                "article": "die"
+            },
+            {
+                "word": "Wut",
+                "article": "die"
             }
         ]
     },
@@ -25521,6 +26241,312 @@
             },
             {
                 "word": "Vulkanismus",
+                "article": "der"
+            }
+        ],
+        "W": [
+            {
+                "word": "Wabe",
+                "article": "die"
+            },
+            {
+                "word": "W\u00e4hrungssystem",
+                "article": "das"
+            },
+            {
+                "word": "W\u00e4rmestrahlung",
+                "article": "die"
+            },
+            {
+                "word": "Wahlheimat",
+                "article": "die"
+            },
+            {
+                "word": "Wahlkreis",
+                "article": "der"
+            },
+            {
+                "word": "Wahn",
+                "article": "der"
+            },
+            {
+                "word": "Wahrscheinlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Wahrung",
+                "article": "die"
+            },
+            {
+                "word": "Waisenhaus",
+                "article": "das"
+            },
+            {
+                "word": "Waisenkind",
+                "article": "das"
+            },
+            {
+                "word": "Wal",
+                "article": "der"
+            },
+            {
+                "word": "Wandelhalle",
+                "article": "die"
+            },
+            {
+                "word": "Wanderungsbewegung",
+                "article": "die"
+            },
+            {
+                "word": "Warenprobe",
+                "article": "die"
+            },
+            {
+                "word": "Warmwasser",
+                "article": "das"
+            },
+            {
+                "word": "Waschbenzin",
+                "article": "das"
+            },
+            {
+                "word": "Waschtisch",
+                "article": "der"
+            },
+            {
+                "word": "Wasserleitung",
+                "article": "die"
+            },
+            {
+                "word": "Wasserstoff",
+                "article": "der"
+            },
+            {
+                "word": "Wasserversorgung",
+                "article": "die"
+            },
+            {
+                "word": "Watt",
+                "article": "das"
+            },
+            {
+                "word": "Weber",
+                "article": "der"
+            },
+            {
+                "word": "Wegbereiter",
+                "article": "der"
+            },
+            {
+                "word": "Weh",
+                "article": "das"
+            },
+            {
+                "word": "Wehrdienst",
+                "article": "der"
+            },
+            {
+                "word": "Weihnachtsfeier",
+                "article": "die"
+            },
+            {
+                "word": "Weihnachtsmann",
+                "article": "der"
+            },
+            {
+                "word": "Weinlaub",
+                "article": "das"
+            },
+            {
+                "word": "Wei\u00dfwein",
+                "article": "der"
+            },
+            {
+                "word": "Weltall",
+                "article": "das"
+            },
+            {
+                "word": "Welthandel",
+                "article": "der"
+            },
+            {
+                "word": "Weltliteratur",
+                "article": "die"
+            },
+            {
+                "word": "Weltsicht",
+                "article": "die"
+            },
+            {
+                "word": "Weltspitze",
+                "article": "die"
+            },
+            {
+                "word": "Weltuntergang",
+                "article": "der"
+            },
+            {
+                "word": "Weltverbesserer",
+                "article": "der"
+            },
+            {
+                "word": "Weltwirtschaft",
+                "article": "die"
+            },
+            {
+                "word": "Wendung",
+                "article": "die"
+            },
+            {
+                "word": "Werbeabteilung",
+                "article": "die"
+            },
+            {
+                "word": "Werbeslogan",
+                "article": "der"
+            },
+            {
+                "word": "Werdegang",
+                "article": "der"
+            },
+            {
+                "word": "Wermutstropfen",
+                "article": "der"
+            },
+            {
+                "word": "Wertsache",
+                "article": "die"
+            },
+            {
+                "word": "Wesen",
+                "article": "das"
+            },
+            {
+                "word": "Wettbewerber",
+                "article": "der"
+            },
+            {
+                "word": "Wettstreit",
+                "article": "der"
+            },
+            {
+                "word": "Widerruf",
+                "article": "der"
+            },
+            {
+                "word": "Widerstand",
+                "article": "der"
+            },
+            {
+                "word": "Widerstandsk\u00e4mpfer",
+                "article": "der"
+            },
+            {
+                "word": "Wiederaufbau",
+                "article": "der"
+            },
+            {
+                "word": "Wiederherstellung",
+                "article": "die"
+            },
+            {
+                "word": "Willk\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "Windkraft",
+                "article": "die"
+            },
+            {
+                "word": "Windkraftanlage",
+                "article": "die"
+            },
+            {
+                "word": "Windm\u00fchle",
+                "article": "die"
+            },
+            {
+                "word": "Wintergarten",
+                "article": "der"
+            },
+            {
+                "word": "Wirbelsturm",
+                "article": "der"
+            },
+            {
+                "word": "Wirksamkeit",
+                "article": "die"
+            },
+            {
+                "word": "Wirtschaftlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "Wirtschaftsgipfel",
+                "article": "der"
+            },
+            {
+                "word": "Wirtschaftsinformatiker",
+                "article": "der"
+            },
+            {
+                "word": "Wirtschaftslage",
+                "article": "die"
+            },
+            {
+                "word": "Wirtschaftswunder",
+                "article": "das"
+            },
+            {
+                "word": "Wochenendbeilage",
+                "article": "die"
+            },
+            {
+                "word": "Wohlergehen",
+                "article": "das"
+            },
+            {
+                "word": "Wohlfahrtsstaat",
+                "article": "der"
+            },
+            {
+                "word": "Wohnungsnot",
+                "article": "die"
+            },
+            {
+                "word": "Wohnungst\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "Wolldecke",
+                "article": "die"
+            },
+            {
+                "word": "Wollfaden",
+                "article": "der"
+            },
+            {
+                "word": "Wortmeldung",
+                "article": "die"
+            },
+            {
+                "word": "Wucht",
+                "article": "die"
+            },
+            {
+                "word": "W\u00fcrfelzucker",
+                "article": "der"
+            },
+            {
+                "word": "Wunderkind",
+                "article": "das"
+            },
+            {
+                "word": "Wunderwerk",
+                "article": "das"
+            },
+            {
+                "word": "Wutausbruch",
                 "article": "der"
             }
         ]
