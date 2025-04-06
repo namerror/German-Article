@@ -4649,6 +4649,16 @@
                 "word": "Zwiebelkuchen",
                 "article": "der"
             }
+        ],
+        "\u00c4": [
+            {
+                "word": "\u00c4rger",
+                "article": "der"
+            },
+            {
+                "word": "\u00c4rztin",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -8161,7 +8171,8 @@
                 "word": "Zuschauer",
                 "article": "der"
             }
-        ]
+        ],
+        "\u00c4": []
     },
     "B1": {
         "A": [
@@ -12867,6 +12878,16 @@
             },
             {
                 "word": "Zwischenmahlzeit",
+                "article": "die"
+            }
+        ],
+        "\u00c4": [
+            {
+                "word": "\u00c4nderung",
+                "article": "die"
+            },
+            {
+                "word": "\u00c4u\u00dferung",
                 "article": "die"
             }
         ]
@@ -19724,6 +19745,16 @@
             {
                 "word": "Zwischenfall",
                 "article": "der"
+            }
+        ],
+        "\u00c4": [
+            {
+                "word": "\u00c4quator",
+                "article": "der"
+            },
+            {
+                "word": "\u00c4u\u00dfere",
+                "article": "das"
             }
         ]
     },
@@ -27249,6 +27280,7 @@
                 "word": "Zyklus",
                 "article": "der"
             }
-        ]
+        ],
+        "\u00c4": []
     }
 }
