@@ -4553,6 +4553,102 @@
                 "word": "Wurst",
                 "article": "die"
             }
+        ],
+        "X": [],
+        "Y": [],
+        "Z": [
+            {
+                "word": "Zahl",
+                "article": "die"
+            },
+            {
+                "word": "Zahn",
+                "article": "der"
+            },
+            {
+                "word": "Zahnarzt",
+                "article": "der"
+            },
+            {
+                "word": "Zahnschmerz",
+                "article": "der"
+            },
+            {
+                "word": "Zeichen",
+                "article": "das"
+            },
+            {
+                "word": "Zeit",
+                "article": "die"
+            },
+            {
+                "word": "Zeitschrift",
+                "article": "die"
+            },
+            {
+                "word": "Zeitung",
+                "article": "die"
+            },
+            {
+                "word": "Zelt",
+                "article": "das"
+            },
+            {
+                "word": "Zentimeter",
+                "article": "der"
+            },
+            {
+                "word": "Zentrum",
+                "article": "das"
+            },
+            {
+                "word": "Zettel",
+                "article": "der"
+            },
+            {
+                "word": "Ziel",
+                "article": "das"
+            },
+            {
+                "word": "Zigarette",
+                "article": "die"
+            },
+            {
+                "word": "Zimmer",
+                "article": "das"
+            },
+            {
+                "word": "Zimmerschl\u00fcssel",
+                "article": "der"
+            },
+            {
+                "word": "Zirkus",
+                "article": "der"
+            },
+            {
+                "word": "Zitrone",
+                "article": "die"
+            },
+            {
+                "word": "Zoll",
+                "article": "der"
+            },
+            {
+                "word": "Zucker",
+                "article": "der"
+            },
+            {
+                "word": "Zug",
+                "article": "der"
+            },
+            {
+                "word": "Zwiebel",
+                "article": "die"
+            },
+            {
+                "word": "Zwiebelkuchen",
+                "article": "der"
+            }
         ]
     },
     "A2": {
@@ -7980,6 +8076,90 @@
             {
                 "word": "Wurstbrot",
                 "article": "das"
+            }
+        ],
+        "Y": [
+            {
+                "word": "Yoga",
+                "article": "das"
+            }
+        ],
+        "Z": [
+            {
+                "word": "Zahnspange",
+                "article": "die"
+            },
+            {
+                "word": "Zaun",
+                "article": "der"
+            },
+            {
+                "word": "Zeichnung",
+                "article": "die"
+            },
+            {
+                "word": "Zeile",
+                "article": "die"
+            },
+            {
+                "word": "Zeitplan",
+                "article": "der"
+            },
+            {
+                "word": "Zeitpunkt",
+                "article": "der"
+            },
+            {
+                "word": "Zeitreise",
+                "article": "die"
+            },
+            {
+                "word": "Zeitungsartikel",
+                "article": "der"
+            },
+            {
+                "word": "Zeremonie",
+                "article": "die"
+            },
+            {
+                "word": "Zeugnis",
+                "article": "das"
+            },
+            {
+                "word": "Zitronensaft",
+                "article": "der"
+            },
+            {
+                "word": "Zoo",
+                "article": "der"
+            },
+            {
+                "word": "Zugfahrt",
+                "article": "die"
+            },
+            {
+                "word": "Zugverbindung",
+                "article": "die"
+            },
+            {
+                "word": "Zuhause",
+                "article": "das"
+            },
+            {
+                "word": "Zuh\u00f6rer",
+                "article": "der"
+            },
+            {
+                "word": "Zukunft",
+                "article": "die"
+            },
+            {
+                "word": "Zusammenfassung",
+                "article": "die"
+            },
+            {
+                "word": "Zuschauer",
+                "article": "der"
             }
         ]
     },
@@ -12524,6 +12704,170 @@
             {
                 "word": "Wurf",
                 "article": "der"
+            }
+        ],
+        "X": [],
+        "Y": [],
+        "Z": [
+            {
+                "word": "Zahlung",
+                "article": "die"
+            },
+            {
+                "word": "Zahnb\u00fcrste",
+                "article": "die"
+            },
+            {
+                "word": "Zahncreme",
+                "article": "die"
+            },
+            {
+                "word": "Zauberer",
+                "article": "der"
+            },
+            {
+                "word": "Zauberin",
+                "article": "die"
+            },
+            {
+                "word": "Zauberstab",
+                "article": "der"
+            },
+            {
+                "word": "Zaubertrick",
+                "article": "der"
+            },
+            {
+                "word": "Zebra",
+                "article": "das"
+            },
+            {
+                "word": "Zeitarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Zeitraum",
+                "article": "der"
+            },
+            {
+                "word": "Zentrale",
+                "article": "die"
+            },
+            {
+                "word": "Zerst\u00f6rung",
+                "article": "die"
+            },
+            {
+                "word": "Zertifikat",
+                "article": "das"
+            },
+            {
+                "word": "Zeug",
+                "article": "das"
+            },
+            {
+                "word": "Zeuge",
+                "article": "der"
+            },
+            {
+                "word": "Ziege",
+                "article": "die"
+            },
+            {
+                "word": "Zimmert\u00fcr",
+                "article": "die"
+            },
+            {
+                "word": "Zirkusdirektor",
+                "article": "der"
+            },
+            {
+                "word": "Zitat",
+                "article": "das"
+            },
+            {
+                "word": "Zitronenbaum",
+                "article": "der"
+            },
+            {
+                "word": "Zitronenschale",
+                "article": "die"
+            },
+            {
+                "word": "Zivilcourage",
+                "article": "die"
+            },
+            {
+                "word": "Zone",
+                "article": "die"
+            },
+            {
+                "word": "Zoodirektor",
+                "article": "der"
+            },
+            {
+                "word": "Z\u00fcnder",
+                "article": "der"
+            },
+            {
+                "word": "Z\u00fcndholz",
+                "article": "das"
+            },
+            {
+                "word": "Zufall",
+                "article": "der"
+            },
+            {
+                "word": "Zufriedenheit",
+                "article": "die"
+            },
+            {
+                "word": "Zulassung",
+                "article": "die"
+            },
+            {
+                "word": "Zuordnung",
+                "article": "die"
+            },
+            {
+                "word": "Zusage",
+                "article": "die"
+            },
+            {
+                "word": "Zusammenarbeit",
+                "article": "die"
+            },
+            {
+                "word": "Zusammenhang",
+                "article": "der"
+            },
+            {
+                "word": "Zustand",
+                "article": "der"
+            },
+            {
+                "word": "Zustimmung",
+                "article": "die"
+            },
+            {
+                "word": "Zuwanderer",
+                "article": "der"
+            },
+            {
+                "word": "Zweck",
+                "article": "der"
+            },
+            {
+                "word": "Zweifel",
+                "article": "der"
+            },
+            {
+                "word": "Zwilling",
+                "article": "der"
+            },
+            {
+                "word": "Zwischenmahlzeit",
+                "article": "die"
             }
         ]
     },
@@ -19224,6 +19568,162 @@
             {
                 "word": "Wut",
                 "article": "die"
+            }
+        ],
+        "X": [],
+        "Y": [],
+        "Z": [
+            {
+                "word": "Zahnpastatube",
+                "article": "die"
+            },
+            {
+                "word": "Zeigefinger",
+                "article": "der"
+            },
+            {
+                "word": "Zeiger",
+                "article": "der"
+            },
+            {
+                "word": "Zeitalter",
+                "article": "das"
+            },
+            {
+                "word": "Zeitgeist",
+                "article": "der"
+            },
+            {
+                "word": "Zeitgeschmack",
+                "article": "der"
+            },
+            {
+                "word": "Zeitmangel",
+                "article": "der"
+            },
+            {
+                "word": "Zeitspanne",
+                "article": "die"
+            },
+            {
+                "word": "Zeitvertreib",
+                "article": "der"
+            },
+            {
+                "word": "Zeitzeuge",
+                "article": "der"
+            },
+            {
+                "word": "Zeitzeugin",
+                "article": "die"
+            },
+            {
+                "word": "Zelle",
+                "article": "die"
+            },
+            {
+                "word": "Zensur",
+                "article": "die"
+            },
+            {
+                "word": "Zerfall",
+                "article": "der"
+            },
+            {
+                "word": "Zerrissenheit",
+                "article": "die"
+            },
+            {
+                "word": "Zertifizierung",
+                "article": "die"
+            },
+            {
+                "word": "Ziffer",
+                "article": "die"
+            },
+            {
+                "word": "Zifferblatt",
+                "article": "das"
+            },
+            {
+                "word": "Zitronenpresse",
+                "article": "die"
+            },
+            {
+                "word": "Zoologe",
+                "article": "der"
+            },
+            {
+                "word": "Zubeh\u00f6r",
+                "article": "das"
+            },
+            {
+                "word": "Zugabe",
+                "article": "die"
+            },
+            {
+                "word": "Zugang",
+                "article": "der"
+            },
+            {
+                "word": "Zugest\u00e4ndnis",
+                "article": "das"
+            },
+            {
+                "word": "Zugungl\u00fcck",
+                "article": "das"
+            },
+            {
+                "word": "Zukunftsvision",
+                "article": "die"
+            },
+            {
+                "word": "Zulauf",
+                "article": "der"
+            },
+            {
+                "word": "Zumutung",
+                "article": "die"
+            },
+            {
+                "word": "Zunahme",
+                "article": "die"
+            },
+            {
+                "word": "Zuneigung",
+                "article": "die"
+            },
+            {
+                "word": "Zusammenbruch",
+                "article": "der"
+            },
+            {
+                "word": "Zusammenspiel",
+                "article": "das"
+            },
+            {
+                "word": "Zuschrift",
+                "article": "die"
+            },
+            {
+                "word": "Zutritt",
+                "article": "der"
+            },
+            {
+                "word": "Zweifelsfall",
+                "article": "der"
+            },
+            {
+                "word": "Zweig",
+                "article": "der"
+            },
+            {
+                "word": "Zwerg",
+                "article": "der"
+            },
+            {
+                "word": "Zwischenfall",
+                "article": "der"
             }
         ]
     },
@@ -26547,6 +27047,206 @@
             },
             {
                 "word": "Wutausbruch",
+                "article": "der"
+            }
+        ],
+        "X": [],
+        "Y": [],
+        "Z": [
+            {
+                "word": "Zahlungsmittel",
+                "article": "das"
+            },
+            {
+                "word": "Zahlungsunf\u00e4higkeit",
+                "article": "die"
+            },
+            {
+                "word": "Zahnfleisch",
+                "article": "das"
+            },
+            {
+                "word": "Zahnmedizin",
+                "article": "die"
+            },
+            {
+                "word": "Zahnpasta",
+                "article": "die"
+            },
+            {
+                "word": "Zank",
+                "article": "der"
+            },
+            {
+                "word": "Zeche",
+                "article": "die"
+            },
+            {
+                "word": "Zeichner",
+                "article": "der"
+            },
+            {
+                "word": "Zeitdruck",
+                "article": "der"
+            },
+            {
+                "word": "Zeiteinheit",
+                "article": "die"
+            },
+            {
+                "word": "Zeitgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Zeitgenosse",
+                "article": "der"
+            },
+            {
+                "word": "Zeitmanagement",
+                "article": "das"
+            },
+            {
+                "word": "Zeitungsausschnitt",
+                "article": "der"
+            },
+            {
+                "word": "Zeitungsverlag",
+                "article": "der"
+            },
+            {
+                "word": "Zeitverschwendung",
+                "article": "die"
+            },
+            {
+                "word": "Zentralkomitee",
+                "article": "das"
+            },
+            {
+                "word": "Zersplitterung",
+                "article": "die"
+            },
+            {
+                "word": "Zerst\u00f6rungswut",
+                "article": "die"
+            },
+            {
+                "word": "Zerstreuung",
+                "article": "die"
+            },
+            {
+                "word": "Zeugenaussage",
+                "article": "die"
+            },
+            {
+                "word": "Zicke",
+                "article": "die"
+            },
+            {
+                "word": "Zielgruppe",
+                "article": "die"
+            },
+            {
+                "word": "Zielland",
+                "article": "das"
+            },
+            {
+                "word": "Zielstrebigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Zins",
+                "article": "der"
+            },
+            {
+                "word": "Zinssatz",
+                "article": "der"
+            },
+            {
+                "word": "Zivilbev\u00f6lkerung",
+                "article": "die"
+            },
+            {
+                "word": "Zivilist",
+                "article": "der"
+            },
+            {
+                "word": "Zocker",
+                "article": "der"
+            },
+            {
+                "word": "Z\u00f6gling",
+                "article": "der"
+            },
+            {
+                "word": "Zoff",
+                "article": "der"
+            },
+            {
+                "word": "Zubereitung",
+                "article": "die"
+            },
+            {
+                "word": "Zucht",
+                "article": "die"
+            },
+            {
+                "word": "Z\u00fcndschl\u00fcssel",
+                "article": "der"
+            },
+            {
+                "word": "Zufluchtsort",
+                "article": "der"
+            },
+            {
+                "word": "Zugriff",
+                "article": "der"
+            },
+            {
+                "word": "Zuhilfenahme",
+                "article": "die"
+            },
+            {
+                "word": "Zunge",
+                "article": "die"
+            },
+            {
+                "word": "Zusammengeh\u00f6rigkeitsgef\u00fchl",
+                "article": "das"
+            },
+            {
+                "word": "Zusammenschluss",
+                "article": "der"
+            },
+            {
+                "word": "Zust\u00e4ndigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Zuverl\u00e4ssigkeit",
+                "article": "die"
+            },
+            {
+                "word": "Zuwachs",
+                "article": "der"
+            },
+            {
+                "word": "Zuwanderung",
+                "article": "die"
+            },
+            {
+                "word": "Zuwendung",
+                "article": "die"
+            },
+            {
+                "word": "Zwang",
+                "article": "der"
+            },
+            {
+                "word": "Zwischenfrage",
+                "article": "die"
+            },
+            {
+                "word": "Zyklus",
                 "article": "der"
             }
         ]
