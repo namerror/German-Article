@@ -4669,6 +4669,20 @@
                 "word": "\u00d6l",
                 "article": "das"
             }
+        ],
+        "\u00dc": [
+            {
+                "word": "\u00dcberraschung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberschrift",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbung",
+                "article": "die"
+            }
         ]
     },
     "A2": {
@@ -8190,6 +8204,28 @@
             },
             {
                 "word": "\u00d6sterreicherin",
+                "article": "die"
+            }
+        ],
+        "\u00dc": [
+            {
+                "word": "\u00dcberlegung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbersetzer",
+                "article": "der"
+            },
+            {
+                "word": "\u00dcbersetzung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbersicht",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberweisung",
                 "article": "die"
             }
         ]
@@ -12914,6 +12950,24 @@
         "\u00d6": [
             {
                 "word": "\u00d6ffnung",
+                "article": "die"
+            }
+        ],
+        "\u00dc": [
+            {
+                "word": "\u00dcbernachtung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbernahme",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberstunde",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberzeugung",
                 "article": "die"
             }
         ]
@@ -19798,6 +19852,56 @@
             },
             {
                 "word": "\u00d6konomie",
+                "article": "die"
+            }
+        ],
+        "\u00dc": [
+            {
+                "word": "\u00dcbel",
+                "article": "das"
+            },
+            {
+                "word": "\u00dcbelkeit",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberblick",
+                "article": "der"
+            },
+            {
+                "word": "\u00dcberempfindlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbergang",
+                "article": "der"
+            },
+            {
+                "word": "\u00dcberlegenheit",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberleitung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberrest",
+                "article": "der"
+            },
+            {
+                "word": "\u00dcbertragung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbertreibung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberwindung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberzeugungskraft",
                 "article": "die"
             }
         ]
@@ -27329,6 +27433,60 @@
         "\u00d6": [
             {
                 "word": "\u00d6rtlichkeit",
+                "article": "die"
+            }
+        ],
+        "\u00dc": [
+            {
+                "word": "\u00dcberalterung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberbev\u00f6lkerung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberbr\u00fcckung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbereinstimmung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberfall",
+                "article": "der"
+            },
+            {
+                "word": "\u00dcberfluss",
+                "article": "der"
+            },
+            {
+                "word": "\u00dcbergewicht",
+                "article": "das"
+            },
+            {
+                "word": "\u00dcberlieferung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbermacht",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberpr\u00fcfung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcberschneidung",
+                "article": "die"
+            },
+            {
+                "word": "\u00dcbertritt",
+                "article": "der"
+            },
+            {
+                "word": "\u00dcberwachung",
                 "article": "die"
             }
         ]
