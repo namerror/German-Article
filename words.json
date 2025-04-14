@@ -4659,6 +4659,16 @@
                 "word": "\u00c4rztin",
                 "article": "die"
             }
+        ],
+        "\u00d6": [
+            {
+                "word": "\u00d6ffnungszeit",
+                "article": "die"
+            },
+            {
+                "word": "\u00d6l",
+                "article": "das"
+            }
         ]
     },
     "A2": {
@@ -8172,7 +8182,17 @@
                 "article": "der"
             }
         ],
-        "\u00c4": []
+        "\u00c4": [],
+        "\u00d6": [
+            {
+                "word": "\u00d6sterreicher",
+                "article": "der"
+            },
+            {
+                "word": "\u00d6sterreicherin",
+                "article": "die"
+            }
+        ]
     },
     "B1": {
         "A": [
@@ -12888,6 +12908,12 @@
             },
             {
                 "word": "\u00c4u\u00dferung",
+                "article": "die"
+            }
+        ],
+        "\u00d6": [
+            {
+                "word": "\u00d6ffnung",
                 "article": "die"
             }
         ]
@@ -19755,6 +19781,24 @@
             {
                 "word": "\u00c4u\u00dfere",
                 "article": "das"
+            }
+        ],
+        "\u00d6": [
+            {
+                "word": "\u00d6ffentlichkeit",
+                "article": "die"
+            },
+            {
+                "word": "\u00d6kologe",
+                "article": "der"
+            },
+            {
+                "word": "\u00d6kologin",
+                "article": "die"
+            },
+            {
+                "word": "\u00d6konomie",
+                "article": "die"
             }
         ]
     },
@@ -27281,6 +27325,12 @@
                 "article": "der"
             }
         ],
-        "\u00c4": []
+        "\u00c4": [],
+        "\u00d6": [
+            {
+                "word": "\u00d6rtlichkeit",
+                "article": "die"
+            }
+        ]
     }
 }
