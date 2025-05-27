@@ -39,7 +39,7 @@ function newWord(level) {
 }
 
 function checkAnswer(article) {
-    if (currentWord["article"] == article) {
+    if (currentWord["article"] === article) {
         showNotification("Richtig!")
         score++;
         if (score > highestScore) {
