@@ -53,6 +53,13 @@ def read_only(file, func: Callable[[dict], None]):
 
     func(obj)
 
-read_only("words.json", count_words)
+# delete empty lists from the dictionary
+def delete_empty_lists(obj):
+    for level in obj.values():
+        for letter,l in level.copy().items():
+            # if the list is empty, delete it
+            if not l:
+                del level[letter]
+
 # ONLY RUN WHEN NECESSARY
-# make_changes("words.json", replace_special_char)
+make_changes("words.json", delete_empty_lists)
